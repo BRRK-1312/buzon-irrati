@@ -483,13 +483,15 @@ function pintarTemas(){
 /* ── Filtrado y lista ── */
 function filtrados(){
   const q=$('q').value.toLowerCase().trim(), m=$('m').value;
-  return D.filter(d=>{
+  const v=D.filter(d=>{
     if(soloMarcados && !marcados.has(d.url)) return false;
     if(temaSel && d.tema!==temaSel) return false;
     if(m && d.animo!==m) return false;
     if(q && !(d.titulo+' '+(d.extracto||'')+' '+d.tema).toLowerCase().includes(q))
       return false;
     return true;});
+  /* D llega ordenado del más antiguo al más reciente */
+  return $('ord').value==='desc' ? v.reverse() : v;
 }
 
 function render(){
@@ -539,6 +541,7 @@ function render(){
 /* ── Acciones ── */
 $('q').oninput=render;
 $('m').onchange=render;
+$('ord').onchange=render;
 $('btnMarc').onclick=()=>{
   soloMarcados=!soloMarcados;
   $('btnMarc').setAttribute('aria-pressed',soloMarcados);
@@ -597,6 +600,10 @@ pintarStrip(); pintarTemas(); render();
       <option value="triste">Triste</option>
       <option value="normal">Normal</option>
       <option value="alegre">Alegre</option>
+    </select>
+    <select id="ord" aria-label="Ordenar por fecha">
+      <option value="asc">Del más antiguo al más reciente</option>
+      <option value="desc">Del más reciente al más antiguo</option>
     </select>
     <button class="pill" id="btnMarc" aria-pressed="false">Ver solo marcados</button>
     <button class="pill" id="btnCopiar">Copiar selección</button>
