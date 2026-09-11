@@ -1,0 +1,51 @@
+name: Actualizar Buzón
+
+on:
+  workflow_dispatch:
+    inputs:
+      dias:
+        description: 'Días hacia atrás a incluir'
+        required: false
+        default: '7'
+  schedule:
+    # Refresco diario a las 6:00 UTC (8:00 hora peninsular).
+    # Si no lo quieres, borra estas dos líneas.
+    - cron: '0 6 * * *'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generar informe
+        run: python scripts/scrape.py ${{ github.event.inputs.dias || '7' }}
+
+      - name: Preparar artefacto
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar en Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
