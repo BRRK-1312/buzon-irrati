@@ -38,7 +38,7 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "es-ES,es;q=0.9",
 }
-PAUSA = 0.4
+PAUSA = 0.2
 AHORA = datetime.now()
 
 # ── HTTP ───────────────────────────────────────────────────────────────────────
