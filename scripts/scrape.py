@@ -8,6 +8,7 @@ import json, re, sys, time
 from datetime import datetime, timedelta
 from pathlib import Path
 import urllib.request
+import http.cookiejar
 
 BASE = "https://www.vitoria-gasteiz.org"
 
@@ -42,11 +43,16 @@ AHORA = datetime.now()
 
 # ── HTTP ───────────────────────────────────────────────────────────────────────
 
+# La paginación del buzón depende de la sesión (cookie): la página 2+ devuelve
+# el área visitada por última vez en esa sesión. Sin cookie, llega vacía.
+_opener = urllib.request.build_opener(
+    urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+
 def fetch(url):
     req = urllib.request.Request(url, headers=HEADERS)
     for i in range(3):
         try:
-            with urllib.request.urlopen(req, timeout=25) as r:
+            with _opener.open(req, timeout=25) as r:
                 return r.read().decode("utf-8", errors="replace")
         except Exception:
             if i == 2:
