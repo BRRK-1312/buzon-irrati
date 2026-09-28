@@ -10443,7 +10443,7 @@
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=383986&claveAsuntoGestorCom=818395&claveAreaCom=",
 "fecha": "2026-09-25T18:48:45",
 "animo": "normal",
-"extracto": "Comunica al Servicio 010 que en C/La paz, la línea 6 con parada a las 17:29 y matricula 2890CJL, no ha parado. La ciudadana comenta que estaba a unos... M",
+"extracto": "Comunica al Servicio 010 que en C/La paz, la línea 6 con parada a las 17:29 y [Eliminado] no ha parado. La ciudadana comenta que estaba a unos metros... M",
 "respuesta_ayto": false,
 "tema": "TUVISA. Autobuses urbanos",
 "area": "Movilidad y transporte",
@@ -12027,6 +12027,28 @@
 {
 "autor": "UOAP",
 "fecha": "2026-09-27T22:23:34.307867"
+}
+]
+},
+{
+"titulo": "Pasarela Los ASTRONOMOS",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384057&claveAsuntoGestorCom=818465&claveAreaCom=",
+"fecha": "2026-09-27T22:56:17.000177",
+"animo": "muy_triste",
+"extracto": "Según la acta de la mesa contratación del Ayuntamiento Vitoria Gasteiz del 24 de MARZO 2026 La mesa contratación proponer la adjudicación a una...",
+"respuesta_ayto": false,
+"tema": "Obras en vía pública",
+"area": "Espacio público",
+"autor": "UOAP",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "UOAP",
+"fecha": "2026-09-27T22:56:17.000177"
 }
 ]
 },
