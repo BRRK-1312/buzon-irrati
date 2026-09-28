@@ -146,6 +146,16 @@ def parse_asuntos(html):
         animo = parse_animo(bloque)
         es_respuesta = "escudoayuntverde" in bloque
 
+        # Pie del listado: muestra el ÚLTIMO mensaje del hilo. Si lo escribió
+        # el Ayuntamiento, no aparece ningún autor (primer <span> = fecha).
+        pie = bloque[bloque.find("comment-icons"):] if "comment-icons" in bloque else ""
+        spans = [limpiar(s) for s in re.findall(r"<span>([\s\S]*?)</span>", pie)]
+        autor = spans[0] if spans and not parse_fecha(spans[0]) else ""
+        n_com  = re.search(r'comentarios\.png"[^>]*>\s*:\s*(\d+)', bloque)
+        n_part = re.search(r'participantes\.png"[^>]*>\s*:\s*(\d+)', bloque)
+        canal = ("movil" if "telefonomovil.png" in bloque
+                 else "web" if "paginaweb.png" in bloque else "")
+
         # Extracto = texto del bloque sin el título ni la línea de metadatos
         txt = limpiar(bloque)
         if txt.startswith(titulo):
@@ -160,8 +170,30 @@ def parse_asuntos(html):
             "animo":    animo,
             "extracto": extracto,
             "respuesta_ayto": es_respuesta,
+            "autor":    autor,
+            "ultimo_ayto": not autor,
+            "n_comentarios":  int(n_com[1]) if n_com else 1,
+            "n_participantes": int(n_part[1]) if n_part else 1,
+            "canal":    canal,
         })
     return asuntos
+
+def parse_hilo(html):
+    """Mensajes de la página de un hilo: [(autor, fecha, es_ayto)]."""
+    out = []
+    for m in re.finditer(r'<li(\s+class="respuesta")?\s+id="CM\d+">([\s\S]*?)</li>', html):
+        pie = re.search(r'<p class="pie">([\s\S]*?)</p>', m[2])
+        if not pie:
+            continue
+        txt = limpiar(pie[1])
+        fecha = parse_fecha(txt)
+        if not fecha:
+            continue
+        corte = re.search(r"\d{2}/\d{2}/\d{4}|\b(?:ayer|hoy)\s+\d|hace\s", txt, re.I)
+        autor = txt[:corte.start()].strip() if corte else txt
+        es_ayto = bool(m[1]) or autor == "El Ayuntamiento"
+        out.append((autor, fecha, es_ayto))
+    return out
 
 def tiene_siguiente(html):
     return bool(re.search(r'accionAsunto=navegarAsuntos[^"]*pagActual=\d+[^"]*"[^>]*>\s*Siguiente', html)) \
@@ -269,6 +301,13 @@ def main():
                 "respuesta_ayto": a["respuesta_ayto"],
                 "tema":     nombre,
                 "area":     raiz,
+                "autor":    a["autor"],
+                "ultimo_ayto": a["ultimo_ayto"],
+                "n_comentarios":  a["n_comentarios"],
+                "n_participantes": a["n_participantes"],
+                "canal":    a["canal"],
+                # Reactivado: ya hubo respuesta municipal y el último en escribir es un vecino
+                "reactivado": a["respuesta_ayto"] and not a["ultimo_ayto"] and a["n_comentarios"] > 1,
             })
         time.sleep(PAUSA)
 
@@ -278,17 +317,120 @@ def main():
 
     print(f"\nTotal: {len(todos)} comentarios")
 
+    # Mensajes de vecinos dentro del período (el listado solo enseña el último)
+    hilos = [a for a in todos if a["n_comentarios"] > 1]
+    print(f"Leyendo {len(hilos)} hilos con varios mensajes…")
+    for a in todos:
+        a["vecinos"] = ([{"autor": a["autor"], "fecha": a["fecha"]}]
+                        if a["n_comentarios"] <= 1 and a["autor"] else [])
+    for a in hilos:
+        try:
+            mensajes = parse_hilo(fetch(a["url"]))
+        except Exception as e:
+            print(f"  ⚠ {a['url']}: {e}", file=sys.stderr)
+            mensajes = []
+        a["vecinos"] = [{"autor": au, "fecha": f.isoformat()}
+                        for au, f, es_ayto in mensajes
+                        if not es_ayto and desde <= f <= hasta]
+        if not mensajes and a["autor"]:          # fallback: lo que dice el listado
+            a["vecinos"] = [{"autor": a["autor"], "fecha": a["fecha"]}]
+        time.sleep(PAUSA)
+
+    hist = guardar_historico(todos, desde)
+    resumen = analizar(todos, hist, desde, dias)
+
     Path("docs").mkdir(exist_ok=True)
-    Path("docs/index.html").write_text(render(todos, desde, hasta), encoding="utf-8")
+    Path("docs/index.html").write_text(render(todos, desde, hasta, resumen), encoding="utf-8")
     print("docs/index.html generado ✓")
+
+# ── Histórico y comparativas ───────────────────────────────────────────────────
+
+DATA = Path("data")
+
+def guardar_historico(todos, desde):
+    """Guarda los asuntos en data/AAAA-Www.json (semana ISO de su fecha),
+    fusionando con lo ya guardado. Devuelve todo el histórico en una lista."""
+    DATA.mkdir(exist_ok=True)
+    por_semana = {}
+    for a in todos:
+        y, w, _ = datetime.fromisoformat(a["fecha"]).isocalendar()
+        por_semana.setdefault(f"{y}-W{w:02d}", []).append(a)
+    for sem, nuevos in por_semana.items():
+        f = DATA / f"{sem}.json"
+        viejos = json.loads(f.read_text(encoding="utf-8")) if f.exists() else []
+        mezcla = {(a["url"], a["fecha"]): a for a in viejos + nuevos}
+        f.write_text(json.dumps(sorted(mezcla.values(), key=lambda x: x["fecha"]),
+                                ensure_ascii=False, indent=0), encoding="utf-8")
+
+    # Desde cuándo hay datos completos (el período más antiguo que se ha pedido)
+    cob = DATA / "_cobertura.json"
+    previo = json.loads(cob.read_text())["desde"] if cob.exists() else desde.isoformat()
+    cob.write_text(json.dumps({"desde": min(previo, desde.isoformat())}))
+
+    hist = []
+    for f in sorted(DATA.glob("????-W??.json")):
+        hist += json.loads(f.read_text(encoding="utf-8"))
+    return hist
+
+def analizar(todos, hist, desde, dias):
+    """Comparativa por tema, autores frecuentes y hilos reactivados."""
+    cobertura = datetime.fromisoformat(json.loads((DATA / "_cobertura.json").read_text())["desde"])
+    paso = timedelta(days=dias)
+
+    def ventana(k):
+        """Asuntos con actividad en el período k (1 = el anterior al actual)."""
+        ini, fin = desde - k * paso, desde - (k - 1) * paso
+        if ini < cobertura:
+            return None
+        return {a["url"]: a for a in hist
+                if ini <= datetime.fromisoformat(a["fecha"]) < fin}.values()
+
+    def por_tema(asuntos):
+        c = {}
+        for a in asuntos:
+            c[a["tema"]] = c.get(a["tema"], 0) + 1
+        return c
+
+    ahora = por_tema(todos)
+    previas = [v for v in (ventana(k) for k in range(1, 5)) if v is not None]
+    ant = por_tema(previas[0]) if previas else None
+    temas = []
+    for t in set(ahora) | set(ant or {}):
+        media = (sum(por_tema(v).get(t, 0) for v in previas) / len(previas)) if previas else None
+        temas.append({"tema": t, "ahora": ahora.get(t, 0),
+                      "antes": (ant or {}).get(t, 0) if ant is not None else None,
+                      "media": round(media, 1) if media is not None else None})
+
+    # Autores: mensajes de vecinos en el período (y en los anteriores disponibles)
+    def autores(asuntos):
+        c = {}
+        for a in asuntos:
+            for v in a.get("vecinos", []):
+                d = c.setdefault(v["autor"], {"mensajes": 0, "asuntos": set()})
+                d["mensajes"] += 1
+                d["asuntos"].add(a["titulo"])
+        return c
+    act = autores(todos)
+    prev = [autores(v) for v in previas]
+    lista = []
+    for au, d in act.items():
+        lista.append({"autor": au, "mensajes": d["mensajes"],
+                      "asuntos": len(d["asuntos"]),
+                      "semanas_previas": sum(1 for p in prev if au in p)})
+    lista.sort(key=lambda x: (-x["mensajes"], x["autor"]))
+    total_msj = sum(x["mensajes"] for x in lista)
+
+    return {"temas": temas, "n_previas": len(previas),
+            "autores": lista, "total_mensajes": total_msj}
 
 # ── Render HTML ────────────────────────────────────────────────────────────────
 
-def render(datos, desde, hasta):
+def render(datos, desde, hasta, resumen):
     import json
     rango    = f"{desde:%d/%m}–{hasta:%d/%m/%Y}"
     generado = AHORA.strftime("%d/%m/%Y %H:%M")
     payload  = json.dumps(datos, ensure_ascii=False)
+    payload_r = json.dumps(resumen, ensure_ascii=False)
 
     css = r"""
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -399,6 +541,31 @@ body{font-family:'IBM Plex Sans',system-ui,sans-serif;font-size:15px;
 .pie{border-top:1px solid var(--linea);margin-top:2.5rem;padding-top:1rem;
  font-size:.74rem;color:var(--gris)}
 
+/* ── Resumen semanal ──────────────────────────────── */
+.res{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.4rem;
+ margin-bottom:2rem;padding-bottom:1.4rem;border-bottom:2px solid var(--tinta)}
+.res h2{font-size:.74rem;font-weight:600;color:var(--gris);
+ padding-bottom:.45rem;border-bottom:1px solid var(--linea);margin-bottom:.35rem;
+ display:flex;gap:.5rem;align-items:baseline}
+.res h2 b{margin-left:auto;font-weight:400}
+.res ol{list-style:none}
+.res li{display:flex;gap:.5rem;align-items:baseline;font-size:.82rem;
+ padding:.28rem 0;border-bottom:1px dotted var(--linea);line-height:1.3}
+.res li em{font-style:normal;flex:1;min-width:0}
+.res li a{color:inherit;text-decoration:none}
+.res li a:hover{color:var(--verde-h);text-decoration:underline;text-underline-offset:2px}
+.res li small{font-size:.7rem;color:var(--gris);display:block}
+.res .n{font-size:.76rem;white-space:nowrap}
+.sube{color:var(--m-muy)} .baja{color:var(--verde-h)}
+.nota{font-size:.72rem;color:var(--gris);margin-top:.45rem;line-height:1.4}
+.aut{font:inherit;background:none;border:0;padding:0;cursor:pointer;
+ color:inherit;text-align:left}
+.aut:hover{color:var(--verde-h);text-decoration:underline;text-underline-offset:2px}
+.tag{font-size:.64rem;border:1px solid currentColor;padding:0 .25rem;
+ border-radius:2px;color:var(--oro)}
+.react{color:var(--m-muy);border:1px solid currentColor;padding:0 .3rem;
+ border-radius:2px;font-size:.68rem}
+
 /* ── Responsive ───────────────────────────────────── */
 @media(max-width:860px){
  .wrap{grid-template-columns:1fr;gap:1.2rem;padding:1rem 1rem 3rem}
@@ -410,11 +577,12 @@ body{font-family:'IBM Plex Sans',system-ui,sans-serif;font-size:15px;
  .tools input[type=search]{width:100%;min-width:140px;flex:1}
  .cab{padding:1.1rem 1rem .9rem}
  .it{grid-template-columns:24px 42px 1fr}
+ .res{grid-template-columns:1fr}
  .dlab{font-size:.58rem}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 @media print{
- .tools,.side,.strip,.star{display:none!important}
+ .tools,.side,.strip,.star,.res{display:none!important}
  .wrap{display:block;max-width:none;padding:0}
  body{background:#fff;font-size:11pt}
  .cab{background:#fff;color:#000;border-bottom:2px solid #000;padding:0 0 .5rem}
@@ -432,7 +600,7 @@ try{marcados=new Set(JSON.parse(localStorage.getItem('buzon_marcados')||'[]'))}c
 function guardar(){try{localStorage.setItem('buzon_marcados',
   JSON.stringify([...marcados]))}catch(e){}}
 
-let soloMarcados=false, temaSel='';
+let soloMarcados=false, soloReact=false, temaSel='';
 
 const $=id=>document.getElementById(id);
 const diaKey=d=>d.slice(0,10);
@@ -485,9 +653,10 @@ function filtrados(){
   const q=$('q').value.toLowerCase().trim(), m=$('m').value;
   const v=D.filter(d=>{
     if(soloMarcados && !marcados.has(d.url)) return false;
+    if(soloReact && !d.reactivado) return false;
     if(temaSel && d.tema!==temaSel) return false;
     if(m && d.animo!==m) return false;
-    if(q && !(d.titulo+' '+(d.extracto||'')+' '+d.tema).toLowerCase().includes(q))
+    if(q && !(d.titulo+' '+(d.extracto||'')+' '+d.tema+' '+(d.vecinos||[]).map(v=>v.autor).join(' ')).toLowerCase().includes(q))
       return false;
     return true;});
   /* D llega ordenado del más antiguo al más reciente */
@@ -528,6 +697,9 @@ function render(){
       <div class="cu ${d.animo}">
         <h4 class="ti"><a href="${d.url}" target="_blank" rel="noopener">${d.titulo}</a></h4>
         <p class="mt"><span>${d.tema}</span><span>${MOOD[d.animo]||d.animo}</span>
+          <span>${d.ultimo_ayto?'última palabra: Ayuntamiento':esc(d.autor)}</span>
+          ${d.n_comentarios>1?`<span class="mono">${d.n_comentarios} mensajes · ${d.n_participantes} personas</span>`:''}
+          ${d.reactivado?'<span class="react">vuelve a escribir</span>':''}
           ${d.respuesta_ayto?'<span class="resp">respondido</span>':''}</p>
         ${d.extracto?`<p class="ex">${d.extracto}</p>`:''}
       </div></article>`;}
@@ -563,7 +735,57 @@ $('btnCopiar').onclick=async()=>{
     $('btnCopiar').textContent='No se pudo copiar';
     setTimeout(()=>$('btnCopiar').textContent='Copiar selección',1600);}};
 
-pintarStrip(); pintarTemas(); render();
+/* ── Resumen: cambios, reactivados, autores ── */
+function esc(t){return String(t||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function pintarResumen(){
+  /* Qué ha cambiado */
+  let h1;
+  if(!R.n_previas){
+    h1=`<p class="nota">Todavía no hay semanas anteriores guardadas.
+      La comparativa aparecerá cuando el histórico cubra el período anterior.</p>`;
+  }else{
+    const t=R.temas.map(x=>({...x,dif:x.ahora-x.antes}))
+      .filter(x=>x.dif!==0).sort((a,b)=>Math.abs(b.dif)-Math.abs(a.dif)).slice(0,7);
+    h1=t.length?`<ol>`+t.map(x=>`<li><em>${esc(x.tema)}
+        ${x.antes===0?'<span class="tag">nuevo</span>':''}
+        <small class="mono">media ${R.n_previas} sem.: ${x.media}</small></em>
+        <span class="n mono ${x.dif>0?'sube':'baja'}">${x.antes} → ${x.ahora}
+        ${x.dif>0?'▲':'▼'}</span></li>`).join('')+`</ol>`
+      :`<p class="nota">Sin cambios respecto al período anterior.</p>`;
+  }
+  /* Vuelven a escribir tras la respuesta */
+  const re=D.filter(d=>d.reactivado).sort((a,b)=>b.n_participantes-a.n_participantes
+    ||b.n_comentarios-a.n_comentarios);
+  const h2=re.length?`<ol>`+re.slice(0,7).map(d=>`<li><em><a href="${d.url}"
+      target="_blank" rel="noopener">${esc(d.titulo)}</a>
+      <small>${esc(d.tema)} · ${esc(d.autor)}</small></em>
+      <span class="n mono">${d.n_comentarios} msj</span></li>`).join('')+`</ol>`
+    :`<p class="nota">Nadie ha vuelto a escribir tras una respuesta municipal.</p>`;
+  /* Quién escribe más */
+  const au=R.autores.slice(0,8);
+  const top3=R.autores.slice(0,3).reduce((s,x)=>s+x.mensajes,0);
+  const h3=au.length?`<ol>`+au.map(x=>`<li><em><button class="aut" data-a="${esc(x.autor)}"
+      title="Ver sus mensajes">${esc(x.autor)}</button>
+      <small>${x.asuntos} asunto${x.asuntos>1?'s':''}${x.semanas_previas?
+        ` · también en ${x.semanas_previas} sem. anterior${x.semanas_previas>1?'es':''}`:''}</small></em>
+      <span class="n mono">${x.mensajes}</span></li>`).join('')+`</ol>
+      <p class="nota">Los 3 primeros suman el ${Math.round(top3/Math.max(1,R.total_mensajes)*100)}%
+      de ${R.total_mensajes} mensajes de vecinos. Muchos firman con iniciales:
+      dos personas distintas pueden coincidir.</p>`
+    :`<p class="nota">Sin mensajes de vecinos en el período.</p>`;
+
+  $('res').innerHTML=
+    `<div><h2>Qué ha cambiado<b>vs. período anterior</b></h2>${h1}</div>
+     <div><h2>Vuelven a escribir<b class="mono">${re.length}</b></h2>${h2}
+       ${re.length?`<p class="nota"><button class="aut" id="btnReact">
+         ${soloReact?'Ver todos los comentarios':'Ver solo estos en la lista'}</button></p>`:''}</div>
+     <div><h2>Quién escribe más<b class="mono">${R.autores.length} autores</b></h2>${h3}</div>`;
+  $('res').querySelectorAll('.aut[data-a]').forEach(b=>b.onclick=()=>{
+    $('q').value=b.dataset.a; render();});
+  if($('btnReact')) $('btnReact').onclick=()=>{soloReact=!soloReact; pintarResumen(); render();};
+}
+
+pintarStrip(); pintarTemas(); pintarResumen(); render();
 """
 
     return f"""<!DOCTYPE html>
@@ -617,6 +839,7 @@ pintarStrip(); pintarTemas(); render();
     <div id="temas" class="side-scroll"></div>
   </nav>
   <div>
+    <section class="res" id="res" aria-label="Resumen de la semana"></section>
     <div id="lista"></div>
     <footer class="pie">
       Actualizado el {generado}. Los datos proceden del Buzón Ciudadano
@@ -627,6 +850,7 @@ pintarStrip(); pintarTemas(); render();
 
 <script>
 const D={payload};
+const R={payload_r};
 {js}
 </script>
 </body>

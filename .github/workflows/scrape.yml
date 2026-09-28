@@ -13,7 +13,7 @@ on:
     - cron: '0 6 * * *'
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -33,6 +33,14 @@ jobs:
 
       - name: Generar informe
         run: python scripts/scrape.py ${{ github.event.inputs.dias || '7' }}
+
+      - name: Guardar histórico en el repositorio
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898338+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Histórico $(date -u +%F)"
+          git push
 
       - name: Preparar artefacto
         uses: actions/upload-pages-artifact@v3
