@@ -8,9 +8,11 @@ on:
         required: false
         default: '7'
   schedule:
-    # Refresco diario a las 6:00 UTC (8:00 hora peninsular).
-    # Si no lo quieres, borra estas dos líneas.
-    - cron: '0 6 * * *'
+    # Dos refrescos diarios, con los datos listos hacia las 8:00 y las 18:00
+    # (hora peninsular de verano; en invierno, una hora antes). Arrancan a las
+    # :37 porque GitHub retrasa mucho las tareas programadas a en punto.
+    - cron: '37 5 * * *'
+    - cron: '37 15 * * *'
 
 permissions:
   contents: write
