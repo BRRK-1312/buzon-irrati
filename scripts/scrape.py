@@ -39,6 +39,7 @@ HEADERS = {
     "Accept-Language": "es-ES,es;q=0.9",
 }
 PAUSA = 0.2
+TRASLADO = "Para un funcionamiento más eficaz del buzón ciudadano"
 AHORA = datetime.now()
 
 # ── HTTP ───────────────────────────────────────────────────────────────────────
@@ -187,7 +188,7 @@ def parse_asuntos(html):
 def parse_hilo(html):
     """Mensajes de la página de un hilo: [(autor, fecha, es_ayto)]."""
     out = []
-    for m in re.finditer(r'<li(\s+class="respuesta")?\s+id="CM\d+">([\s\S]*?)</li>', html):
+    for m in re.finditer(r'<li(?:\s+class="([^"]*)")?\s+id="CM\d+">([\s\S]*?)</li>', html):
         pie = re.search(r'<p class="pie">([\s\S]*?)</p>', m[2])
         if not pie:
             continue
@@ -197,7 +198,7 @@ def parse_hilo(html):
             continue
         corte = re.search(r"\d{2}/\d{2}/\d{4}|\b(?:ayer|hoy)\s+\d|hace\s", txt, re.I)
         autor = txt[:corte.start()].strip() if corte else txt
-        es_ayto = bool(m[1]) or autor == "El Ayuntamiento"
+        es_ayto = "respuesta" in (m[1] or "") or autor == "El Ayuntamiento"
         out.append((autor, fecha, es_ayto))
     return out
 
@@ -296,6 +297,9 @@ def main():
         except Exception as e:
             print(f"error: {e}")
             continue
+        # Hilos trasladados a otro tema: el original queda con un aviso municipal
+        # y el hilo reaparece en su tema nuevo. Se descarta el original.
+        asuntos = [a for a in asuntos if not a["extracto"].startswith(TRASLADO)]
         print(len(asuntos))
         for a in asuntos:
             todos.append({
