@@ -1549,6 +1549,10 @@
 {
 "autor": "O.L.R.",
 "fecha": "2026-09-21T08:18:43"
+},
+{
+"autor": "O.L.R.",
+"fecha": "2026-09-22T08:53:24"
 }
 ]
 },
@@ -2355,6 +2359,10 @@
 {
 "autor": "O.L.R.",
 "fecha": "2026-09-22T10:12:43"
+},
+{
+"autor": "O.L.R.",
+"fecha": "2026-09-22T13:34:21"
 }
 ]
 },
@@ -5910,7 +5918,28 @@
 "n_participantes": 10,
 "canal": "web",
 "reactivado": true,
-"vecinos": []
+"vecinos": [
+{
+"autor": "Hartos de los que NO se integran.",
+"fecha": "2026-09-23T17:18:05"
+},
+{
+"autor": "Yo",
+"fecha": "2026-09-23T18:45:08"
+},
+{
+"autor": "ciudadano",
+"fecha": "2026-09-23T19:26:17"
+},
+{
+"autor": "ciudadano",
+"fecha": "2026-09-23T19:27:07"
+},
+{
+"autor": "Hartos de los que NO se integran.",
+"fecha": "2026-09-23T20:31:05"
+}
+]
 },
 {
 "titulo": "Alternativa a la subida general de precio",
@@ -10553,6 +10582,28 @@
 {
 "autor": "UOAP",
 "fecha": "2026-09-27T22:23:34.307867"
+}
+]
+},
+{
+"titulo": "Pasarela Los ASTRONOMOS",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384057&claveAsuntoGestorCom=818465&claveAreaCom=",
+"fecha": "2026-09-27T22:48:39.063485",
+"animo": "muy_triste",
+"extracto": "Según la acta de la mesa contratación del Ayuntamiento Vitoria Gasteiz del 24 de MARZO 2026 La mesa contratación proponer la adjudicación a una...",
+"respuesta_ayto": false,
+"tema": "Obras en vía pública",
+"area": "Espacio público",
+"autor": "UOAP",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "UOAP",
+"fecha": "2026-09-27T22:48:39.063485"
 }
 ]
 },
