@@ -1548,10 +1548,6 @@
 "vecinos": [
 {
 "autor": "O.L.R.",
-"fecha": "2026-09-21T08:18:43"
-},
-{
-"autor": "O.L.R.",
 "fecha": "2026-09-22T08:53:24"
 }
 ]
@@ -1615,12 +1611,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "l.V.g.",
-"fecha": "2026-09-21T23:06:53"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Olarizu no tiene Gautxori",
@@ -1637,12 +1628,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Vecinosdesegunda",
-"fecha": "2026-09-21T16:04:53"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Mala conexión con Arambizkarra",
@@ -1659,12 +1645,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "P.D.R.",
-"fecha": "2026-09-21T13:14:39"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Ampliar frecuencia y recorrido linea 11",
@@ -1788,12 +1769,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "P.D.R.",
-"fecha": "2026-09-21T13:04:08"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Gautxori G2 Olárizu paradas 'morea'",
@@ -1861,12 +1837,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.U.",
-"fecha": "2026-09-21T20:56:06"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "3 Patinadores electricos, 3.",
@@ -1905,12 +1876,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.U.",
-"fecha": "2026-09-21T20:53:05"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "barredora calle gorbea",
@@ -1949,12 +1915,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.M.G.",
-"fecha": "2026-09-21T18:01:40"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suciedad infinita",
@@ -1971,12 +1932,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "DN",
-"fecha": "2026-09-21T18:42:06"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Hasta cuando tendremos maleza en las aceras",
@@ -1993,12 +1949,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-09-21T15:59:55"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "CARRILES BICIS LLENOS DE CASTAÑAS, ERIZOS Y HOJAS",
@@ -2015,12 +1966,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "F.N.Z.",
-"fecha": "2026-09-21T12:07:05"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Green Capital o Pig Capital?",
@@ -2037,12 +1983,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Pello",
-"fecha": "2026-09-21T09:03:33"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Semáforos Beato Tomás de Zumárraga",
@@ -2557,16 +2498,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "j.A.P.",
-"fecha": "2026-09-21T20:15:01"
-},
-{
-"autor": "X.X.X.",
-"fecha": "2026-09-21T20:45:49"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Línea 11",
@@ -2707,12 +2639,7 @@
 "n_participantes": 12,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Valen",
-"fecha": "2026-09-21T22:17:25"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Calle Dolores Ibarruri Gomez",
@@ -2973,12 +2900,7 @@
 "n_participantes": 96,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "P.L.P.",
-"fecha": "2026-09-21T20:47:44"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "APARCAMIENTO MOTOS MANUEL IRADIER - FREMAP",
@@ -3884,12 +3806,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.A.G.",
-"fecha": "2026-09-21T19:15:33"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor ropa",
@@ -3906,12 +3823,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Anónimo",
-"fecha": "2026-09-21T16:50:34"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "contenedor de basura mezcla sin recoger a las 12.00 del lunes",
@@ -3928,12 +3840,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Luis",
-"fecha": "2026-09-21T11:53:14"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Aparcamiento para PMR",
@@ -3967,12 +3874,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Z.U.H.",
-"fecha": "2026-09-21T09:00:15"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor en mal estado",
@@ -3989,12 +3891,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.V.M.",
-"fecha": "2026-09-21T08:25:24"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "vandalismo",
@@ -4768,12 +4665,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "C.R.C.",
-"fecha": "2026-09-21T15:02:10"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Levantan la mano pero no para",
@@ -5637,12 +5529,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "v.d.c.",
-"fecha": "2026-09-21T10:03:51"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Semaforo para calle Maltzaga 1-2",
@@ -5660,10 +5547,6 @@
 "canal": "movil",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "Nik",
-"fecha": "2026-09-21T09:45:45"
-},
 {
 "autor": "M.A.M",
 "fecha": "2026-09-23T15:23:43"
@@ -6001,10 +5884,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "Vecina Tenerías",
-"fecha": "2026-09-21T18:59:38"
-},
 {
 "autor": "Hartos",
 "fecha": "2026-09-22T09:53:10"
@@ -6585,12 +6464,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.S.S.",
-"fecha": "2026-09-21T10:02:46"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Nadie paga el BEI?",
@@ -7019,12 +6893,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "jon",
-"fecha": "2026-09-21T22:13:10"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Farola con zumbido",
@@ -9317,18 +9186,6 @@
 "vecinos": [
 {
 "autor": "Moreno",
-"fecha": "2026-09-21T08:46:41"
-},
-{
-"autor": "Residente Zabalgana",
-"fecha": "2026-09-21T15:46:25"
-},
-{
-"autor": "V.Z.A.",
-"fecha": "2026-09-21T18:35:02"
-},
-{
-"autor": "Moreno",
 "fecha": "2026-09-26T14:14:41"
 },
 {
@@ -9752,6 +9609,32 @@
 ]
 },
 {
+"titulo": "Recogida de basuras un Domingo a las 6.20 AM??",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384022&claveAsuntoGestorCom=818431&claveAreaCom=",
+"fecha": "2026-09-27T08:17:04",
+"animo": "muy_triste",
+"extracto": "La verdad es que sí, las horas que propones son ideales, además con los horarios propuestos, los trabajadores se librarían de tener que aguantar las...",
+"respuesta_ayto": false,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "PiensoEnMi",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "A.T.N.",
+"fecha": "2026-09-27T06:28:01"
+},
+{
+"autor": "PiensoEnMi",
+"fecha": "2026-09-27T08:17:04"
+}
+]
+},
+{
 "titulo": "Mal olor en calle Siervas de Jesús",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384016&claveAsuntoGestorCom=818425&claveAreaCom=",
 "fecha": "2026-09-27T09:17:00",
@@ -9918,6 +9801,28 @@
 ]
 },
 {
+"titulo": "Pavimentos sin terminar",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384028&claveAsuntoGestorCom=818437&claveAreaCom=",
+"fecha": "2026-09-27T12:04:38",
+"animo": "triste",
+"extracto": "Buenos días, el pavimento de la acera entre arkaiabidea y avenida de Bruselas lleva más de tres meses sin terminar.",
+"respuesta_ayto": false,
+"tema": "Obras en vía pública",
+"area": "Espacio público",
+"autor": "P.G.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "P.G.",
+"fecha": "2026-09-27T12:04:38"
+}
+]
+},
+{
 "titulo": "Limpieza incompleta Barrenkale",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384030&claveAsuntoGestorCom=818439&claveAreaCom=",
 "fecha": "2026-09-27T12:15:00",
@@ -9962,6 +9867,28 @@
 ]
 },
 {
+"titulo": "PLAGA EN LOS ÁRBOLES CALLE FLANDES",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=381728&claveAsuntoGestorCom=815269&claveAreaCom=",
+"fecha": "2026-09-27T12:56:03",
+"animo": "muy_triste",
+"extracto": "Pero seguimos igual tras este aviso y varias llamadas telefónicas incidiendo en lo mismo. En la foto, cientos de pulgones de un día tras barrer un...",
+"respuesta_ayto": true,
+"tema": "Zonas verdes",
+"area": "Espacio público",
+"autor": "O.B.J.",
+"ultimo_ayto": false,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "O.B.J.",
+"fecha": "2026-09-27T12:56:03"
+}
+]
+},
+{
 "titulo": "ACCESO A PRÉSTAMO DE LIBROS A",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=382285&claveAsuntoGestorCom=816001&claveAreaCom=",
 "fecha": "2026-09-27T13:06:00",
@@ -9980,6 +9907,28 @@
 {
 "autor": "J.A.M.",
 "fecha": "2026-09-27T13:06:00"
+}
+]
+},
+{
+"titulo": "ACCESO A PRÉSTAMO DE LIBROS A",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=382285&claveAsuntoGestorCom=816001&claveAreaCom=",
+"fecha": "2026-09-27T13:06:07",
+"animo": "muy_triste",
+"extracto": "Totalmente de acuerdo. La nueva aplicación de acceso al catálogo de libros es una locura y un desastre. Aparte de haber muchas cuestiones que nada...",
+"respuesta_ayto": false,
+"tema": "Instalaciones socioculturales",
+"area": "Ocio y cultura",
+"autor": "J.A.M.",
+"ultimo_ayto": false,
+"n_comentarios": 3,
+"n_participantes": 3,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.A.M.",
+"fecha": "2026-09-27T13:06:07"
 }
 ]
 },
@@ -10022,6 +9971,48 @@
 {
 "autor": "Silvestre",
 "fecha": "2026-09-27T14:15:00"
+}
+]
+},
+{
+"titulo": "Olor insoportable contenedor organico",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=383886&claveAsuntoGestorCom=818266&claveAreaCom=",
+"fecha": "2026-09-27T14:15:27",
+"animo": "normal",
+"extracto": "Lleva días , expulsando este líquido mal oliente.",
+"respuesta_ayto": true,
+"tema": "Reciclaje de residuos",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "Silvestre",
+"ultimo_ayto": false,
+"n_comentarios": 7,
+"n_participantes": 4,
+"canal": "web",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "Vecino",
+"fecha": "2026-09-25T08:48:17"
+},
+{
+"autor": "Vecino",
+"fecha": "2026-09-26T10:48:45"
+},
+{
+"autor": "Vecino",
+"fecha": "2026-09-26T11:57:26"
+},
+{
+"autor": "ciudadano",
+"fecha": "2026-09-26T14:04:12"
+},
+{
+"autor": "Silvestre",
+"fecha": "2026-09-27T14:10:24"
+},
+{
+"autor": "Silvestre",
+"fecha": "2026-09-27T14:15:27"
 }
 ]
 },
@@ -10162,6 +10153,32 @@
 ]
 },
 {
+"titulo": "Carriles tuvisa",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384036&claveAsuntoGestorCom=818445&claveAreaCom=",
+"fecha": "2026-09-27T15:55:07",
+"animo": "normal",
+"extracto": "No es un carril bus,es un carril exclusivo de TUVISA. Si fuese carril bus,pondria carril bus.Pero como no es para autobuses,pues pone TUVISA. Si se...",
+"respuesta_ayto": false,
+"tema": "TUVISA. Autobuses urbanos",
+"area": "Movilidad y transporte",
+"autor": "M.Y.F.",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "L.P.",
+"fecha": "2026-09-27T15:14:43"
+},
+{
+"autor": "M.Y.F.",
+"fecha": "2026-09-27T15:55:07"
+}
+]
+},
+{
 "titulo": "Parque Pirata Lakua",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384041&claveAsuntoGestorCom=818450&claveAreaCom=",
 "fecha": "2026-09-27T16:26:00",
@@ -10206,6 +10223,32 @@
 {
 "autor": "x.x.x.",
 "fecha": "2026-09-27T16:39:00"
+}
+]
+},
+{
+"titulo": "Es normal que la chofer del bus",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384020&claveAsuntoGestorCom=818429&claveAreaCom=",
+"fecha": "2026-09-27T16:39:48",
+"animo": "triste",
+"extracto": "Se nota que no hiciste uso de el los primeros días de fiestas de vitoria, sobre todo, los días 4 y 5 de agosto a la noche donde íbamos como sardinas...",
+"respuesta_ayto": false,
+"tema": "TUVISA. Autobuses urbanos",
+"area": "Movilidad y transporte",
+"autor": "x.x.x.",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Alberto",
+"fecha": "2026-09-26T23:54:10"
+},
+{
+"autor": "x.x.x.",
+"fecha": "2026-09-27T16:39:48"
 }
 ]
 },
@@ -10342,6 +10385,28 @@
 ]
 },
 {
+"titulo": "Obras vecino",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=368954&claveAsuntoGestorCom=798510&claveAreaCom=",
+"fecha": "2026-09-27T19:29:35",
+"animo": "normal",
+"extracto": "En la calle Bueno Monreal 2 y 4 llevan A&Ntilde;OS renovando pisos, trabajando únicamente los fines de semana a partir del sábado a las 14 horas. Raro el...",
+"respuesta_ayto": true,
+"tema": "Obras en edificios",
+"area": "Urbanismo - Vivienda",
+"autor": "Vecino",
+"ultimo_ayto": false,
+"n_comentarios": 10,
+"n_participantes": 6,
+"canal": "web",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "Vecino",
+"fecha": "2026-09-27T19:29:35"
+}
+]
+},
+{
 "titulo": "Alcorques sin árboles",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384049&claveAsuntoGestorCom=818457&claveAreaCom=",
 "fecha": "2026-09-27T19:35:00",
@@ -10390,6 +10455,32 @@
 ]
 },
 {
+"titulo": "Alumbrado Dolores Ibarruri-Arkaiabidea",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384051&claveAsuntoGestorCom=818459&claveAreaCom=",
+"fecha": "2026-09-27T19:46:57",
+"animo": "triste",
+"extracto": "Otra mas",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "M.M.",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.M.",
+"fecha": "2026-09-27T19:46:10"
+},
+{
+"autor": "M.M.",
+"fecha": "2026-09-27T19:46:57"
+}
+]
+},
+{
 "titulo": "No es normal",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384052&claveAsuntoGestorCom=818460&claveAreaCom=",
 "fecha": "2026-09-27T20:00:00",
@@ -10408,6 +10499,28 @@
 {
 "autor": "M.R.",
 "fecha": "2026-09-27T20:00:00"
+}
+]
+},
+{
+"titulo": "No es normal",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384052&claveAsuntoGestorCom=818460&claveAreaCom=",
+"fecha": "2026-09-27T20:00:24",
+"animo": "muy_triste",
+"extracto": "No es normal que se pida un libro a otra biblioteca y tarde casi un mes en llegar. Ni que viniese de otro país.",
+"respuesta_ayto": false,
+"tema": "Instalaciones socioculturales",
+"area": "Ocio y cultura",
+"autor": "M.R.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.R.",
+"fecha": "2026-09-27T20:00:24"
 }
 ]
 },
@@ -10538,6 +10651,36 @@
 {
 "autor": "Josu",
 "fecha": "2026-09-27T22:19:00"
+}
+]
+},
+{
+"titulo": "Mala actitud conductora L6",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=382114&claveAsuntoGestorCom=815790&claveAreaCom=",
+"fecha": "2026-09-27T22:19:08",
+"animo": "alegre",
+"extracto": "Salgo al paso y debo decir que todas las conductoras con las que he viajado han sido muy amables.",
+"respuesta_ayto": true,
+"tema": "TUVISA. Autobuses urbanos",
+"area": "Movilidad y transporte",
+"autor": "Josu",
+"ultimo_ayto": false,
+"n_comentarios": 6,
+"n_participantes": 5,
+"canal": "movil",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "H.P.M.",
+"fecha": "2026-09-27T16:14:20"
+},
+{
+"autor": "M.H.",
+"fecha": "2026-09-27T20:49:26"
+},
+{
+"autor": "Josu",
+"fecha": "2026-09-27T22:19:08"
 }
 ]
 },
