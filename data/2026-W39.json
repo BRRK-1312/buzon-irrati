@@ -3420,12 +3420,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-09-22T21:33:20"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Arbol con ramas muy bajas que impiden el paso",
@@ -3442,12 +3437,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.M.M.",
-"fecha": "2026-09-22T20:38:39"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Columpios en mal estado",
@@ -3508,12 +3498,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-09-22T18:03:49"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Paso de peatones en calle Mexico",
@@ -3618,12 +3603,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "D.R.",
-"fecha": "2026-09-22T15:30:21"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor orgánico",
@@ -3640,12 +3620,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "L.F.G.",
-"fecha": "2026-09-22T20:53:27"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "QUEJAS",
@@ -3679,12 +3654,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Ana",
-"fecha": "2026-09-22T17:31:25"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Falta de presión de agua",
@@ -3701,12 +3671,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "P.L.",
-"fecha": "2026-09-22T10:44:13"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Baloncesto en el Campillo",
@@ -3767,12 +3732,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "I.G.B.",
-"fecha": "2026-09-22T15:18:34"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "APARCAMOTOS EN BEATO TOMAS DE ZUMARRAGA 1",
@@ -4091,12 +4051,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.I.U.",
-"fecha": "2026-09-22T16:24:13"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Queja por falta de limpieza",
@@ -4113,12 +4068,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "H.A.",
-"fecha": "2026-09-22T15:22:22"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suciedad",
@@ -4135,12 +4085,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "La calle no se calla",
-"fecha": "2026-09-22T13:37:03"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Situación insostenible de estacionamiento en calle Bolivia y alrededores",
@@ -4704,12 +4649,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.U.",
-"fecha": "2026-09-22T11:38:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Plaza Valladolid 10",
@@ -5249,12 +5189,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "La calle no se calla",
-"fecha": "2026-09-22T13:39:08"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Linea 7",
@@ -5377,10 +5312,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "La calle no se calla",
-"fecha": "2026-09-22T13:38:18"
-},
 {
 "autor": "A.M.M.",
 "fecha": "2026-09-23T14:47:39"
@@ -5884,18 +5815,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "Hartos",
-"fecha": "2026-09-22T09:53:10"
-},
-{
-"autor": "Hartos",
-"fecha": "2026-09-22T10:13:37"
-},
-{
-"autor": "H.M.",
-"fecha": "2026-09-22T18:23:18"
-},
 {
 "autor": "M.U.",
 "fecha": "2026-09-23T15:35:58"
@@ -8137,10 +8056,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "L.M.U.",
-"fecha": "2026-09-22T08:42:32"
-},
-{
 "autor": "E.I.A.",
 "fecha": "2026-09-25T13:53:21"
 }
@@ -8442,12 +8357,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.R.S.",
-"fecha": "2026-09-22T09:46:59"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Furgones en la calle Raimundo Olabide y permisividad de La OTA",
