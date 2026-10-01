@@ -6016,18 +6016,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "G.C.G.",
-"fecha": "2026-09-23T14:07:35"
-},
-{
-"autor": "E",
-"fecha": "2026-09-23T14:37:01"
-},
-{
-"autor": "G.C.",
-"fecha": "2026-09-23T15:02:57"
-},
-{
 "autor": "m.....",
 "fecha": "2026-09-24T08:47:19"
 }
@@ -6147,12 +6135,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.",
-"fecha": "2026-09-23T21:37:19"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Sad,tirar la basura",
@@ -6203,12 +6186,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.R.",
-"fecha": "2026-09-23T12:58:53"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Queja por el cambio de dos educadoras tras el periodo de adaptación en Haurtzaro",
@@ -6315,10 +6293,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "D.A.P.O.",
-"fecha": "2026-09-23T22:44:07"
-},
-{
 "autor": "E.A.L.",
 "fecha": "2026-09-24T11:23:37"
 }
@@ -6400,12 +6374,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.G.",
-"fecha": "2026-09-23T22:08:24"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "OBRAS C/ GAMARRA MAYOR",
@@ -6698,12 +6667,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Contribuyente",
-"fecha": "2026-09-23T13:10:43"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Poda árboles",
@@ -6894,16 +6858,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.V.L.",
-"fecha": "2026-09-23T09:48:10"
-},
-{
-"autor": "R.E.T.",
-"fecha": "2026-09-23T21:18:02"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Estolden zarata",
@@ -7678,12 +7633,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.L.C.",
-"fecha": "2026-09-23T13:00:41"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Solicitud de parking para motos Antonio Amat Maiz 14",
