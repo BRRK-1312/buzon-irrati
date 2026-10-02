@@ -7271,10 +7271,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "S.M.",
-"fecha": "2026-09-24T22:04:22"
-},
-{
 "autor": "Anónimo",
 "fecha": "2026-09-25T06:37:04"
 }
@@ -7343,12 +7339,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "D.D.",
-"fecha": "2026-09-24T21:51:30"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Estorninos en Calle Roncesvalles",
@@ -7387,12 +7378,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "María Cruz",
-"fecha": "2026-09-24T16:12:35"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Obras tranvía naciones unidas",
@@ -7523,12 +7509,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "limpio",
-"fecha": "2026-09-24T16:31:22"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedores de orgánico",
@@ -7545,12 +7526,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.L.L.",
-"fecha": "2026-09-24T14:31:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor azul de Domingo Beltrán 29",
@@ -7567,12 +7543,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "F.O.",
-"fecha": "2026-09-24T21:53:01"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Gai",
@@ -7838,10 +7809,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "P.G.",
-"fecha": "2026-09-24T13:30:45"
-},
-{
 "autor": "L.R.M.",
 "fecha": "2026-09-25T12:48:44"
 },
@@ -7971,14 +7938,6 @@
 "canal": "movil",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "O.B.L.",
-"fecha": "2026-09-24T15:36:53"
-},
-{
-"autor": "L.I.",
-"fecha": "2026-09-24T15:38:44"
-},
 {
 "autor": "L.R.M.",
 "fecha": "2026-09-25T12:49:05"
@@ -8246,12 +8205,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "N.A.C.",
-"fecha": "2026-09-24T20:31:02"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Kale argia lurrean, arriskutsua",
@@ -8268,12 +8222,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Jon",
-"fecha": "2026-09-24T20:26:17"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "futura de una farola",
@@ -8361,10 +8310,6 @@
 "vecinos": [
 {
 "autor": "D.A.P.O.",
-"fecha": "2026-09-24T14:32:00"
-},
-{
-"autor": "D.A.P.O.",
 "fecha": "2026-09-25T15:05:39"
 }
 ]
@@ -8428,12 +8373,7 @@
 "n_participantes": 25,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "MOMO",
-"fecha": "2026-09-24T12:01:15"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "APARCAMIENTO DISCAPACITADOS",
