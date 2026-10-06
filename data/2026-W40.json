@@ -12429,12 +12429,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "La calle no se calla",
-"fecha": "2026-09-28T13:42:11"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "APERTURA ORGANICO",
@@ -12451,12 +12446,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.P.G.",
-"fecha": "2026-09-28T11:50:39"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Farola fundida PPUranga 2",
@@ -12503,12 +12493,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "C.S.P.",
-"fecha": "2026-09-28T18:35:29"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Nefasto servicio del BEI en hora punta de colegios",
@@ -12853,12 +12838,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.L.",
-"fecha": "2026-09-28T21:14:57"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Rotonda de la antonia",
@@ -12875,12 +12855,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.U.",
-"fecha": "2026-09-28T21:03:48"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Mendicidad en supermercados",
@@ -13359,12 +13334,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "S.S.",
-"fecha": "2026-09-28T14:43:23"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Olor a excrementos en Bueno Monreal",
@@ -13403,12 +13373,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "S.S.A.",
-"fecha": "2026-09-28T13:40:08"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Estorninos en Calle Roncesvalles",
@@ -14896,12 +14861,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.L.A.",
-"fecha": "2026-09-28T23:14:09"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "suciedad en jardines",
@@ -15572,12 +15532,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.L.S.",
-"fecha": "2026-09-28T11:05:34"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Aparcamientos",
@@ -15616,12 +15571,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.G.C.",
-"fecha": "2026-09-28T13:34:15"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Fuentes averiadas",
@@ -17927,10 +17877,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "La calle no se calla",
-"fecha": "2026-09-28T13:40:31"
-},
-{
 "autor": "Eva",
 "fecha": "2026-09-29T22:17:05"
 }
@@ -18166,14 +18112,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "I.Í.M.",
-"fecha": "2026-09-28T16:17:29"
-},
-{
-"autor": "M.Y.F.",
-"fecha": "2026-09-28T16:58:48"
-},
 {
 "autor": "P.M.",
 "fecha": "2026-09-29T16:39:02"
@@ -18826,10 +18764,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "P.B.A.",
-"fecha": "2026-09-28T17:54:19"
-},
 {
 "autor": "I.L.M.",
 "fecha": "2026-09-30T07:55:36"
@@ -19807,22 +19741,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "A ver qué nos cuentan éstos",
-"fecha": "2026-09-28T09:28:55"
-},
-{
-"autor": "Además",
-"fecha": "2026-09-28T09:28:55"
-},
-{
-"autor": "Patrullas vecinales, castigos ejemplares",
-"fecha": "2026-09-28T09:28:55"
-},
-{
-"autor": "Hija y ciudadana",
-"fecha": "2026-09-28T09:28:55"
-},
 {
 "autor": "Torres más altas han caído",
 "fecha": "2026-09-30T10:02:09"
@@ -26312,12 +26230,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Mal conductor",
-"fecha": "2026-09-28T08:16:06"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Retrasos Línea 7 Tuvisa",
@@ -26915,12 +26828,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Gora tuvisa",
-"fecha": "2026-09-28T15:50:39"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Taberna del kuto",
@@ -30270,12 +30178,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.D.H.",
-"fecha": "2026-09-28T09:06:38"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Deterioro caminos anillo verde",
@@ -30314,12 +30217,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "S.M.R.",
-"fecha": "2026-09-28T08:30:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Pavimentos sin terminar",
@@ -32186,14 +32084,6 @@
 "reactivado": true,
 "vecinos": [
 {
-"autor": "AGORAL",
-"fecha": "2026-09-28T09:43:43"
-},
-{
-"autor": "J",
-"fecha": "2026-09-28T09:54:23"
-},
-{
 "autor": "Iñaki",
 "fecha": "2026-10-02T08:24:39"
 },
@@ -32995,10 +32885,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "A.S.G.",
-"fecha": "2026-09-28T11:50:37"
-},
 {
 "autor": "Esperando",
 "fecha": "2026-10-02T21:31:57"
