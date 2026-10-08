@@ -23736,12 +23736,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "P.C.B.",
-"fecha": "2026-09-30T22:14:45"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Alumbrado público no funciona",
@@ -24190,12 +24185,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.S.",
-"fecha": "2026-09-30T11:50:08"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Examen de Euskera",
@@ -24317,12 +24307,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "María Cruz",
-"fecha": "2026-09-30T11:58:22"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Mal olor y suciedad.",
@@ -24361,12 +24346,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Ira",
-"fecha": "2026-09-30T12:05:17"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Seguridad vial",
@@ -24449,12 +24429,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Anónimo",
-"fecha": "2026-09-30T13:30:43"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Limpieza plaza Juan de Ayala",
@@ -24493,12 +24468,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "nv",
-"fecha": "2026-09-30T13:40:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "PARADA SIN ILUMINACIÓN",
@@ -25310,12 +25280,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.M.F.",
-"fecha": "2026-09-30T15:25:47"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor lleno gorbea 4",
@@ -25354,12 +25319,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "H.U.",
-"fecha": "2026-09-30T22:57:08"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Autobuses",
@@ -25969,12 +25929,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.M.M.",
-"fecha": "2026-09-30T07:38:12"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Baldosa levantada",
@@ -26975,12 +26930,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Yo.",
-"fecha": "2026-09-30T18:33:09"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Hobetuz Errekatxiki",
@@ -27999,12 +27949,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.S.",
-"fecha": "2026-09-30T12:13:54"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "CURSO DE INICIACION A PILATES EN CC IBAIONDO",
@@ -31506,12 +31451,7 @@
 "n_participantes": 5,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "B.B.G.",
-"fecha": "2026-09-30T08:02:32"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Linea 7",
@@ -32676,10 +32616,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "M.A.R.",
-"fecha": "2026-09-30T08:11:42"
-},
 {
 "autor": "arbol",
 "fecha": "2026-10-02T20:45:56"
