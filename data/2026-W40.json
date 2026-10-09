@@ -29952,20 +29952,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "j.A.M.S",
-"fecha": "2026-10-01T15:36:12"
-},
-{
-"autor": "j.A.M.S",
-"fecha": "2026-10-01T15:36:54"
-},
-{
-"autor": "EM",
-"fecha": "2026-10-01T20:52:49"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "calle errekatxiki 35",
@@ -30350,10 +30337,6 @@
 "vecinos": [
 {
 "autor": "Josefra",
-"fecha": "2026-10-01T12:14:11"
-},
-{
-"autor": "Josefra",
 "fecha": "2026-10-02T08:02:20"
 },
 {
@@ -30523,16 +30506,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Eugenia",
-"fecha": "2026-10-01T16:35:02"
-},
-{
-"autor": "P.U.",
-"fecha": "2026-10-01T16:37:43"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor neumático amarillo atascado en Océano Pacífico 47",
@@ -30571,12 +30545,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "NF",
-"fecha": "2026-10-01T21:55:26"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Autobuses para llegar a jundiz polígono",
@@ -30615,12 +30584,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Ciudadano",
-"fecha": "2026-10-01T20:13:48"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "ACTIVIDAD MUSICAL DE TONIFICACION",
@@ -38879,10 +38843,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "A.A.B.",
-"fecha": "2026-10-01T08:28:56"
-},
 {
 "autor": "O.F.R.",
 "fecha": "2026-10-03T18:07:32"
