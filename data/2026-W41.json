@@ -976,12 +976,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Jesus Rojo de San Jose",
-"fecha": "2026-10-03T23:59:30"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Baches en calzada",
@@ -1269,12 +1264,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.S.N.",
-"fecha": "2026-10-03T14:06:42"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "FALTA CONTENEDORES EN HANS CHRISTIAN ANDERSEN 1",
@@ -1352,12 +1342,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "V.M.M.",
-"fecha": "2026-10-03T12:29:39"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Radar Naciones unidas",
@@ -2583,12 +2568,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "N.A.C.",
-"fecha": "2026-10-03T15:27:53"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Árbol enfermo gigante",
@@ -5881,12 +5861,7 @@
 "n_participantes": 7,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Con miedo a ser atropellado",
-"fecha": "2026-10-03T09:23:54"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Agua.",
@@ -8540,16 +8515,7 @@
 "n_participantes": 7,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Lo usarían 4 gatos decian",
-"fecha": "2026-10-03T01:26:18"
-},
-{
-"autor": "M.L.S.",
-"fecha": "2026-10-03T08:07:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "aparcamientos de motos",
@@ -20047,12 +20013,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.G.H.",
-"fecha": "2026-10-03T17:45:53"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Puntos de carga",
@@ -20236,10 +20197,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "M.A.P.",
-"fecha": "2026-10-03T19:51:29"
-},
 {
 "autor": "M.A.P.",
 "fecha": "2026-10-07T13:59:11"
@@ -24636,6 +24593,32 @@
 ]
 },
 {
+"titulo": "Calle Olaguibel",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385336&claveAsuntoGestorCom=820268&claveAreaCom=",
+"fecha": "2026-10-09T07:12:26",
+"animo": "alegre",
+"extracto": "Buenos días. Personal de los Servicios Eléctricos reparó",
+"respuesta_ayto": true,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.E.G.",
+"fecha": "2026-10-07T19:26:39"
+},
+{
+"autor": "J.E.G.",
+"fecha": "2026-10-08T18:13:06"
+}
+]
+},
+{
 "titulo": "Bache en paso de cebra desde fuente de la plaza Constitución hacia esquina Goiener (plaza Constitución 1)",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=383922&claveAsuntoGestorCom=818316&claveAreaCom=",
 "fecha": "2026-10-09T07:18:07.907022",
@@ -24973,6 +24956,50 @@
 ]
 },
 {
+"titulo": "Gai",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?accion=verComentarios&claveAsuntoCom=385457&claveAsuntoGestorCom=820437&claveAreaCom=18",
+"fecha": "2026-10-09T08:42:58",
+"animo": "normal",
+"extracto": "hau...",
+"respuesta_ayto": true,
+"tema": "Desperfectos en vía pública",
+"area": "Espacio público",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.L.L.",
+"fecha": "2026-10-09T08:42:58"
+}
+]
+},
+{
+"titulo": "Estolden zarata",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385457&claveAsuntoGestorCom=820437&claveAreaCom=",
+"fecha": "2026-10-09T08:42:58",
+"animo": "normal",
+"extracto": "San Vicente de Paul kalean 9 an badaude gaizki dauden bi estolda. noizean behin konpontzera etortzen dira baina kotxe, kamioi eta busak pasatzen...",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "M.L.L.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.L.L.",
+"fecha": "2026-10-09T08:42:58"
+}
+]
+},
+{
 "titulo": "Bache en paso de cebra desde fuente de la plaza Constitución hacia esquina Goiener (plaza Constitución 1)",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=383922&claveAsuntoGestorCom=818316&claveAreaCom=",
 "fecha": "2026-10-09T08:49:00",
@@ -25008,6 +25035,28 @@
 {
 "autor": "A.M.",
 "fecha": "2026-10-09T09:01:00"
+}
+]
+},
+{
+"titulo": "Suciedad, [Eliminado] y pis de perros sin limpiar",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385459&claveAsuntoGestorCom=820442&claveAreaCom=",
+"fecha": "2026-10-09T09:01:42",
+"animo": "normal",
+"extracto": "Cada día que salgo a pasear por el barrio puedo observar infinidad de cagadas de perro sin recoger de los arboles y de los jardines. Ademas se han...",
+"respuesta_ayto": false,
+"tema": "Policía Local",
+"area": "Seguridad ciudadana",
+"autor": "A.M.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "A.M.",
+"fecha": "2026-10-09T09:01:42"
 }
 ]
 },
@@ -25194,9 +25243,48 @@
 ]
 },
 {
+"titulo": "Solicitud de contenedores Luis Álava Sautu",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385443&claveAsuntoGestorCom=820417&claveAreaCom=",
+"fecha": "2026-10-09T09:20:55",
+"animo": "alegre",
+"extracto": "Agradecemos su colaboración al transmitirnos el aviso. Le comunicamos que está prevista para el día",
+"respuesta_ayto": true,
+"tema": "Reciclaje de residuos",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "L.U.B.",
+"fecha": "2026-10-08T20:32:51"
+}
+]
+},
+{
 "titulo": "Paso de cebra en mal estado",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=383988&claveAsuntoGestorCom=818397&claveAreaCom=",
 "fecha": "2026-10-09T09:21:00",
+"animo": "alegre",
+"extracto": "Desde la Unidad de Mto Urbano se visita la zona y se procede a su reparación con fecha",
+"respuesta_ayto": true,
+"tema": "Desperfectos en vía pública",
+"area": "Espacio público",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": []
+},
+{
+"titulo": "Paso de cebra en mal estado",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=383988&claveAsuntoGestorCom=818397&claveAreaCom=",
+"fecha": "2026-10-09T09:21:27",
 "animo": "alegre",
 "extracto": "Desde la Unidad de Mto Urbano se visita la zona y se procede a su reparación con fecha",
 "respuesta_ayto": true,
@@ -25249,6 +25337,48 @@
 {
 "autor": "S.E.O.",
 "fecha": "2026-10-09T09:59:00"
+}
+]
+},
+{
+"titulo": "Frutería calle Donosti, saca mobiliario y realiza tertulias en vía pública",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385344&claveAsuntoGestorCom=820277&claveAreaCom=",
+"fecha": "2026-10-09T09:59:27",
+"animo": "muy_triste",
+"extracto": "&iquest;Tiene que ocurrir alguna desgracia para que el consistorio mueva ficha? &iquest;Si esta situación se daría en el centro, el consistorio sería tan permisivo?",
+"respuesta_ayto": true,
+"tema": "Policía Local",
+"area": "Seguridad ciudadana",
+"autor": "S.E.O.",
+"ultimo_ayto": false,
+"n_comentarios": 7,
+"n_participantes": 6,
+"canal": "web",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "O.B.L.",
+"fecha": "2026-10-08T08:09:23"
+},
+{
+"autor": "L.I.",
+"fecha": "2026-10-08T08:09:23"
+},
+{
+"autor": "L.R.M.",
+"fecha": "2026-10-08T08:09:23"
+},
+{
+"autor": "Moss",
+"fecha": "2026-10-08T08:09:23"
+},
+{
+"autor": "S.E.O.",
+"fecha": "2026-10-08T08:09:23"
+},
+{
+"autor": "S.E.O.",
+"fecha": "2026-10-09T09:59:27"
 }
 ]
 },
@@ -25654,6 +25784,28 @@
 ]
 },
 {
+"titulo": "Empresa reparto ACROPOST",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385474&claveAsuntoGestorCom=820457&claveAreaCom=",
+"fecha": "2026-10-09T10:08:49",
+"animo": "muy_triste",
+"extracto": "La empresa de reparto ACROPOST que se dedica a repartir las sanciones de tráfico, debería poner más empeño en que lleguen las multas a su...",
+"respuesta_ayto": false,
+"tema": "Circulación - Tráfico",
+"area": "Movilidad y transporte",
+"autor": "D.G.G.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "D.G.G.",
+"fecha": "2026-10-09T10:08:49"
+}
+]
+},
+{
 "titulo": "SPEIS-2022 Convocatoria de oferta de empleo público.",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=328734&claveAsuntoGestorCom=737203&claveAreaCom=",
 "fecha": "2026-10-09T10:09:00",
@@ -25676,6 +25828,32 @@
 {
 "autor": "Aa",
 "fecha": "2026-10-09T10:09:00"
+}
+]
+},
+{
+"titulo": "SPEIS-2022 Convocatoria de oferta de empleo público.",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=328734&claveAsuntoGestorCom=737203&claveAreaCom=",
+"fecha": "2026-10-09T10:09:26",
+"animo": "triste",
+"extracto": "Completamente de acuerdo con el comentario de arriba. Se agradecería mucho cualquier tipo de información para poder organizarnos con los trabajos ....",
+"respuesta_ayto": true,
+"tema": "Empleo municipal",
+"area": "Formación y empleo",
+"autor": "Aa",
+"ultimo_ayto": false,
+"n_comentarios": 401,
+"n_participantes": 215,
+"canal": "web",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "hggg",
+"fecha": "2026-10-07T17:22:12"
+},
+{
+"autor": "Aa",
+"fecha": "2026-10-09T10:09:26"
 }
 ]
 },
@@ -26062,6 +26240,23 @@
 "vecinos": []
 },
 {
+"titulo": "Fuente rota/desaparecida skatepark sansomendi",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=382048&claveAsuntoGestorCom=815659&claveAreaCom=",
+"fecha": "2026-10-09T10:32:34",
+"animo": "alegre",
+"extracto": "Desde la Unidad de Mto Urbano se visita la zona y se procede a su reparación con fecha",
+"respuesta_ayto": true,
+"tema": "Mobiliario urbano",
+"area": "Espacio público",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": []
+},
+{
 "titulo": "Parada autobús Los Herran, 86",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384867&claveAsuntoGestorCom=819562&claveAreaCom=",
 "fecha": "2026-10-09T11:03:46.468919",
@@ -26196,6 +26391,28 @@
 ]
 },
 {
+"titulo": "Caos circulatorio",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385483&claveAsuntoGestorCom=820471&claveAreaCom=",
+"fecha": "2026-10-09T11:13:21",
+"animo": "muy_triste",
+"extracto": "El fracaso de la movilidad en Vitoria es más que evidente dado el caos circulatorio existente cada día en esta preciosa ciudad. &iquest;Existe alguna...",
+"respuesta_ayto": false,
+"tema": "Circulación - Tráfico",
+"area": "Movilidad y transporte",
+"autor": "D.G.G.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "D.G.G.",
+"fecha": "2026-10-09T11:13:21"
+}
+]
+},
+{
 "titulo": "Pivotes",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=382042&claveAsuntoGestorCom=815651&claveAreaCom=",
 "fecha": "2026-10-09T11:15:00",
@@ -26214,6 +26431,28 @@
 {
 "autor": "Antonio",
 "fecha": "2026-10-09T11:15:00"
+}
+]
+},
+{
+"titulo": "Pivotes",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=382042&claveAsuntoGestorCom=815651&claveAreaCom=",
+"fecha": "2026-10-09T11:15:47",
+"animo": "muy_triste",
+"extracto": "Ayer puse un comentario para informar que todo sigue igual, sin noticia, pero es increíble que no se tome una solución, el otro día mi familiar que...",
+"respuesta_ayto": false,
+"tema": "Coches y aparcamiento",
+"area": "Movilidad y transporte",
+"autor": "Antonio",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Antonio",
+"fecha": "2026-10-09T11:15:47"
 }
 ]
 },
@@ -26288,6 +26527,54 @@
 ]
 },
 {
+"titulo": "Falta de limpieza",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385481&claveAsuntoGestorCom=820467&claveAreaCom=",
+"fecha": "2026-10-09T11:21:11",
+"animo": "alegre",
+"extracto": "Agradecemos que haya incluido su sugerencia en el Buzón ciudadano. Su comentario será tenido en cuenta para mejorar los servicios que el",
+"respuesta_ayto": true,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "A.H.G.",
+"fecha": "2026-10-09T10:57:24"
+}
+]
+},
+{
+"titulo": "Necesidad de bolardos",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=361929&claveAsuntoGestorCom=787837&claveAreaCom=",
+"fecha": "2026-10-09T11:21:26",
+"animo": "muy_triste",
+"extracto": "Vamos sumando.",
+"respuesta_ayto": true,
+"tema": "Señalización y balizamiento",
+"area": "Movilidad y transporte",
+"autor": "R.",
+"ultimo_ayto": false,
+"n_comentarios": 14,
+"n_participantes": 7,
+"canal": "web",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "R.",
+"fecha": "2026-10-06T20:40:29"
+},
+{
+"autor": "R.",
+"fecha": "2026-10-09T11:21:26"
+}
+]
+},
+{
 "titulo": "Accesos olvidados",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385478&claveAsuntoGestorCom=820463&claveAreaCom=",
 "fecha": "2026-10-09T11:24:00",
@@ -26306,6 +26593,28 @@
 {
 "autor": "I.B.R.",
 "fecha": "2026-10-09T10:39:00"
+}
+]
+},
+{
+"titulo": "Accesos olvidados",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385478&claveAsuntoGestorCom=820463&claveAreaCom=",
+"fecha": "2026-10-09T11:24:09",
+"animo": "alegre",
+"extracto": "Agradecemos su colaboración al transmitirnos el aviso. Lo comunicamos a la empresa encargada de realizar la limpieza en la ciudad para que acuda",
+"respuesta_ayto": true,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "I.B.R.",
+"fecha": "2026-10-09T10:39:03"
 }
 ]
 },
@@ -26361,6 +26670,57 @@
 ]
 },
 {
+"titulo": "Bancos en mal estado Palacio Europa",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=380211&claveAsuntoGestorCom=813435&claveAreaCom=",
+"fecha": "2026-10-09T11:41:16",
+"animo": "alegre",
+"extracto": "Desde la Unidad de Mto Urbano se visita la zona y se procede a su reparacion con fecha",
+"respuesta_ayto": true,
+"tema": "Mobiliario urbano",
+"area": "Espacio público",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 5,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": []
+},
+{
+"titulo": "Tienda Goya calle dato",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385369&claveAsuntoGestorCom=820307&claveAreaCom=",
+"fecha": "2026-10-09T11:41:35",
+"animo": "alegre",
+"extracto": "Así esta... Una pena semejante destrucción del patrimonio",
+"respuesta_ayto": false,
+"tema": "Obras en edificios",
+"area": "Urbanismo - Vivienda",
+"autor": "Jose",
+"ultimo_ayto": false,
+"n_comentarios": 4,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Jose",
+"fecha": "2026-10-08T10:36:46"
+},
+{
+"autor": "Jose",
+"fecha": "2026-10-09T09:01:14"
+},
+{
+"autor": "Jose",
+"fecha": "2026-10-09T09:01:53"
+},
+{
+"autor": "Jose",
+"fecha": "2026-10-09T11:41:35"
+}
+]
+},
+{
 "titulo": "Aparcabicis",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385486&claveAsuntoGestorCom=820482&claveAreaCom=",
 "fecha": "2026-10-09T11:42:00",
@@ -26405,6 +26765,50 @@
 ]
 },
 {
+"titulo": "Aparcabicis",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385486&claveAsuntoGestorCom=820482&claveAreaCom=",
+"fecha": "2026-10-09T11:42:18",
+"animo": "alegre",
+"extracto": "Egun on! Me gustaría solicitar la colocación aparcabicis enfrente de la Escuela infantil Galtzagorri, a la altura de la calle Naciones Unidas 8....",
+"respuesta_ayto": false,
+"tema": "Moverse en bicicleta",
+"area": "Movilidad y transporte",
+"autor": "J.G.M.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.G.M.",
+"fecha": "2026-10-09T11:42:18"
+}
+]
+},
+{
+"titulo": "Gai",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?accion=verComentarios&claveAsuntoCom=385486&claveAsuntoGestorCom=820482&claveAreaCom=9",
+"fecha": "2026-10-09T11:42:18",
+"animo": "normal",
+"extracto": "hau...",
+"respuesta_ayto": true,
+"tema": "Otros movilidad y transporte",
+"area": "Movilidad y transporte",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.G.M.",
+"fecha": "2026-10-09T11:42:18"
+}
+]
+},
+{
 "titulo": "DEGRADACION Y DECADENCIA",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385487&claveAsuntoGestorCom=820483&claveAreaCom=",
 "fecha": "2026-10-09T11:43:00",
@@ -26423,6 +26827,28 @@
 {
 "autor": "I.A.",
 "fecha": "2026-10-09T11:43:00"
+}
+]
+},
+{
+"titulo": "DEGRADACION Y DECADENCIA",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385487&claveAsuntoGestorCom=820483&claveAreaCom=",
+"fecha": "2026-10-09T11:43:27",
+"animo": "muy_triste",
+"extracto": "Buenos diar, informar que: Todas las fachadas del edificio ubicado entre las calles Bremen, Mar Tirreno y Mar Baltico (Edificio gris y verde) en...",
+"respuesta_ayto": false,
+"tema": "Policía Local",
+"area": "Seguridad ciudadana",
+"autor": "I.A.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "I.A.",
+"fecha": "2026-10-09T11:43:27"
 }
 ]
 },
@@ -26449,6 +26875,40 @@
 "fecha": "2026-10-09T11:44:00",
 "animo": "alegre",
 "extracto": "Desde la Unidad de Mto Urbano se visita la zona y se procede a su",
+"respuesta_ayto": true,
+"tema": "Desperfectos en vía pública",
+"area": "Espacio público",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": []
+},
+{
+"titulo": "adoquín de arbol en mal estado",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=380423&claveAsuntoGestorCom=813662&claveAreaCom=",
+"fecha": "2026-10-09T11:44:24",
+"animo": "alegre",
+"extracto": "Desde la Unidad de Mto Urbano se visita la zona y se procede a su",
+"respuesta_ayto": true,
+"tema": "Desperfectos en vía pública",
+"area": "Espacio público",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": []
+},
+{
+"titulo": "Baldosas rotas",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=381756&claveAsuntoGestorCom=815321&claveAreaCom=",
+"fecha": "2026-10-09T11:44:52",
+"animo": "alegre",
+"extracto": "Desde la Unidad de Mto Urbano se visita la zona y se procede a su reparación con fecha",
 "respuesta_ayto": true,
 "tema": "Desperfectos en vía pública",
 "area": "Espacio público",
@@ -26549,6 +27009,72 @@
 ]
 },
 {
+"titulo": "Señal de calle José Mardones dañada",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385480&claveAsuntoGestorCom=820465&claveAreaCom=",
+"fecha": "2026-10-09T11:55:05",
+"animo": "alegre",
+"extracto": "Agradecemos su colaboración, y le informamos que personal encargado del mantenimiento del mobiliario urbano acudirá al lugar indicado para",
+"respuesta_ayto": true,
+"tema": "Mobiliario urbano",
+"area": "Espacio público",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Jesus Rojo de San Jose",
+"fecha": "2026-10-09T10:54:26"
+}
+]
+},
+{
+"titulo": "Mascotas",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385432&claveAsuntoGestorCom=820406&claveAreaCom=",
+"fecha": "2026-10-09T11:55:28",
+"animo": "alegre",
+"extracto": "Le informamos que, según el artículo 76 del vigente Reglamento, \"1.- No se permitirá a las personas usuarias subir al vehículo",
+"respuesta_ayto": true,
+"tema": "TUVISA. Autobuses urbanos",
+"area": "Movilidad y transporte",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Y.G.I.",
+"fecha": "2026-10-08T16:43:06"
+}
+]
+},
+{
+"titulo": "DECADENCIA Y DEGRADACION",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385494&claveAsuntoGestorCom=820493&claveAreaCom=",
+"fecha": "2026-10-09T11:55:33",
+"animo": "muy_triste",
+"extracto": "Buenos dias, informar que: Todas las fachadas del edificio ubicado entre las calles Bremen, Mar Tirreno y Mar Baltico (Edificio gris y verde) en...",
+"respuesta_ayto": false,
+"tema": "Control urbanístico",
+"area": "Urbanismo - Vivienda",
+"autor": "I.A.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "I.A.",
+"fecha": "2026-10-09T11:55:33"
+}
+]
+},
+{
 "titulo": "Página web: El Buzón ciudadano, paso a paso",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385496&claveAsuntoGestorCom=820495&claveAreaCom=",
 "fecha": "2026-10-09T11:59:00",
@@ -26597,9 +27123,87 @@
 ]
 },
 {
+"titulo": "Página web: El Buzón ciudadano, paso a paso",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385495&claveAsuntoGestorCom=820494&claveAreaCom=",
+"fecha": "2026-10-09T11:59:04",
+"animo": "muy_triste",
+"extracto": "Es alucinante cómo las instituciones usan un doble rasero según lo que les conviene para la foto. Se concentran y montan minutos de silencio por...",
+"respuesta_ayto": false,
+"tema": "Otros Igualdad, Convivencia y Cooperación",
+"area": "Convivencia y Cooperación",
+"autor": "PPSOE",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Roberto",
+"fecha": "2026-10-09T11:59:04"
+},
+{
+"autor": "PPSOE",
+"fecha": "2026-10-09T11:59:04"
+}
+]
+},
+{
+"titulo": "Página web: El Buzón ciudadano, paso a paso",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385496&claveAsuntoGestorCom=820495&claveAreaCom=",
+"fecha": "2026-10-09T11:59:37",
+"animo": "muy_triste",
+"extracto": "Minuto de silencio por Maricarmen. El Ayuntamiento de Vitoria se concentra para recordar a Maricarmen. Sin embargo, ante la agresión mortal a Kerman,...",
+"respuesta_ayto": false,
+"tema": "Otros Igualdad, Convivencia y Cooperación",
+"area": "Convivencia y Cooperación",
+"autor": "Roberto",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Roberto",
+"fecha": "2026-10-09T11:59:37"
+}
+]
+},
+{
 "titulo": "Tuvisa mal",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385248&claveAsuntoGestorCom=820086&claveAreaCom=",
 "fecha": "2026-10-09T12:05:00",
+"animo": "alegre",
+"extracto": "Desde TUVISA y el Ayuntamiento queremos mostrarle nuestro agradecimiento por su colaboración en este espacio libre y abierto, donde todas",
+"respuesta_ayto": true,
+"tema": "TUVISA. Autobuses urbanos",
+"area": "Movilidad y transporte",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 5,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "K.A.K.",
+"fecha": "2026-10-07T09:39:20"
+},
+{
+"autor": "K.A.K.",
+"fecha": "2026-10-07T18:19:36"
+},
+{
+"autor": "K.A.K.",
+"fecha": "2026-10-08T18:56:15"
+}
+]
+},
+{
+"titulo": "Tuvisa mal",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385248&claveAsuntoGestorCom=820086&claveAreaCom=",
+"fecha": "2026-10-09T12:05:12",
 "animo": "alegre",
 "extracto": "Desde TUVISA y el Ayuntamiento queremos mostrarle nuestro agradecimiento por su colaboración en este espacio libre y abierto, donde todas",
 "respuesta_ayto": true,
@@ -26667,6 +27271,28 @@
 {
 "autor": "E.L.D.",
 "fecha": "2026-10-09T12:29:00"
+}
+]
+},
+{
+"titulo": "Queja por las condiciones de la ludoteca del Centro Cívico Judimendi",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385499&claveAsuntoGestorCom=820501&claveAreaCom=",
+"fecha": "2026-10-09T12:29:50",
+"animo": "triste",
+"extracto": "Quiero expresar mi disconformidad con el espacio que se nos ha asignado temporalmente en la ludoteca del Centro Cívico Judimendi. Me parece...",
+"respuesta_ayto": false,
+"tema": "Instalaciones socioculturales",
+"area": "Ocio y cultura",
+"autor": "E.L.D.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "E.L.D.",
+"fecha": "2026-10-09T12:29:50"
 }
 ]
 },
@@ -26833,6 +27459,28 @@
 ]
 },
 {
+"titulo": "Tranvía Zabalgana y TUVISA",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385505&claveAsuntoGestorCom=820521&claveAreaCom=",
+"fecha": "2026-10-09T13:45:35",
+"animo": "alegre",
+"extracto": "Agradecemos su participación en el Buzón del Ciudadano. Indicarle que en estos momentos se está llevando a cabo la revisión del Plan",
+"respuesta_ayto": true,
+"tema": "TUVISA. Autobuses urbanos",
+"area": "Movilidad y transporte",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "ranaldo",
+"fecha": "2026-10-09T13:15:03"
+}
+]
+},
+{
 "titulo": "Ratas junto a colegio",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385384&claveAsuntoGestorCom=820336&claveAreaCom=",
 "fecha": "2026-10-09T14:18:07.907022",
@@ -26905,9 +27553,57 @@
 ]
 },
 {
+"titulo": "ARBOLES",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385508&claveAsuntoGestorCom=820535&claveAreaCom=",
+"fecha": "2026-10-09T14:39:34",
+"animo": "alegre",
+"extracto": "Agradecemos que haya incluido su sugerencia en el Buzón ciudadano. Su comentario será tenido en cuenta para mejorar los servicios que el",
+"respuesta_ayto": true,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "vecino",
+"fecha": "2026-10-09T14:39:34"
+},
+{
+"autor": "vecino",
+"fecha": "2026-10-09T14:39:34"
+}
+]
+},
+{
 "titulo": "Un aire de realidad.",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384909&claveAsuntoGestorCom=819628&claveAreaCom=",
 "fecha": "2026-10-09T14:44:00",
+"animo": "alegre",
+"extracto": "Agradecemos su opinión. En relación con su propuesta, se estudiará posibilidad de implantar cuestionarios de satisfacción que permitan",
+"respuesta_ayto": true,
+"tema": "Personas mayores",
+"area": "Servicios sociales",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "A.M.G.",
+"fecha": "2026-10-04T22:37:17"
+}
+]
+},
+{
+"titulo": "Un aire de realidad.",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384909&claveAsuntoGestorCom=819628&claveAreaCom=",
+"fecha": "2026-10-09T14:44:36",
 "animo": "alegre",
 "extracto": "Agradecemos su opinión. En relación con su propuesta, se estudiará posibilidad de implantar cuestionarios de satisfacción que permitan",
 "respuesta_ayto": true,
@@ -26951,6 +27647,23 @@
 "fecha": "2026-10-03T18:06:54"
 }
 ]
+},
+{
+"titulo": "Bizan y subcontratas",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=378066&claveAsuntoGestorCom=811006&claveAreaCom=",
+"fecha": "2026-10-09T14:49:38",
+"animo": "alegre",
+"extracto": "Agradecemos su colaboración y lo trasladamos al Servicio de Personas",
+"respuesta_ayto": true,
+"tema": "Personas mayores",
+"area": "Servicios sociales",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 4,
+"n_participantes": 4,
+"canal": "web",
+"reactivado": false,
+"vecinos": []
 },
 {
 "titulo": "Gran bache junto a piscinas de Gamarra",
@@ -26997,6 +27710,50 @@
 ]
 },
 {
+"titulo": "Gran bache junto a piscinas de Gamarra",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385514&claveAsuntoGestorCom=820541&claveAreaCom=",
+"fecha": "2026-10-09T14:54:24",
+"animo": "alegre",
+"extracto": "Agradecemos su colaboración, y le informamos que personal encargado de la reparación de desperfectos en la vía pública acudirá al lugar indicado",
+"respuesta_ayto": true,
+"tema": "Desperfectos en vía pública",
+"area": "Espacio público",
+"autor": "",
+"ultimo_ayto": true,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "D.G.",
+"fecha": "2026-10-09T14:46:51"
+}
+]
+},
+{
+"titulo": "Avispa asiática",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385516&claveAsuntoGestorCom=820543&claveAreaCom=",
+"fecha": "2026-10-09T14:54:35",
+"animo": "muy_triste",
+"extracto": "En la calle Gabriela Mistral hay muchísimas avispas asiáticas en las zonas de arbustos y entorno a las fuentes. He tenido que ir a urgencias por una...",
+"respuesta_ayto": false,
+"tema": "Bomberos/as",
+"area": "Seguridad ciudadana",
+"autor": "E.A.L.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "E.A.L.",
+"fecha": "2026-10-09T14:54:35"
+}
+]
+},
+{
 "titulo": "Falta total de limpieza .Obdulio López de Uralde y aledaños.",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385518&claveAsuntoGestorCom=820545&claveAreaCom=",
 "fecha": "2026-10-09T14:59:00",
@@ -27015,6 +27772,28 @@
 {
 "autor": "A.H.G.",
 "fecha": "2026-10-09T14:59:00"
+}
+]
+},
+{
+"titulo": "Falta total de limpieza .Obdulio López de Uralde y aledaños.",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385518&claveAsuntoGestorCom=820545&claveAreaCom=",
+"fecha": "2026-10-09T14:59:46",
+"animo": "normal",
+"extracto": "Hoy he preguntado a los que pasean el carrito y me han informado que ellos limpian alcorques,papeleras y bordillos . Pero debe de ser de las...",
+"respuesta_ayto": false,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "A.H.G.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "A.H.G.",
+"fecha": "2026-10-09T14:59:46"
 }
 ]
 },
@@ -27147,6 +27926,52 @@
 ]
 },
 {
+"titulo": "Ratas junto a colegio",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385384&claveAsuntoGestorCom=820336&claveAreaCom=",
+"fecha": "2026-10-09T16:10:07",
+"animo": "muy_triste",
+"extracto": "y ....cual es el problema de que sea privada? obliguen su limpieza, o en lo privado pueden hacer lo que les venga en gana?",
+"respuesta_ayto": true,
+"tema": "Salubridad e higiene",
+"area": "Salud y consumo",
+"autor": "vecino",
+"ultimo_ayto": false,
+"n_comentarios": 8,
+"n_participantes": 7,
+"canal": "movil",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "Ximo",
+"fecha": "2026-10-08T11:30:06"
+},
+{
+"autor": "L.G.P.",
+"fecha": "2026-10-08T11:30:06"
+},
+{
+"autor": "I.G.P.",
+"fecha": "2026-10-08T16:45:14"
+},
+{
+"autor": "IFGO",
+"fecha": "2026-10-09T10:49:17"
+},
+{
+"autor": "A.M.S",
+"fecha": "2026-10-09T15:10:20"
+},
+{
+"autor": "A.M.S",
+"fecha": "2026-10-09T15:10:29"
+},
+{
+"autor": "vecino",
+"fecha": "2026-10-09T16:10:07"
+}
+]
+},
+{
 "titulo": "Basura caño Lamiak",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385530&claveAsuntoGestorCom=820557&claveAreaCom=",
 "fecha": "2026-10-09T16:18:07.907022",
@@ -27191,6 +28016,28 @@
 ]
 },
 {
+"titulo": "Bicis por Fray Fco.",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385527&claveAsuntoGestorCom=820554&claveAreaCom=",
+"fecha": "2026-10-09T16:31:35",
+"animo": "muy_triste",
+"extracto": "Hola. Es indignante e insufrible ya ir paseando por el P&ordm; Fray Francisco y tener que sortear bicis y patinetes a gran velocidad, en ocasiones con...",
+"respuesta_ayto": false,
+"tema": "Seguridad vial",
+"area": "Movilidad y transporte",
+"autor": "O.R.G.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "O.R.G.",
+"fecha": "2026-10-09T16:31:35"
+}
+]
+},
+{
 "titulo": "Heces en acera",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385528&claveAsuntoGestorCom=820555&claveAreaCom=",
 "fecha": "2026-10-09T16:33:00",
@@ -27213,6 +28060,28 @@
 ]
 },
 {
+"titulo": "Heces en acera",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385528&claveAsuntoGestorCom=820555&claveAreaCom=",
+"fecha": "2026-10-09T16:33:39",
+"animo": "muy_triste",
+"extracto": "Algun vecino esta tirando sus heces por la ventana En la calle duque de Wellintong en la apartamentks Irenaz cerca de la farmacia.",
+"respuesta_ayto": false,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "J.C.C.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.C.C.",
+"fecha": "2026-10-09T16:33:39"
+}
+]
+},
+{
 "titulo": "Parada autobús Los Herran, 86",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384867&claveAsuntoGestorCom=819562&claveAreaCom=",
 "fecha": "2026-10-09T17:16:00",
@@ -27229,20 +28098,12 @@
 "reactivado": true,
 "vecinos": [
 {
-"autor": "Alex",
-"fecha": "2026-10-03T21:31:42"
-},
-{
-"autor": "P. P.",
-"fecha": "2026-10-03T21:53:22"
-},
-{
 "autor": "I.O.S.",
 "fecha": "2026-10-04T00:52:29"
 },
 {
 "autor": "A.S.S.",
-"fecha": "2026-10-09T10:36:00"
+"fecha": "2026-10-09T10:36:08"
 },
 {
 "autor": "A.S.S.",
@@ -27291,6 +28152,28 @@
 {
 "autor": "I.O.",
 "fecha": "2026-10-09T17:55:00"
+}
+]
+},
+{
+"titulo": "Basura caño Lamiak",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385530&claveAsuntoGestorCom=820557&claveAreaCom=",
+"fecha": "2026-10-09T17:55:52",
+"animo": "triste",
+"extracto": "Caño Lamiak entre calle Nueva Dentro y Pintoreria. Altura Nueva Dentro 31.",
+"respuesta_ayto": false,
+"tema": "Salubridad e higiene",
+"area": "Salud y consumo",
+"autor": "I.O.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "I.O.",
+"fecha": "2026-10-09T17:55:52"
 }
 ]
 },
@@ -27357,6 +28240,28 @@
 {
 "autor": "D.R.L.",
 "fecha": "2026-10-09T18:26:00"
+}
+]
+},
+{
+"titulo": "Instalaciones frias",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385533&claveAsuntoGestorCom=820560&claveAreaCom=",
+"fecha": "2026-10-09T18:26:35",
+"animo": "muy_triste",
+"extracto": "Deseo presentar una queja sobre las condiciones de las instalaciones durante el curso de familiarización al medio acuático para bebés de los viernes...",
+"respuesta_ayto": false,
+"tema": "Instalaciones deportivas",
+"area": "Deportes",
+"autor": "D.R.L.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "D.R.L.",
+"fecha": "2026-10-09T18:26:35"
 }
 ]
 },
@@ -27483,6 +28388,28 @@
 ]
 },
 {
+"titulo": "Obras tranvía zabalgana",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385535&claveAsuntoGestorCom=820562&claveAreaCom=",
+"fecha": "2026-10-09T19:38:47",
+"animo": "normal",
+"extracto": "Con el comienzo de las obras para la instalación del tranvía de zabalgana están destruyendo el carril bici de la calle avenida naciones unidas....",
+"respuesta_ayto": false,
+"tema": "Obras en vía pública",
+"area": "Espacio público",
+"autor": "J.B.A.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.B.A.",
+"fecha": "2026-10-09T19:38:47"
+}
+]
+},
+{
 "titulo": "Desperfectos por obras Kutxabank Plaza Cataluña",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385490&claveAsuntoGestorCom=820489&claveAreaCom=",
 "fecha": "2026-10-09T19:42:07.907022",
@@ -27543,6 +28470,28 @@
 ]
 },
 {
+"titulo": "PISCINA ABETXUKO",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385536&claveAsuntoGestorCom=820563&claveAreaCom=",
+"fecha": "2026-10-09T19:44:47",
+"animo": "muy_triste",
+"extracto": "Hoy a la tarde hemos ido al curso de bebés de natación en el polideportivo Abetxuko. Dentro solo pueden estar las personas abonadas como es...",
+"respuesta_ayto": false,
+"tema": "Instalaciones deportivas",
+"area": "Deportes",
+"autor": "A.G.L.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "A.G.L.",
+"fecha": "2026-10-09T19:44:47"
+}
+]
+},
+{
 "titulo": "Limpieza calle Vicente Abreu",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385539&claveAsuntoGestorCom=820566&claveAreaCom=",
 "fecha": "2026-10-09T20:01:07.907022",
@@ -27591,6 +28540,32 @@
 ]
 },
 {
+"titulo": "Natación bebés",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384821&claveAsuntoGestorCom=819516&claveAreaCom=",
+"fecha": "2026-10-09T20:43:36",
+"animo": "triste",
+"extracto": "Hoy en el polideportivo de Abetxuko en natación para bebés el agua estaba fría. Concretamente mi bebe ha salido helado del agua. Para realizar...",
+"respuesta_ayto": false,
+"tema": "Actividad deportiva",
+"area": "Deportes",
+"autor": "I.",
+"ultimo_ayto": false,
+"n_comentarios": 3,
+"n_participantes": 3,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "A.S.",
+"fecha": "2026-10-04T15:28:29"
+},
+{
+"autor": "I.",
+"fecha": "2026-10-09T20:43:36"
+}
+]
+},
+{
 "titulo": "Contenedor lleno",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385537&claveAsuntoGestorCom=820564&claveAreaCom=",
 "fecha": "2026-10-09T21:32:00",
@@ -27609,6 +28584,28 @@
 {
 "autor": "H.Y.",
 "fecha": "2026-10-09T21:32:00"
+}
+]
+},
+{
+"titulo": "Contenedor lleno",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385537&claveAsuntoGestorCom=820564&claveAreaCom=",
+"fecha": "2026-10-09T21:32:16",
+"animo": "normal",
+"extracto": "Beato tomas de zumarraga 28",
+"respuesta_ayto": false,
+"tema": "Reciclaje de residuos",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "H.Y.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "H.Y.",
+"fecha": "2026-10-09T21:32:16"
 }
 ]
 },
@@ -27635,6 +28632,28 @@
 ]
 },
 {
+"titulo": "Semáforo, estación autobuses, nocturno",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385538&claveAsuntoGestorCom=820565&claveAreaCom=",
+"fecha": "2026-10-09T21:37:45",
+"animo": "muy_triste",
+"extracto": "No tiene sentido que un viernes a las 21:30 el semáforo peatonal de la estación de autobuses esté apagado y en ámbar para los coches. Van a toda...",
+"respuesta_ayto": false,
+"tema": "Circulación - Tráfico",
+"area": "Movilidad y transporte",
+"autor": "G",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "G",
+"fecha": "2026-10-09T21:37:45"
+}
+]
+},
+{
 "titulo": "Limpieza calle Vicente Abreu",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385539&claveAsuntoGestorCom=820566&claveAreaCom=",
 "fecha": "2026-10-09T22:01:00",
@@ -27653,6 +28672,28 @@
 {
 "autor": "M.G.G.",
 "fecha": "2026-10-09T22:01:00"
+}
+]
+},
+{
+"titulo": "Limpieza calle Vicente Abreu",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385539&claveAsuntoGestorCom=820566&claveAreaCom=",
+"fecha": "2026-10-09T22:01:31",
+"animo": "normal",
+"extracto": "Buenas noches, Solicito la limpieza de la zona de soportales de Vicente Abreu y de la zona de contenedores. Gracias",
+"respuesta_ayto": false,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "M.G.G.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.G.G.",
+"fecha": "2026-10-09T22:01:31"
 }
 ]
 },
@@ -27679,6 +28720,28 @@
 ]
 },
 {
+"titulo": "Farola fundida",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385540&claveAsuntoGestorCom=820567&claveAreaCom=",
+"fecha": "2026-10-09T22:34:39",
+"animo": "muy_triste",
+"extracto": "En la calle Pablo Neruda, antes de la rotonda con Vitalia, hay una farola de autopista fundida. Se recomienda su arreglo.",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "Speedy",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Speedy",
+"fecha": "2026-10-09T22:34:39"
+}
+]
+},
+{
 "titulo": "Farolas fundidas",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385541&claveAsuntoGestorCom=820568&claveAreaCom=",
 "fecha": "2026-10-09T22:38:00",
@@ -27697,6 +28760,28 @@
 {
 "autor": "Speedy",
 "fecha": "2026-10-09T22:38:00"
+}
+]
+},
+{
+"titulo": "Farolas fundidas",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385541&claveAsuntoGestorCom=820568&claveAreaCom=",
+"fecha": "2026-10-09T22:38:24",
+"animo": "muy_triste",
+"extracto": "Frente a consultas externas hay dos farolas , una enfrente y otra en una esquina, fundidas. Se recomienda su arreglo.",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "Speedy",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Speedy",
+"fecha": "2026-10-09T22:38:24"
 }
 ]
 },
@@ -27723,6 +28808,28 @@
 ]
 },
 {
+"titulo": "Rotonda Antonio Amat Maíz",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385542&claveAsuntoGestorCom=820569&claveAreaCom=",
+"fecha": "2026-10-09T22:40:15",
+"animo": "normal",
+"extracto": "En las propuestas salió realizar rotonda en calle Antonio Amat Maíz pero me gustaría saber en qué punto exacto se va a poner, si es una o dos porque...",
+"respuesta_ayto": false,
+"tema": "Circulación - Tráfico",
+"area": "Movilidad y transporte",
+"autor": "M.L.P.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.L.P.",
+"fecha": "2026-10-09T22:40:15"
+}
+]
+},
+{
 "titulo": "Pequeña fuga en Astrónomos / Florida",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385543&claveAsuntoGestorCom=820570&claveAreaCom=",
 "fecha": "2026-10-09T22:43:00",
@@ -27741,6 +28848,28 @@
 {
 "autor": "D.A.P.O.",
 "fecha": "2026-10-09T22:43:00"
+}
+]
+},
+{
+"titulo": "Pequeña fuga en Astrónomos / Florida",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385543&claveAsuntoGestorCom=820570&claveAreaCom=",
+"fecha": "2026-10-09T22:43:04",
+"animo": "normal",
+"extracto": "Hola: Hay una fuga de agua en la parte alta de Astrónomos, en el cruce con Florida. Ahora que ha dejado de llover se ve...",
+"respuesta_ayto": false,
+"tema": "AMVISA",
+"area": "Espacio público",
+"autor": "D.A.P.O.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "D.A.P.O.",
+"fecha": "2026-10-09T22:43:04"
 }
 ]
 },
@@ -27767,6 +28896,28 @@
 ]
 },
 {
+"titulo": "Autobuses especiales",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385544&claveAsuntoGestorCom=820571&claveAreaCom=",
+"fecha": "2026-10-09T23:00:20",
+"animo": "normal",
+"extracto": "Van a poner autobuses especiales para el concierto de Sergio Dalma en el buesa arena día 17 de obtubre",
+"respuesta_ayto": false,
+"tema": "TUVISA. Autobuses urbanos",
+"area": "Movilidad y transporte",
+"autor": "M.B.T.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.B.T.",
+"fecha": "2026-10-09T23:00:20"
+}
+]
+},
+{
 "titulo": "bicicletas",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385534&claveAsuntoGestorCom=820561&claveAreaCom=",
 "fecha": "2026-10-10T10:20:08.534576",
@@ -27975,6 +29126,112 @@
 {
 "autor": "r",
 "fecha": "2026-10-10T10:28:25.005859"
+}
+]
+},
+{
+"titulo": "calle okupada por coches abandonados",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384175&claveAsuntoGestorCom=818624&claveAreaCom=",
+"fecha": "2026-10-10T11:54:00",
+"animo": "muy_triste",
+"extracto": "Que descontrol de ciudad!!!",
+"respuesta_ayto": false,
+"tema": "Retirada de vehículos",
+"area": "Movilidad y transporte",
+"autor": "Ciudadano",
+"ultimo_ayto": false,
+"n_comentarios": 5,
+"n_participantes": 2,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "PIRULO",
+"fecha": "2026-10-10T08:01:00"
+},
+{
+"autor": "PIRULO",
+"fecha": "2026-10-10T08:03:00"
+},
+{
+"autor": "PIRULO",
+"fecha": "2026-10-10T08:06:00"
+},
+{
+"autor": "Ciudadano",
+"fecha": "2026-10-10T11:54:00"
+}
+]
+},
+{
+"titulo": "bicicletas",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385534&claveAsuntoGestorCom=820561&claveAreaCom=",
+"fecha": "2026-10-10T11:59:00",
+"animo": "muy_triste",
+"extracto": "Totalmente de acuerdo con ambos comentarios, educar a estos ciclistas a base de multas como hacéis con los vehículos, deberíamos ser iguales en este...",
+"respuesta_ayto": false,
+"tema": "Moverse en bicicleta",
+"area": "Movilidad y transporte",
+"autor": "Ciudadano",
+"ultimo_ayto": false,
+"n_comentarios": 3,
+"n_participantes": 3,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "hago lo que quiero",
+"fecha": "2026-10-09T19:12:10"
+},
+{
+"autor": "G.F.S.",
+"fecha": "2026-10-09T20:33:02"
+},
+{
+"autor": "Ciudadano",
+"fecha": "2026-10-10T11:59:00"
+}
+]
+},
+{
+"titulo": "Desperfectos por obras Kutxabank Plaza Cataluña",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385490&claveAsuntoGestorCom=820489&claveAreaCom=",
+"fecha": "2026-10-10T11:59:00",
+"animo": "muy_triste",
+"extracto": "Lo que no entiendo y quiero que me respondan es por la respuesta que dan desde el Buzón Ciudadano.",
+"respuesta_ayto": true,
+"tema": "Desperfectos en vía pública",
+"area": "Espacio público",
+"autor": "r",
+"ultimo_ayto": false,
+"n_comentarios": 7,
+"n_participantes": 5,
+"canal": "movil",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "O.B.L.",
+"fecha": "2026-10-09T11:50:49"
+},
+{
+"autor": "Montana",
+"fecha": "2026-10-09T13:11:41"
+},
+{
+"autor": "O.B.L.",
+"fecha": "2026-10-09T18:17:25"
+},
+{
+"autor": "r",
+"fecha": "2026-10-09T19:42:14"
+},
+{
+"autor": "Idaho",
+"fecha": "2026-10-09T21:41:41"
+},
+{
+"autor": "r",
+"fecha": "2026-10-10T11:59:00"
 }
 ]
 },
@@ -27997,6 +29254,28 @@
 {
 "autor": "Asier",
 "fecha": "2026-10-10T12:28:25.005859"
+}
+]
+},
+{
+"titulo": "Acera levantada",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385550&claveAsuntoGestorCom=820577&claveAreaCom=",
+"fecha": "2026-10-10T14:12:00",
+"animo": "triste",
+"extracto": "En la torre de Iturritxu 3 enfrente de la puerta de la antigua carnicería Argomaniz, está la acera levantada y provoca muchos tropezones sobre todo...",
+"respuesta_ayto": false,
+"tema": "Desperfectos en vía pública",
+"area": "Espacio público",
+"autor": "Asier",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Asier",
+"fecha": "2026-10-10T14:12:00"
 }
 ]
 },
@@ -28041,6 +29320,28 @@
 {
 "autor": "Barrio abandonado",
 "fecha": "2026-10-10T16:28:25.005859"
+}
+]
+},
+{
+"titulo": "Desperfecto Área recreativa 156",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385553&claveAsuntoGestorCom=820580&claveAreaCom=",
+"fecha": "2026-10-10T16:56:00",
+"animo": "normal",
+"extracto": "Falta una madera en el puente del columpio con tobogán para menores de 2-3años. Queda un agujero peligroso en el cual introducen el pie lo más...",
+"respuesta_ayto": false,
+"tema": "Desperfectos en vía pública",
+"area": "Espacio público",
+"autor": "E.U.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "E.U.",
+"fecha": "2026-10-10T16:56:00"
 }
 ]
 },
@@ -28159,6 +29460,28 @@
 ]
 },
 {
+"titulo": "Gautxori G2 Olárizu paradas 'morea' ya!",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385554&claveAsuntoGestorCom=820581&claveAreaCom=",
+"fecha": "2026-10-10T18:22:00",
+"animo": "muy_triste",
+"extracto": "&iquest;para cuándo está previsto las paradas Morea en Olárizu? Me gustaría saber los criterios para decidir los barrios que pueden tenerlas y cuáleas... Barrio",
+"respuesta_ayto": false,
+"tema": "TUVISA. Autobuses urbanos",
+"area": "Movilidad y transporte",
+"autor": "Barrio abandonado",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Barrio abandonado",
+"fecha": "2026-10-10T18:22:00"
+}
+]
+},
+{
 "titulo": "Aparcamiento Ensanche",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385559&claveAsuntoGestorCom=820586&claveAreaCom=",
 "fecha": "2026-10-10T18:28:25.005859",
@@ -28247,6 +29570,28 @@
 ]
 },
 {
+"titulo": "Cruz Roja Mercadona Olárizu",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385555&claveAsuntoGestorCom=820582&claveAreaCom=",
+"fecha": "2026-10-10T18:32:00",
+"animo": "muy_triste",
+"extracto": "La mayoría de noches una furgoneta de la Cruz Roja en la entrada del Mercadona de Olárizu sobre las 23:00 de la noche. La policía muchos días... Barrio",
+"respuesta_ayto": false,
+"tema": "Otros seguridad ciudadana",
+"area": "Seguridad ciudadana",
+"autor": "Barrio abandonado",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Barrio abandonado",
+"fecha": "2026-10-10T18:32:00"
+}
+]
+},
+{
 "titulo": "Apagón Arana-Aranbizkarra",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385563&claveAsuntoGestorCom=820590&claveAreaCom=",
 "fecha": "2026-10-10T18:42:25.005859",
@@ -28265,6 +29610,424 @@
 {
 "autor": "E.S.",
 "fecha": "2026-10-10T18:42:25.005859"
+}
+]
+},
+{
+"titulo": "Suciedad infinita",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=383433&claveAsuntoGestorCom=817685&claveAreaCom=",
+"fecha": "2026-10-10T18:49:00",
+"animo": "muy_triste",
+"extracto": "Vale!! luego os pasáis por el puente que está yendo al HUA debajo de él vivió una persona sin techo y a día",
+"respuesta_ayto": true,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "Ciudadano",
+"ultimo_ayto": false,
+"n_comentarios": 4,
+"n_participantes": 3,
+"canal": "movil",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "DN",
+"fecha": "2026-10-10T13:41:00"
+},
+{
+"autor": "Ciudadano",
+"fecha": "2026-10-10T18:49:00"
+}
+]
+},
+{
+"titulo": "Municipales vitoria",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385556&claveAsuntoGestorCom=820583&claveAreaCom=",
+"fecha": "2026-10-10T19:00:00",
+"animo": "muy_triste",
+"extracto": "Hoy previa partido deportivo Alaves-athl Madrid, un vehículo con tarjeta de movilidad reducida, en rotonda salvatierrabide con portal de las arte,...",
+"respuesta_ayto": false,
+"tema": "Coches y aparcamiento",
+"area": "Movilidad y transporte",
+"autor": "O.L.L.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "O.L.L.",
+"fecha": "2026-10-10T19:00:00"
+}
+]
+},
+{
+"titulo": "Aspersores recta miñones de Álava",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385557&claveAsuntoGestorCom=820584&claveAreaCom=",
+"fecha": "2026-10-10T19:09:00",
+"animo": "normal",
+"extracto": "Hay una sección de la recta de miñones de &Aacute;lava hacia Olárizu, que están los aspersores encendidos, pero no han salido adecuadamente y están formando...",
+"respuesta_ayto": false,
+"tema": "Zonas verdes",
+"area": "Espacio público",
+"autor": "J.R.B.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.R.B.",
+"fecha": "2026-10-10T19:09:00"
+}
+]
+},
+{
+"titulo": "Bache en paso de cebra desde fuente de la plaza Constitución hacia esquina Goiener (plaza Constitución 1)",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=383922&claveAsuntoGestorCom=818316&claveAreaCom=",
+"fecha": "2026-10-10T19:15:00",
+"animo": "triste",
+"extracto": "Acabo de revisar el bache y sigue igual. Desconozco qué se reparo pero el bache que reclamaba sigue ahí, adjunto foto",
+"respuesta_ayto": true,
+"tema": "Desperfectos en vía pública",
+"area": "Espacio público",
+"autor": "A .G",
+"ultimo_ayto": false,
+"n_comentarios": 4,
+"n_participantes": 3,
+"canal": "web",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "A .G",
+"fecha": "2026-10-10T19:15:00"
+}
+]
+},
+{
+"titulo": "Cabina que entorpece",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385560&claveAsuntoGestorCom=820587&claveAreaCom=",
+"fecha": "2026-10-10T20:24:00",
+"animo": "normal",
+"extracto": "Por favor, aprovechen las obras para quitar la cabina de la calle independencia. Es una calle estrecha y lo único que hace es entorpecer el tránsito.",
+"respuesta_ayto": false,
+"tema": "Accesibilidad",
+"area": "Espacio público",
+"autor": "Dam",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Dam",
+"fecha": "2026-10-10T20:24:00"
+}
+]
+},
+{
+"titulo": "Derroche de agua",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385561&claveAsuntoGestorCom=820588&claveAreaCom=",
+"fecha": "2026-10-10T20:25:00",
+"animo": "triste",
+"extracto": "Aspersores de miñones de &Aacute;lava 6-8 llevan horas tirando agua sin control",
+"respuesta_ayto": false,
+"tema": "Zonas verdes",
+"area": "Espacio público",
+"autor": "D.A.G.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "D.A.G.",
+"fecha": "2026-10-10T20:25:00"
+}
+]
+},
+{
+"titulo": "Apagón Arana-Aranbizkarra",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385563&claveAsuntoGestorCom=820590&claveAreaCom=",
+"fecha": "2026-10-10T20:42:00",
+"animo": "muy_triste",
+"extracto": "Llevamos",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "E.S.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "E.S.",
+"fecha": "2026-10-10T20:42:00"
+}
+]
+},
+{
+"titulo": "Aparcamiento Ensanche",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385559&claveAsuntoGestorCom=820586&claveAreaCom=",
+"fecha": "2026-10-10T23:58:00",
+"animo": "normal",
+"extracto": "Algunos ya avisamos antes, pero está de moda tragar con todo, se creían que por pagar la famosa tarjeta vecinal el aparcamiento ya estaba asegurado...",
+"respuesta_ayto": false,
+"tema": "Coches y aparcamiento",
+"area": "Movilidad y transporte",
+"autor": "Ciudadano",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Al",
+"fecha": "2026-10-10T20:02:00"
+},
+{
+"autor": "Ciudadano",
+"fecha": "2026-10-10T23:58:00"
+}
+]
+},
+{
+"titulo": "Semáforo Aguirrelanda 1",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385564&claveAsuntoGestorCom=820591&claveAreaCom=",
+"fecha": "2026-10-11T05:33:37.919286",
+"animo": "normal",
+"extracto": "Buenos días. Solicito la instalación de un semáforo en el paso de peatones de Aguirrelanda 1. Los coches no paran y pasan a toda velocidad....",
+"respuesta_ayto": false,
+"tema": "Otros movilidad y transporte",
+"area": "Movilidad y transporte",
+"autor": "M.m.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.m.",
+"fecha": "2026-10-11T05:33:37.919286"
+}
+]
+},
+{
+"titulo": "Tren de cercanías con parada en Arkaiate",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385562&claveAsuntoGestorCom=820589&claveAreaCom=",
+"fecha": "2026-10-11T05:33:37.919286",
+"animo": "muy_triste",
+"extracto": "Hola. Incomunicados???? Tenemos las líneas 6 y 5. Con la 6 estás en 15 minutos en el centro. Añade la 10 que también la puedes coger.<br...",
+"respuesta_ayto": false,
+"tema": "Otros movilidad y transporte",
+"area": "Movilidad y transporte",
+"autor": "M.m.",
+"ultimo_ayto": false,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.M.",
+"fecha": "2026-10-10T20:29:00"
+},
+{
+"autor": "Jon",
+"fecha": "2026-10-10T21:35:00"
+},
+{
+"autor": "M.m.",
+"fecha": "2026-10-11T05:33:37.919286"
+}
+]
+},
+{
+"titulo": "Puente las neveras",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=384072&claveAsuntoGestorCom=818482&claveAreaCom=",
+"fecha": "2026-10-11T08:33:37.919286",
+"animo": "normal",
+"extracto": "Arreglar el puente de las neveras es un servicio útil para los y las vecinas que a diario necesitan cruzar las vías del tren de una forma segura y...",
+"respuesta_ayto": false,
+"tema": "Obras en vía pública",
+"area": "Espacio público",
+"autor": "N.Z.",
+"ultimo_ayto": false,
+"n_comentarios": 38,
+"n_participantes": 36,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "M.L.",
+"fecha": "2026-10-05T08:42:28"
+},
+{
+"autor": "Loretxu",
+"fecha": "2026-10-05T08:45:17"
+},
+{
+"autor": "L.B.F.",
+"fecha": "2026-10-05T08:45:27"
+},
+{
+"autor": "Loretxu",
+"fecha": "2026-10-05T08:50:51"
+},
+{
+"autor": "m.h.h.",
+"fecha": "2026-10-05T08:58:19"
+},
+{
+"autor": "M.L.M.",
+"fecha": "2026-10-05T09:03:15"
+},
+{
+"autor": "Aitor",
+"fecha": "2026-10-05T09:08:00"
+},
+{
+"autor": "MS",
+"fecha": "2026-10-05T09:15:36"
+},
+{
+"autor": "Mai",
+"fecha": "2026-10-05T09:25:42"
+},
+{
+"autor": "R.J.I.",
+"fecha": "2026-10-05T09:37:23"
+},
+{
+"autor": "Diego Alonso",
+"fecha": "2026-10-05T09:39:15"
+},
+{
+"autor": "D.F.",
+"fecha": "2026-10-05T10:04:17"
+},
+{
+"autor": "M.R.A.",
+"fecha": "2026-10-05T10:23:33"
+},
+{
+"autor": "A.S",
+"fecha": "2026-10-05T10:43:36"
+},
+{
+"autor": "-",
+"fecha": "2026-10-05T10:45:51"
+},
+{
+"autor": "M.S.G.",
+"fecha": "2026-10-05T10:50:56"
+},
+{
+"autor": "N.K.F.",
+"fecha": "2026-10-05T11:25:26"
+},
+{
+"autor": "ASZ",
+"fecha": "2026-10-05T13:07:47"
+},
+{
+"autor": "M.M.B.",
+"fecha": "2026-10-05T14:08:12"
+},
+{
+"autor": "A.C.P.",
+"fecha": "2026-10-05T16:31:34"
+},
+{
+"autor": "vane",
+"fecha": "2026-10-05T19:36:29"
+},
+{
+"autor": "Ruben",
+"fecha": "2026-10-05T19:40:11"
+},
+{
+"autor": "E.P.L.",
+"fecha": "2026-10-05T21:59:52"
+},
+{
+"autor": "Auzokidea eta familia",
+"fecha": "2026-10-05T23:22:07"
+},
+{
+"autor": "M.R",
+"fecha": "2026-10-06T08:47:32"
+},
+{
+"autor": "Familia indignada",
+"fecha": "2026-10-06T09:16:37"
+},
+{
+"autor": "H.V.F.",
+"fecha": "2026-10-06T11:48:29"
+},
+{
+"autor": "V.R.S.",
+"fecha": "2026-10-06T23:26:43"
+},
+{
+"autor": "Asier",
+"fecha": "2026-10-10T23:08:00"
+},
+{
+"autor": "N.Z.",
+"fecha": "2026-10-11T08:33:37.919286"
+}
+]
+},
+{
+"titulo": "Suciedad",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385565&claveAsuntoGestorCom=820592&claveAreaCom=",
+"fecha": "2026-10-11T08:33:37.919286",
+"animo": "muy_triste",
+"extracto": "Esta mañana hay esto en el jardín de Falerina",
+"respuesta_ayto": false,
+"tema": "Otros vía pública",
+"area": "Espacio público",
+"autor": "S.V.N.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "S.V.N.",
+"fecha": "2026-10-11T08:33:37.919286"
+}
+]
+},
+{
+"titulo": "Ruido, suciedad y jovenes",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385566&claveAsuntoGestorCom=820593&claveAreaCom=",
+"fecha": "2026-10-11T09:33:37.919286",
+"animo": "normal",
+"extracto": "En un banco situado al lado de la entrada a los garajes de rio Bayas 42 se juntan muchas noches jóvenes que hacen mucho ruido y dejan todo...",
+"respuesta_ayto": false,
+"tema": "Mobiliario urbano",
+"area": "Espacio público",
+"autor": "S.A.M.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "S.A.M.",
+"fecha": "2026-10-11T09:33:37.919286"
 }
 ]
 }
