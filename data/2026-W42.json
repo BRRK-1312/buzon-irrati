@@ -178,5 +178,27 @@
 "fecha": "2026-10-12T13:16:59.365278"
 }
 ]
+},
+{
+"titulo": "Bicis abandonadas en Los Herrán 28 - A",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=385600&claveAsuntoGestorCom=820627&claveAreaCom=",
+"fecha": "2026-10-12T22:15:14.717881",
+"animo": "normal",
+"extracto": "Hay dos bicis abandonadas, atadas juntitas, en un aparcabicis en calle Los Herrán, junto a la esquina con 12 de Octubre, en el soporte más cercano a...",
+"respuesta_ayto": false,
+"tema": "Retirada de vehículos",
+"area": "Movilidad y transporte",
+"autor": "D.A.P.O.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "D.A.P.O.",
+"fecha": "2026-10-12T22:15:14.717881"
+}
+]
 }
 ]
