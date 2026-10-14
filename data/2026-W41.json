@@ -13885,12 +13885,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "anónimo",
-"fecha": "2026-10-06T22:51:53"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Rama árbol medio caída",
@@ -15025,12 +15020,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.F.A.",
-"fecha": "2026-10-06T12:15:47"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Queja por pendiente excesiva en rampas de autobuses eléctricos por falta de arrodillamiento.",
@@ -15112,16 +15102,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.L.S.",
-"fecha": "2026-10-06T08:25:03"
-},
-{
-"autor": "Citizen Cained",
-"fecha": "2026-10-06T22:30:19"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Bichos raros",
@@ -15824,10 +15805,6 @@
 "reactivado": true,
 "vecinos": [
 {
-"autor": "Xxx",
-"fecha": "2026-10-06T11:33:52"
-},
-{
 "autor": "XXXXX",
 "fecha": "2026-10-07T11:02:07"
 }
@@ -16341,12 +16318,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.G.T.",
-"fecha": "2026-10-06T13:45:02"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Limpieza",
@@ -16592,12 +16564,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.S.M.",
-"fecha": "2026-10-06T13:34:31"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Nueva pintada en fachada recién limpiada",
@@ -16636,12 +16603,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.S.G.",
-"fecha": "2026-10-06T12:13:02"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "LIMPIEZA CALLE ELORRIBARRA (JUNDIZ)",
@@ -16917,12 +16879,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "I.Z.M.",
-"fecha": "2026-10-06T18:27:32"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Rotonda de Esmaltaciones",
@@ -17710,12 +17667,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "S.O.G.",
-"fecha": "2026-10-06T10:06:04"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Aclaración sobre normativa y riesgos",
@@ -18108,10 +18060,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "L",
-"fecha": "2026-10-06T17:52:08"
-},
 {
 "autor": "l.",
 "fecha": "2026-10-07T16:03:10"
@@ -19929,16 +19877,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.A.S.",
-"fecha": "2026-10-06T19:20:00"
-},
-{
-"autor": "M.A.S.",
-"fecha": "2026-10-06T19:23:54"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suciedad y ratas",
@@ -20166,10 +20105,6 @@
 "canal": "movil",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "mikel",
-"fecha": "2026-10-06T09:11:23"
-},
 {
 "autor": "mikel",
 "fecha": "2026-10-08T08:34:48"
@@ -22363,12 +22298,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.G.A.",
-"fecha": "2026-10-06T08:34:23"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Barandillas verdes",
@@ -22795,24 +22725,7 @@
 "n_participantes": 5,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Pesau y metete",
-"fecha": "2026-10-06T12:41:03"
-},
-{
-"autor": "X.X.X.",
-"fecha": "2026-10-06T13:37:08"
-},
-{
-"autor": "Pesau y metete",
-"fecha": "2026-10-06T14:23:08"
-},
-{
-"autor": "X.X.X.",
-"fecha": "2026-10-06T14:46:26"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Página web: Oficina de Atención Ciudadana de Salburua",
@@ -22881,20 +22794,7 @@
 "n_participantes": 4,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "S.O.G.",
-"fecha": "2026-10-06T09:34:07"
-},
-{
-"autor": "P.O.U.",
-"fecha": "2026-10-06T10:07:22"
-},
-{
-"autor": "N.M.M.",
-"fecha": "2026-10-06T17:08:43"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Reclamación por las condiciones de la ludoteka de Judimendi",
@@ -22981,12 +22881,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "I.M.I.",
-"fecha": "2026-10-06T18:00:20"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Basuras Arkaiate",
@@ -23113,12 +23008,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.J.D.",
-"fecha": "2026-10-06T18:04:50"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Linea 6",
@@ -26291,10 +26181,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "R.",
-"fecha": "2026-10-06T20:40:29"
-},
 {
 "autor": "R.",
 "fecha": "2026-10-09T11:21:26"
@@ -30669,22 +30555,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "M.R",
-"fecha": "2026-10-06T08:47:32"
-},
-{
-"autor": "Familia indignada",
-"fecha": "2026-10-06T09:16:37"
-},
-{
-"autor": "H.V.F.",
-"fecha": "2026-10-06T11:48:29"
-},
-{
-"autor": "V.R.S.",
-"fecha": "2026-10-06T23:26:43"
-},
 {
 "autor": "Asier",
 "fecha": "2026-10-10T23:08:09"
