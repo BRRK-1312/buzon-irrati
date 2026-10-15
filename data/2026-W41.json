@@ -19511,12 +19511,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.T.R.",
-"fecha": "2026-10-07T15:58:55"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Pésimo servicio líneas 3 y 9 hacia Goikolarra",
@@ -19920,12 +19915,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.A.P.",
-"fecha": "2026-10-07T13:59:11"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Pintada papeleras",
@@ -19964,12 +19954,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Ciudadano",
-"fecha": "2026-10-07T12:48:04"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Aparcamiento BIZIZ olaguibel",
@@ -20030,12 +20015,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "F.M.E.",
-"fecha": "2026-10-07T07:15:31"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor de vidrio",
@@ -20052,12 +20032,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Ciudadano",
-"fecha": "2026-10-07T12:45:48"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "slow",
@@ -20148,12 +20123,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "D.R.B.",
-"fecha": "2026-10-07T09:03:21"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "pasarela los astronomos",
@@ -21691,12 +21661,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "HM",
-"fecha": "2026-10-07T09:17:23"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Página web: Oficina de Atención Ciudadana de Salburua",
@@ -22557,20 +22522,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "C.O.M.",
-"fecha": "2026-10-07T19:00:52"
-},
-{
-"autor": "G.D.S.",
-"fecha": "2026-10-07T20:42:31"
-},
-{
-"autor": "G.D.S.",
-"fecha": "2026-10-07T20:43:44"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Gautxori y linea 10 al barrio olarizu",
@@ -22742,12 +22694,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Elena",
-"fecha": "2026-10-07T09:48:37"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Queja por el ruido de los autobuses de la Línea 7",
@@ -23047,12 +22994,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.G.B.",
-"fecha": "2026-10-07T12:04:50"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Mascotas",
@@ -23410,10 +23352,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "M.P.A",
-"fecha": "2026-10-07T13:39:47"
-},
 {
 "autor": "D.F.S.",
 "fecha": "2026-10-08T16:55:05"
@@ -24225,10 +24163,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "J.E.G.",
-"fecha": "2026-10-07T19:26:39"
-},
 {
 "autor": "J.E.G.",
 "fecha": "2026-10-08T18:13:06"
@@ -25464,10 +25398,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "hggg",
-"fecha": "2026-10-07T17:22:12"
-},
 {
 "autor": "Aa",
 "fecha": "2026-10-09T10:09:26"
@@ -26829,14 +26759,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "K.A.K.",
-"fecha": "2026-10-07T09:39:20"
-},
-{
-"autor": "K.A.K.",
-"fecha": "2026-10-07T18:19:36"
-},
 {
 "autor": "K.A.K.",
 "fecha": "2026-10-08T18:56:15"
