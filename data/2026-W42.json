@@ -17664,12 +17664,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.M.R.",
-"fecha": "2026-10-14T19:03:39"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Semáforo entrada parking catedral",
@@ -17904,12 +17899,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.A.G.",
-"fecha": "2026-10-14T10:48:10"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "patinetes sin cumplir la ley y normativas municipales",
@@ -20187,14 +20177,6 @@
 "reactivado": true,
 "vecinos": [
 {
-"autor": "j.A.M.S",
-"fecha": "2026-10-14T12:46:14"
-},
-{
-"autor": "f.o.",
-"fecha": "2026-10-14T12:47:55"
-},
-{
 "autor": "Josefra",
 "fecha": "2026-10-15T08:11:38"
 },
@@ -20392,10 +20374,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "MMR",
-"fecha": "2026-10-14T15:30:34"
-},
 {
 "autor": "Jose",
 "fecha": "2026-10-15T06:29:00"
@@ -21994,10 +21972,6 @@
 "vecinos": [
 {
 "autor": "Ciudadano",
-"fecha": "2026-10-14T12:47:58"
-},
-{
-"autor": "Ciudadano",
 "fecha": "2026-10-16T12:49:55"
 },
 {
@@ -22091,12 +22065,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.J.C.",
-"fecha": "2026-10-14T19:49:22"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suelo de los columpios del Prado",
@@ -23274,12 +23243,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Speedy",
-"fecha": "2026-10-14T20:28:41"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "farolas sin luz en la calle",
@@ -23326,20 +23290,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "blanca",
-"fecha": "2026-10-14T03:15:16"
-},
-{
-"autor": "L.R.G.",
-"fecha": "2026-10-14T05:02:39"
-},
-{
-"autor": "blanca",
-"fecha": "2026-10-14T09:41:12"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Agujeros importantes en calzada",
