@@ -19871,12 +19871,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "JGU",
-"fecha": "2026-10-15T15:56:29"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "COLCHON Y COSAS EN PARQUE DE ARRIAGA",
@@ -19915,12 +19910,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "EL FARY",
-"fecha": "2026-10-15T15:12:10"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Poda arbolado",
@@ -19959,12 +19949,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.B.P.",
-"fecha": "2026-10-15T18:40:03"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "BICICLETAS POR LAS ACERAS",
@@ -20178,14 +20163,6 @@
 "vecinos": [
 {
 "autor": "Josefra",
-"fecha": "2026-10-15T08:11:38"
-},
-{
-"autor": "H.A.",
-"fecha": "2026-10-15T14:15:45"
-},
-{
-"autor": "Josefra",
 "fecha": "2026-10-16T08:25:24"
 }
 ]
@@ -20374,10 +20351,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "Jose",
-"fecha": "2026-10-15T06:29:00"
-},
 {
 "autor": "Con miedo a ser atropellado",
 "fecha": "2026-10-16T08:26:48"
@@ -23199,12 +23172,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "I.L.I.",
-"fecha": "2026-10-15T22:28:14"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Farolas fundidas",
