@@ -8439,16 +8439,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.R.G.",
-"fecha": "2026-10-19T20:22:56"
-},
-{
-"autor": "F.G.M.",
-"fecha": "2026-10-19T22:21:59"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Vallas",
@@ -8966,10 +8957,6 @@
 "reactivado": true,
 "vecinos": [
 {
-"autor": "J.Z.P.",
-"fecha": "2026-10-19T17:26:45"
-},
-{
 "autor": "Con miedo a ser atropellado",
 "fecha": "2026-10-20T08:26:53"
 }
@@ -9471,12 +9458,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Anónimo/a",
-"fecha": "2026-10-19T16:10:01"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Bicicarril Reyes de Navarra",
@@ -12853,10 +12835,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "E.P.G.",
-"fecha": "2026-10-19T10:02:21"
-},
-{
 "autor": "F.F.",
 "fecha": "2026-10-20T17:19:15"
 }
@@ -13425,10 +13403,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "G.R.T.",
-"fecha": "2026-10-19T09:19:03"
-},
-{
 "autor": "inseguridad vial",
 "fecha": "2026-10-20T19:35:55"
 }
@@ -13691,14 +13665,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "A.S.M.",
-"fecha": "2026-10-19T12:42:54"
-},
-{
-"autor": "M.Y.F.",
-"fecha": "2026-10-19T13:58:52"
-},
-{
 "autor": "B.B.",
 "fecha": "2026-10-20T21:35:40"
 }
@@ -13818,14 +13784,6 @@
 "canal": "movil",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "M.N.V.",
-"fecha": "2026-10-19T17:10:06"
-},
-{
-"autor": "C.F.S.",
-"fecha": "2026-10-19T18:19:48"
-},
 {
 "autor": "Eso es mentira",
 "fecha": "2026-10-20T16:45:20"
@@ -16385,12 +16343,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Lorena",
-"fecha": "2026-10-19T19:04:30"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Semaforo calle Martinez de Aragon",
@@ -19415,10 +19368,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "M.U.",
-"fecha": "2026-10-19T18:36:51"
-},
-{
 "autor": "masocupada",
 "fecha": "2026-10-21T00:29:06"
 },
@@ -19569,12 +19518,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "r.L.",
-"fecha": "2026-10-19T12:12:24"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Tendederos en la calle",
@@ -21568,20 +21512,7 @@
 "n_participantes": 4,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.R.P.",
-"fecha": "2026-10-19T19:20:28"
-},
-{
-"autor": "M.S.",
-"fecha": "2026-10-19T20:18:40"
-},
-{
-"autor": "AM",
-"fecha": "2026-10-19T20:58:23"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "AUTOBUS LINEA 11",
@@ -21676,12 +21607,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.B.P.",
-"fecha": "2026-10-19T13:59:21"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "linea 11",
@@ -21698,12 +21624,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Maríavictoria",
-"fecha": "2026-10-19T12:33:45"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Ampliación frecuencia horarios autobuses linea 11",
@@ -21742,12 +21663,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "C.S.B.",
-"fecha": "2026-10-19T09:55:48"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Linea 11",
@@ -22115,34 +22031,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "J.M.D.",
-"fecha": "2026-10-19T11:43:58"
-},
-{
-"autor": "X.X.X.",
-"fecha": "2026-10-19T11:59:13"
-},
-{
-"autor": "A.M.C.",
-"fecha": "2026-10-19T16:01:02"
-},
-{
-"autor": "V.C.G.",
-"fecha": "2026-10-19T16:56:39"
-},
-{
-"autor": "E.S.D.",
-"fecha": "2026-10-19T17:19:24"
-},
-{
-"autor": "R.B.G.",
-"fecha": "2026-10-19T20:42:45"
-},
-{
-"autor": "B.Z.S.",
-"fecha": "2026-10-19T23:02:25"
-},
-{
 "autor": "M.M.",
 "fecha": "2026-10-21T15:37:21"
 }
@@ -22411,10 +22299,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "A.L.l.",
-"fecha": "2026-10-19T23:34:08"
-},
-{
 "autor": "J.V.L.",
 "fecha": "2026-10-20T09:17:24"
 }
@@ -22501,12 +22385,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.N.V.",
-"fecha": "2026-10-19T17:12:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Fuera de contenedor en José lejarreta 16",
@@ -26640,10 +26519,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "R.S.M.",
-"fecha": "2026-10-19T09:02:39"
-},
-{
 "autor": "Rakel",
 "fecha": "2026-10-22T21:23:55"
 },
@@ -26741,10 +26616,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "J.G.L",
-"fecha": "2026-10-19T16:36:41"
-},
 {
 "autor": "A.D.A.",
 "fecha": "2026-10-20T18:46:22"
@@ -30265,6 +30136,28 @@
 ]
 },
 {
+"titulo": "Cómo acceder a cursos sin cupo",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386792&claveAsuntoGestorCom=822215&claveAreaCom=",
+"fecha": "2026-10-25T01:21:11",
+"animo": "normal",
+"extracto": "Me gustaría saber cómo se puede acceder a un cursillo que ya tiene cupo cubierto,dado que es iniciación al medio acuático y conseguí plaza en el...",
+"respuesta_ayto": false,
+"tema": "Actividad deportiva",
+"area": "Deportes",
+"autor": "J.L.N.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.L.N.",
+"fecha": "2026-10-25T01:21:11"
+}
+]
+},
+{
 "titulo": "Colapso de bicicletas aparcadas e invasión del espacio peatonal en la Plaza del General Loma",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386793&claveAsuntoGestorCom=822216&claveAreaCom=",
 "fecha": "2026-10-25T08:04:25.497344",
@@ -30591,6 +30484,28 @@
 ]
 },
 {
+"titulo": "Aparcamiento en Mendizorroza con tarjeta de movilidad reducida los días de partido de los equipos del Alavés.",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386081&claveAsuntoGestorCom=821293&claveAreaCom=",
+"fecha": "2026-10-25T12:35:11",
+"animo": "muy_triste",
+"extracto": "Buenos días: Los pasados días 20-09-26 y 16-10-26 hice primero, y luego repetí, a ese Buzón del Ciudadano una pregunta sobre el aparcamiento en...",
+"respuesta_ayto": false,
+"tema": "Coches y aparcamiento",
+"area": "Movilidad y transporte",
+"autor": "J.P.R.",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.P.R.",
+"fecha": "2026-10-25T12:35:11"
+}
+]
+},
+{
 "titulo": "Transporte público nocturno nochebuena",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386442&claveAsuntoGestorCom=821755&claveAreaCom=",
 "fecha": "2026-10-25T13:32:03.896252",
@@ -30691,6 +30606,32 @@
 ]
 },
 {
+"titulo": "Retirada de bicicletas abandonadas",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386796&claveAsuntoGestorCom=822219&claveAreaCom=",
+"fecha": "2026-10-25T13:37:24",
+"animo": "normal",
+"extracto": "En Juntas Generales 48, hay otras dos abandonadas en los aparcabicis, solicito su retirada, gracias.",
+"respuesta_ayto": false,
+"tema": "Retirada de vehículos",
+"area": "Movilidad y transporte",
+"autor": "Txp",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "L.U.I.",
+"fecha": "2026-10-25T11:45:17"
+},
+{
+"autor": "Txp",
+"fecha": "2026-10-25T13:37:24"
+}
+]
+},
+{
 "titulo": "Zonas comunes Centro Civico ZABALGANA",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386802&claveAsuntoGestorCom=822225&claveAreaCom=",
 "fecha": "2026-10-25T14:32:03.896252",
@@ -30753,6 +30694,28 @@
 {
 "autor": "J.C.M.",
 "fecha": "2026-10-25T15:12:00"
+}
+]
+},
+{
+"titulo": "Zonas comunes Centro Civico ZABALGANA",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386802&claveAsuntoGestorCom=822225&claveAreaCom=",
+"fecha": "2026-10-25T15:12:15",
+"animo": "triste",
+"extracto": "Actualmente realizo en el CC Zabalgana una actividad deportiva los martes y los jueves. Tras la misma procedo a ducharme y a secarme el pelo en los...",
+"respuesta_ayto": false,
+"tema": "Instalaciones deportivas",
+"area": "Deportes",
+"autor": "J.C.M.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.C.M.",
+"fecha": "2026-10-25T15:12:15"
 }
 ]
 },
@@ -30841,6 +30804,28 @@
 {
 "autor": "oscuro",
 "fecha": "2026-10-25T16:29:00"
+}
+]
+},
+{
+"titulo": "Farola fundida en Domingo Beltran 64",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386806&claveAsuntoGestorCom=822229&claveAreaCom=",
+"fecha": "2026-10-25T16:29:48",
+"animo": "muy_triste",
+"extracto": "Hay una farola en Domingo beltran 64. La calle ya está muy oscura, ruego su arreglo. Gracias",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "oscuro",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "oscuro",
+"fecha": "2026-10-25T16:29:48"
 }
 ]
 },
@@ -31139,6 +31124,140 @@
 ]
 },
 {
+"titulo": "Desahucio en sansomendi",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386784&claveAsuntoGestorCom=822207&claveAreaCom=",
+"fecha": "2026-10-25T18:45:35",
+"animo": "muy_triste",
+"extracto": "Mi padre cotizó durante toda su puñetera vida, dentro y fuera de este país y falleció en una residencia privada con su pensión, no pudo en una...",
+"respuesta_ayto": false,
+"tema": "Personas en situación de vulnerabilidad social",
+"area": "Servicios sociales",
+"autor": "o.d",
+"ultimo_ayto": false,
+"n_comentarios": 29,
+"n_participantes": 15,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "V.R.O.",
+"fecha": "2026-10-24T14:28:20"
+},
+{
+"autor": "Con miedo a ser atropellado",
+"fecha": "2026-10-24T15:49:54"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-10-24T23:26:23"
+},
+{
+"autor": "Basta ya",
+"fecha": "2026-10-25T07:17:39"
+},
+{
+"autor": "Más paga que serán uno más",
+"fecha": "2026-10-25T08:45:05"
+},
+{
+"autor": "Yo mismo",
+"fecha": "2026-10-25T09:16:12"
+},
+{
+"autor": "V.c.d.",
+"fecha": "2026-10-25T09:16:26"
+},
+{
+"autor": "G.D.A.",
+"fecha": "2026-10-25T09:32:58"
+},
+{
+"autor": "Jon",
+"fecha": "2026-10-25T09:59:43"
+},
+{
+"autor": "V.d.c.",
+"fecha": "2026-10-25T10:04:47"
+},
+{
+"autor": "Basta ya",
+"fecha": "2026-10-25T11:46:01"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-10-25T12:09:00"
+},
+{
+"autor": "V.c.d.",
+"fecha": "2026-10-25T12:18:17"
+},
+{
+"autor": "Basta ya",
+"fecha": "2026-10-25T12:21:35"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-10-25T12:40:15"
+},
+{
+"autor": "Basta ya",
+"fecha": "2026-10-25T12:46:00"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-10-25T12:56:58"
+},
+{
+"autor": "Basta ya",
+"fecha": "2026-10-25T13:03:43"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-10-25T13:32:21"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-10-25T13:35:18"
+},
+{
+"autor": "Basta ya",
+"fecha": "2026-10-25T14:48:06"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-10-25T14:51:46"
+},
+{
+"autor": "datos",
+"fecha": "2026-10-25T16:21:02"
+},
+{
+"autor": "a",
+"fecha": "2026-10-25T16:31:23"
+},
+{
+"autor": "F.S.T.",
+"fecha": "2026-10-25T16:56:57"
+},
+{
+"autor": "a",
+"fecha": "2026-10-25T17:06:33"
+},
+{
+"autor": "V.c.d.",
+"fecha": "2026-10-25T18:17:45"
+},
+{
+"autor": "123",
+"fecha": "2026-10-25T18:39:20"
+},
+{
+"autor": "o.d",
+"fecha": "2026-10-25T18:45:35"
+}
+]
+},
+{
 "titulo": "Insuficiente tiempo de alumbrado en las canchas de Hegoalde",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386808&claveAsuntoGestorCom=822231&claveAreaCom=",
 "fecha": "2026-10-25T19:34:00",
@@ -31157,6 +31276,28 @@
 {
 "autor": "I.R.P.",
 "fecha": "2026-10-25T19:34:00"
+}
+]
+},
+{
+"titulo": "Insuficiente tiempo de alumbrado en las canchas de Hegoalde",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386808&claveAsuntoGestorCom=822231&claveAreaCom=",
+"fecha": "2026-10-25T19:34:54",
+"animo": "muy_triste",
+"extracto": "El tiempo de alumbrado en las canchas de Hegoalde es insuficiente. Hoy mismo a las 19:10 de la tarde ya no hay luz. Los chavales no pueden disfrutar...",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "I.R.P.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "I.R.P.",
+"fecha": "2026-10-25T19:34:54"
 }
 ]
 },
@@ -31191,6 +31332,36 @@
 ]
 },
 {
+"titulo": "Transporte público nocturno nochebuena",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386442&claveAsuntoGestorCom=821755&claveAreaCom=",
+"fecha": "2026-10-25T20:32:04",
+"animo": "normal",
+"extracto": "Eso mismo digo yo! Ojala lo valoren antes de tiempo y no cuando haya que lamentar algun accidente..",
+"respuesta_ayto": false,
+"tema": "TUVISA. Autobuses urbanos",
+"area": "Movilidad y transporte",
+"autor": "N",
+"ultimo_ayto": false,
+"n_comentarios": 3,
+"n_participantes": 3,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "L.",
+"fecha": "2026-10-21T10:10:36"
+},
+{
+"autor": "M.M.",
+"fecha": "2026-10-25T14:15:10"
+},
+{
+"autor": "N",
+"fecha": "2026-10-25T20:32:04"
+}
+]
+},
+{
 "titulo": "Pulsador Semáforo Bulevar de Salburua no funciona",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=377783&claveAsuntoGestorCom=810601&claveAreaCom=",
 "fecha": "2026-10-25T21:34:00",
@@ -31209,6 +31380,28 @@
 {
 "autor": "I.A.E.",
 "fecha": "2026-10-25T21:34:00"
+}
+]
+},
+{
+"titulo": "Pulsador Semáforo Bulevar de Salburua no funciona",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=377783&claveAsuntoGestorCom=810601&claveAreaCom=",
+"fecha": "2026-10-25T21:34:47",
+"animo": "triste",
+"extracto": "Vuelve a no funcionar. Hoy Domingo en torno a las 14.00 pulsabas y no se ponía verde el semáforo",
+"respuesta_ayto": false,
+"tema": "Circulación - Tráfico",
+"area": "Movilidad y transporte",
+"autor": "I.A.E.",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "I.A.E.",
+"fecha": "2026-10-25T21:34:47"
 }
 ]
 },
@@ -31235,6 +31428,32 @@
 {
 "autor": "Decepcionado",
 "fecha": "2026-10-25T23:44:00"
+}
+]
+},
+{
+"titulo": "Incumplimiento de programa en el curso de Taichí -Polideportivo Aranalde",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=386807&claveAsuntoGestorCom=822230&claveAreaCom=",
+"fecha": "2026-10-25T23:44:17",
+"animo": "triste",
+"extracto": "Me refiero a curso que se desarrolla los martes y jueves de 16:00 a 17:00 h.",
+"respuesta_ayto": false,
+"tema": "Actividad deportiva",
+"area": "Deportes",
+"autor": "Decepcionado",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "Decepcionado",
+"fecha": "2026-10-25T17:57:16"
+},
+{
+"autor": "Decepcionado",
+"fecha": "2026-10-25T23:44:17"
 }
 ]
 }
