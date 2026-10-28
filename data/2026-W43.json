@@ -14599,12 +14599,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-10-20T21:29:05"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Imposible salir de mi propio garaje",
@@ -16720,12 +16715,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Anónimo",
-"fecha": "2026-10-20T16:32:11"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Bolsas heces perros",
@@ -19422,20 +19412,7 @@
 "n_participantes": 4,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "L.Z.S.",
-"fecha": "2026-10-20T10:49:58"
-},
-{
-"autor": "O.R",
-"fecha": "2026-10-20T10:49:58"
-},
-{
-"autor": "vecino",
-"fecha": "2026-10-20T14:12:18"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor azul lleno",
@@ -21414,10 +21391,6 @@
 "reactivado": true,
 "vecinos": [
 {
-"autor": "K.M.R.",
-"fecha": "2026-10-20T09:33:31"
-},
-{
 "autor": "Andrea Maldonado",
 "fecha": "2026-10-22T10:36:25"
 }
@@ -21941,12 +21914,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M",
-"fecha": "2026-10-20T23:46:40"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Los motores siguen en marcha en parada de autobús de la Goikolarra",
@@ -22117,12 +22085,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "N.A.A.",
-"fecha": "2026-10-20T20:32:34"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "ACTIVIDAD MUSICAL DE TONIFICACION",
@@ -22249,12 +22212,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "V.V",
-"fecha": "2026-10-20T09:57:17"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Linea 11",
@@ -22297,12 +22255,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.V.L.",
-"fecha": "2026-10-20T09:17:24"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Vergüenza linea 11",
@@ -22341,12 +22294,7 @@
 "n_participantes": 4,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.D.",
-"fecha": "2026-10-20T09:10:54"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "te juegas la vida",
@@ -22682,12 +22630,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "C.S.P.",
-"fecha": "2026-10-20T17:00:35"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Saturación de la Oficina de Atención Ciudadana del Centro Cívico El Pilar por la concentración de la atención de tarde",
@@ -23220,12 +23163,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.P.V.",
-"fecha": "2026-10-20T13:28:14"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Bicis apracadas en doble fila",
@@ -23711,10 +23649,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "T.B.",
-"fecha": "2026-10-20T20:39:51"
-},
 {
 "autor": "M.B.",
 "fecha": "2026-10-22T17:00:32"
@@ -26617,10 +26551,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "A.D.A.",
-"fecha": "2026-10-20T18:46:22"
-},
-{
 "autor": "S.S.G.",
 "fecha": "2026-10-21T22:00:48"
 },
@@ -26768,10 +26698,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "JDB",
-"fecha": "2026-10-20T14:30:42"
-},
 {
 "autor": "JDB",
 "fecha": "2026-10-22T14:09:18"
@@ -27659,12 +27585,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "F.M.L.",
-"fecha": "2026-10-20T21:06:24"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Autobús pequeño",
