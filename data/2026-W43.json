@@ -19208,20 +19208,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "K.U.",
-"fecha": "2026-10-21T13:49:26"
-},
-{
-"autor": "K.U.",
-"fecha": "2026-10-21T14:54:54"
-},
-{
-"autor": "K.U.",
-"fecha": "2026-10-21T14:57:47"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor Orgánica",
@@ -19260,12 +19247,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "R.C.B.",
-"fecha": "2026-10-21T20:22:58"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedores sin recoger",
@@ -19304,12 +19286,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-10-21T21:31:31"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Servicio de cultura",
@@ -19357,10 +19334,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "masocupada",
-"fecha": "2026-10-21T00:29:06"
-},
 {
 "autor": "M.G.",
 "fecha": "2026-10-22T08:59:19"
@@ -19451,12 +19424,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "G.F.",
-"fecha": "2026-10-21T16:43:03"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "musico",
@@ -21997,12 +21965,7 @@
 "n_participantes": 14,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.M.",
-"fecha": "2026-10-21T15:37:21"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Autobús no para",
@@ -22041,12 +22004,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Anonimo",
-"fecha": "2026-10-21T19:42:04"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Frecuencia linea 11",
@@ -22905,12 +22863,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "v.c.v.",
-"fecha": "2026-10-21T09:37:07"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Landatxo Kiroldegiko sareak",
@@ -26550,14 +26503,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "S.S.G.",
-"fecha": "2026-10-21T22:00:48"
-},
-{
-"autor": "Nur",
-"fecha": "2026-10-21T23:30:14"
-},
 {
 "autor": "M.S.",
 "fecha": "2026-10-22T08:03:06"
