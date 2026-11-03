@@ -8523,12 +8523,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "nelson",
-"fecha": "2026-10-26T18:25:32"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Árbol muerto",
@@ -8699,12 +8694,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.B.R.",
-"fecha": "2026-10-26T22:23:34"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Sin contenedores en la calle",
@@ -8971,12 +8961,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "I.F.P.",
-"fecha": "2026-10-26T23:45:32"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Tráfico patinetes y bicicletas acera obras tranvia Zabalgana",
@@ -9451,12 +9436,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "VECINA MOLESTA",
-"fecha": "2026-10-26T15:44:56"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Vaca muerta junto al pantano de Landa",
@@ -9539,12 +9519,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "I.L.S.",
-"fecha": "2026-10-26T19:35:50"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Limpieza a las 00:00 de la noche",
@@ -10113,12 +10088,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.R.C.",
-"fecha": "2026-10-26T10:22:13"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Ampliación líneas de autobús desde Goikolarra",
@@ -10585,16 +10555,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-10-26T17:19:19"
-},
-{
-"autor": "vecina",
-"fecha": "2026-10-26T17:23:29"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Basura en las calles",
@@ -10633,12 +10594,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-10-26T17:17:28"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Ropa tirada",
@@ -10677,12 +10633,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "H.A.",
-"fecha": "2026-10-26T16:59:27"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "fuente nueva sin pulsador",
@@ -11273,16 +11224,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.M.",
-"fecha": "2026-10-26T10:46:57"
-},
-{
-"autor": "J.M.",
-"fecha": "2026-10-26T10:50:32"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Señalización desgastada",
@@ -11338,12 +11280,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "X.A.O.",
-"fecha": "2026-10-26T14:43:43"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Pintada tinte político c/Orio (ibaiondo)",
@@ -11386,16 +11323,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "X.A.O.",
-"fecha": "2026-10-26T14:33:05"
-},
-{
-"autor": "r.c.a.",
-"fecha": "2026-10-26T14:51:02"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Pintada tinte político plaza zumaia (ibaiondo)",
@@ -11438,16 +11366,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "X.A.O.",
-"fecha": "2026-10-26T14:29:28"
-},
-{
-"autor": "r.c.a.",
-"fecha": "2026-10-26T14:51:45"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Accesibilidad Hegoalde",
@@ -12723,14 +12642,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "J.O.C.",
-"fecha": "2026-10-26T11:49:02"
-},
-{
-"autor": "Me siento engañada",
-"fecha": "2026-10-26T12:35:38"
-},
-{
 "autor": "M.F.F.",
 "fecha": "2026-10-27T14:11:26"
 }
@@ -13172,10 +13083,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "A.A.",
-"fecha": "2026-10-26T14:44:42"
-},
 {
 "autor": "BGB",
 "fecha": "2026-10-27T08:20:31"
@@ -14362,18 +14269,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "I.O.S.",
-"fecha": "2026-10-26T11:56:15"
-},
-{
-"autor": "R.F.O.",
-"fecha": "2026-10-26T11:56:15"
-},
-{
-"autor": "SOLUCION",
-"fecha": "2026-10-26T12:43:56"
-},
 {
 "autor": "Caravanas todos los dias",
 "fecha": "2026-10-27T21:17:48"
@@ -15737,14 +15632,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "M.S.",
-"fecha": "2026-10-26T09:33:50"
-},
-{
-"autor": "L.C.",
-"fecha": "2026-10-26T19:51:29"
-},
 {
 "autor": "M.H.A.",
 "fecha": "2026-10-28T09:14:52"
@@ -17611,12 +17498,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.G.",
-"fecha": "2026-10-26T15:51:32"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Negativa del conductor a dejarme subir",
@@ -19849,12 +19731,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "S.F.",
-"fecha": "2026-10-26T08:26:14"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "C/ Campo de los Palacios, 12. Ratas.",
@@ -20099,12 +19976,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "R.C.J.",
-"fecha": "2026-10-26T14:18:46"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Remolque piscina",
@@ -21408,12 +21280,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "R",
-"fecha": "2026-10-26T13:51:26"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Gafas con retrovisores",
@@ -22034,12 +21901,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.L.",
-"fecha": "2026-10-26T10:37:34"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "pintor dublang 2-12",
@@ -27651,10 +27513,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "El Vecino",
-"fecha": "2026-10-26T09:02:59"
-},
 {
 "autor": "El Vecino",
 "fecha": "2026-10-30T08:42:59"
