@@ -14962,12 +14962,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "gorringo",
-"fecha": "2026-10-27T16:28:15"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Balsa Borinbizkarra",
@@ -14984,12 +14979,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.F",
-"fecha": "2026-10-27T15:38:39"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Aparcabicis roto",
@@ -15006,12 +14996,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "D.D.O.",
-"fecha": "2026-10-27T22:51:28"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Papelera arrancada",
@@ -15094,12 +15079,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-10-27T15:31:43"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Gatos sin afecto en CPA",
@@ -15226,12 +15206,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Zazun",
-"fecha": "2026-10-27T11:46:36"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Bidegorri Paseo de la Florida necesita pintar las líneas",
@@ -17078,34 +17053,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "U.D.R.",
-"fecha": "2026-10-27T14:39:14"
-},
-{
-"autor": "anónimo",
-"fecha": "2026-10-27T16:55:32"
-},
-{
-"autor": "Este es el nivel",
-"fecha": "2026-10-27T18:50:24"
-},
-{
-"autor": "anónimo",
-"fecha": "2026-10-27T19:04:04"
-},
-{
-"autor": "P.G.",
-"fecha": "2026-10-27T20:50:44"
-},
-{
-"autor": "fuera odiadores",
-"fecha": "2026-10-27T21:53:56"
-},
-{
-"autor": "F.O.L.",
-"fecha": "2026-10-27T22:09:47"
-},
-{
 "autor": "B.Y.",
 "fecha": "2026-10-28T07:24:09"
 },
@@ -17294,20 +17241,7 @@
 "n_participantes": 10,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.N.V.",
-"fecha": "2026-10-27T14:08:11"
-},
-{
-"autor": "A.R.",
-"fecha": "2026-10-27T18:48:16"
-},
-{
-"autor": "A.R.",
-"fecha": "2026-10-27T18:50:34"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "ACTIVIDADES CENTROS CIVICOS",
@@ -17402,12 +17336,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "carmen",
-"fecha": "2026-10-27T13:07:52"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Línea 5",
@@ -17472,16 +17401,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.S.F.",
-"fecha": "2026-10-27T08:14:51"
-},
-{
-"autor": "A.c.c.",
-"fecha": "2026-10-27T08:29:56"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Línea 5",
@@ -19844,12 +19764,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.B.A.",
-"fecha": "2026-10-27T11:44:19"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Papeleras",
@@ -23778,12 +23693,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Speedy",
-"fecha": "2026-10-27T22:00:15"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Avenida Santiago",
@@ -23844,12 +23754,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "LCNSC",
-"fecha": "2026-10-27T13:06:18"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Farola fundida en camino Santa Teresa",
@@ -24433,10 +24338,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "R.G.B.",
-"fecha": "2026-10-27T18:37:10"
-},
 {
 "autor": "R.G.B.",
 "fecha": "2026-10-29T13:19:14"
@@ -28183,10 +28084,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "LCNSC",
-"fecha": "2026-10-27T13:03:02"
-},
 {
 "autor": "M.S.",
 "fecha": "2026-10-30T09:48:56"
@@ -32732,14 +32629,6 @@
 "reactivado": true,
 "vecinos": [
 {
-"autor": "J.P.",
-"fecha": "2026-10-27T19:16:10"
-},
-{
-"autor": "J.S.",
-"fecha": "2026-10-27T21:29:09"
-},
-{
 "autor": "R.B.",
 "fecha": "2026-10-29T15:06:24"
 },
@@ -33298,10 +33187,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "S.C.S.",
-"fecha": "2026-10-27T18:01:28"
-},
-{
 "autor": "A.S.D.",
 "fecha": "2026-11-01T03:34:02"
 }
@@ -33323,10 +33208,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "I.M.P.",
-"fecha": "2026-10-27T17:59:45"
-},
 {
 "autor": "A.S.D.",
 "fecha": "2026-11-01T03:34:25"
