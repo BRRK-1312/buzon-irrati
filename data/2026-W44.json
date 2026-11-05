@@ -21151,12 +21151,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Gasteiz garbiaren alde",
-"fecha": "2026-10-28T15:48:10"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Baldosas rotas y sueltas",
@@ -21662,12 +21657,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "ktc",
-"fecha": "2026-10-28T17:56:09"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Solicitud de creación de nuevas plazas de aparcamiento en el barrio de Goikolarra",
@@ -22435,10 +22425,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "M.P.M.",
-"fecha": "2026-10-28T19:57:42"
-},
-{
 "autor": "B.b.b.",
 "fecha": "2026-10-29T08:40:56"
 }
@@ -22481,12 +22467,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.M.G.",
-"fecha": "2026-10-28T15:21:08"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Los lectores de tarjetas en los autobuses",
@@ -23483,12 +23464,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.D.S.",
-"fecha": "2026-10-28T11:59:11"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suciedad",
@@ -23527,12 +23503,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "P.O.R.",
-"fecha": "2026-10-28T15:36:52"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedores en mal estado en C/ Pedro Asúa",
@@ -23571,12 +23542,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.M.G.",
-"fecha": "2026-10-28T08:11:40"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Duchas Aranalde",
@@ -23732,12 +23698,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.D.S.",
-"fecha": "2026-10-28T12:00:57"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Farola fundida",
@@ -24075,12 +24036,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "K.L.",
-"fecha": "2026-10-28T12:34:02"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Indignación",
@@ -24798,14 +24754,6 @@
 "vecinos": [
 {
 "autor": "JJ",
-"fecha": "2026-10-28T21:29:20"
-},
-{
-"autor": "F.S.S.",
-"fecha": "2026-10-28T22:42:01"
-},
-{
-"autor": "JJ",
 "fecha": "2026-10-29T07:54:23"
 },
 {
@@ -24859,12 +24807,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.O.F.",
-"fecha": "2026-10-28T13:51:24"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "SIGUE EL ABUSO CONTRA CURSO DE AQUAGIM",
@@ -25969,10 +25912,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "M.M.",
-"fecha": "2026-10-28T15:42:21"
-},
-{
 "autor": "M.A.",
 "fecha": "2026-10-29T23:14:34"
 },
@@ -26120,10 +26059,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "A",
-"fecha": "2026-10-28T10:43:13"
-},
 {
 "autor": "Auzokidea",
 "fecha": "2026-10-30T00:08:22"
@@ -27015,12 +26950,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Marian",
-"fecha": "2026-10-28T11:58:58"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "BICIS Y PATINETES OCUPANDO ACERA POR OBRAS TRANCIA",
@@ -35929,22 +35859,6 @@
 "canal": "movil",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "e.n.e.",
-"fecha": "2026-10-28T09:37:23"
-},
-{
-"autor": "r.e.y.",
-"fecha": "2026-10-28T10:24:08"
-},
-{
-"autor": "m.m.m.",
-"fecha": "2026-10-28T10:44:29"
-},
-{
-"autor": "Loquedigas",
-"fecha": "2026-10-28T17:23:43"
-},
 {
 "autor": "jb",
 "fecha": "2026-10-29T03:50:27"
