@@ -25912,10 +25912,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "M.A.",
-"fecha": "2026-10-29T23:14:34"
-},
-{
 "autor": "CPS",
 "fecha": "2026-10-30T00:02:05"
 }
@@ -26678,22 +26674,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "A.B.M.",
-"fecha": "2026-10-29T09:16:57"
-},
-{
-"autor": "y.f.a.",
-"fecha": "2026-10-29T17:04:05"
-},
-{
-"autor": "y.f.a.",
-"fecha": "2026-10-29T17:07:20"
-},
-{
-"autor": "D.F.A.",
-"fecha": "2026-10-29T17:31:05"
-},
-{
 "autor": "AAD",
 "fecha": "2026-10-30T08:02:00"
 },
@@ -26998,14 +26978,6 @@
 "canal": "movil",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "Moreno",
-"fecha": "2026-10-29T17:52:06"
-},
-{
-"autor": "Josefra",
-"fecha": "2026-10-29T19:53:31"
-},
 {
 "autor": "Con miedo a ser atropellado",
 "fecha": "2026-10-30T08:14:55"
@@ -27991,12 +27963,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "B.V.G.",
-"fecha": "2026-10-29T19:32:47"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedores Juntas Generales",
@@ -28057,12 +28024,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.S.",
-"fecha": "2026-10-29T17:28:30"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Vallas calle La Presa en Abetxuko",
@@ -28625,40 +28587,7 @@
 "n_participantes": 9,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.G.M.",
-"fecha": "2026-10-29T13:27:47"
-},
-{
-"autor": "Yo mismo",
-"fecha": "2026-10-29T15:18:45"
-},
-{
-"autor": "Paguitas",
-"fecha": "2026-10-29T17:06:10"
-},
-{
-"autor": "p.h.",
-"fecha": "2026-10-29T19:04:26"
-},
-{
-"autor": "Jon",
-"fecha": "2026-10-29T19:44:46"
-},
-{
-"autor": "Yo",
-"fecha": "2026-10-29T19:59:05"
-},
-{
-"autor": "A.J.M.",
-"fecha": "2026-10-29T21:37:34"
-},
-{
-"autor": "ciudadana",
-"fecha": "2026-10-29T23:29:44"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "SPEIS-2022 Convocatoria de oferta de empleo público.",
@@ -28762,10 +28691,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "madre preocupada",
-"fecha": "2026-10-29T08:28:56"
-},
 {
 "autor": "Aza",
 "fecha": "2026-10-30T11:00:36"
@@ -29523,12 +29448,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "dz",
-"fecha": "2026-10-29T11:38:17"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "arboles destrozados delante del colegio",
@@ -29567,12 +29487,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "dz",
-"fecha": "2026-10-29T11:38:47"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Población descontrolada de palomas",
@@ -29649,16 +29564,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "D.R.",
-"fecha": "2026-10-29T21:05:57"
-},
-{
-"autor": "Yo mismo",
-"fecha": "2026-10-29T23:07:42"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Corredores",
@@ -29919,12 +29825,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Ciudadano",
-"fecha": "2026-10-29T23:48:28"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Conductor de bicicleta saltándose ...",
@@ -35859,26 +35760,6 @@
 "canal": "movil",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "jb",
-"fecha": "2026-10-29T03:50:27"
-},
-{
-"autor": "Loquedigas",
-"fecha": "2026-10-29T06:05:54"
-},
-{
-"autor": "jb",
-"fecha": "2026-10-29T19:52:09"
-},
-{
-"autor": "A.R.N",
-"fecha": "2026-10-29T20:04:54"
-},
-{
-"autor": "M.M.O.",
-"fecha": "2026-10-29T21:53:48"
-},
 {
 "autor": "Loquedigas",
 "fecha": "2026-10-30T22:26:29"
