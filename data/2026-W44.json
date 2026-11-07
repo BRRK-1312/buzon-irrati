@@ -31900,10 +31900,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "j.b.",
-"fecha": "2026-10-30T22:00:55"
-},
-{
 "autor": "Moss",
 "fecha": "2026-10-31T10:55:56"
 },
@@ -35760,14 +35756,6 @@
 "canal": "movil",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "Loquedigas",
-"fecha": "2026-10-30T22:26:29"
-},
-{
-"autor": "Loquedigas",
-"fecha": "2026-10-30T22:28:59"
-},
 {
 "autor": "J.B.B.",
 "fecha": "2026-10-31T08:30:09"
