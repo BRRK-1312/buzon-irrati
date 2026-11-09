@@ -1807,5 +1807,27 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": []
+},
+{
+"titulo": "PAPELERA",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=388177&claveAsuntoGestorCom=824312&claveAreaCom=",
+"fecha": "2026-11-09T23:02:15.720154",
+"animo": "triste",
+"extracto": "En la calle Sierra de Andía frente a los huertos ecológicos hay una papelera de 1991 toca ya un cambio, &iquest;no creen? adjunto foto.",
+"respuesta_ayto": false,
+"tema": "Mobiliario urbano",
+"area": "Espacio público",
+"autor": "ciudadanA",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "ciudadanA",
+"fecha": "2026-11-09T23:02:15.720154"
+}
+]
 }
 ]
