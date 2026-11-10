@@ -5290,12 +5290,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "R.C.S.",
-"fecha": "2026-11-02T18:13:31"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Columpio roto parque los herran",
@@ -5842,12 +5837,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Josu",
-"fecha": "2026-11-02T09:46:15"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Cruz Roja Mercadona Olárizu",
@@ -6056,12 +6046,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "N.O.",
-"fecha": "2026-11-02T15:17:12"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Pintadas acera",
@@ -6100,12 +6085,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-11-02T17:32:27"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Deficiencias en la limpieza de la calle Zendaguren",
@@ -6144,12 +6124,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.B.S.",
-"fecha": "2026-11-02T18:58:58"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Cuchillo en vía pública",
@@ -6732,16 +6707,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.A.B.",
-"fecha": "2026-11-02T15:47:04"
-},
-{
-"autor": "Moss",
-"fecha": "2026-11-02T15:54:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "OTA Zona centro_AMPLIAR A ZONA 2",
@@ -7756,12 +7722,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "R.m.z.",
-"fecha": "2026-11-02T08:34:52"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "En la calle Estella con calle Monasterio de Irache hay muebles tirados",
@@ -7778,12 +7739,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.Z.P.",
-"fecha": "2026-11-02T08:55:23"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Reiteración de queja por problemas de suciedad y propuesta de reubicación de los contenedores de la C/ Sta Isabel número 1",
@@ -7822,12 +7778,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.L.M.",
-"fecha": "2026-11-02T11:39:35"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Árbol seco jardín parte trasera Declaración de Rio",
@@ -8406,12 +8357,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-11-02T16:44:34"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Farola fundida Calle Txiribia",
@@ -8454,16 +8400,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "P.A.O.",
-"fecha": "2026-11-02T08:51:26"
-},
-{
-"autor": "P.A.O.",
-"fecha": "2026-11-02T08:51:26"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Farola fundida calle Txiribia",
@@ -11499,10 +11436,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "MM",
-"fecha": "2026-11-02T13:44:34"
-},
-{
 "autor": "YR",
 "fecha": "2026-11-03T12:14:03"
 },
@@ -11880,12 +11813,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.B.S.",
-"fecha": "2026-11-02T19:08:23"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suciedad",
@@ -13486,10 +13414,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "J.Z.P.",
-"fecha": "2026-11-02T08:42:18"
-},
-{
 "autor": "H.A.",
 "fecha": "2026-11-03T15:43:13"
 }
@@ -13887,10 +13811,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "m...",
-"fecha": "2026-11-02T10:42:06"
-},
 {
 "autor": "J.L.M.",
 "fecha": "2026-11-03T16:45:38"
@@ -14733,10 +14653,6 @@
 "vecinos": [
 {
 "autor": "Iñaki",
-"fecha": "2026-11-02T11:19:47"
-},
-{
-"autor": "Iñaki",
 "fecha": "2026-11-03T15:33:06"
 }
 ]
@@ -15309,10 +15225,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "Hasta las bolas",
-"fecha": "2026-11-02T08:48:25"
-},
 {
 "autor": "C.B.",
 "fecha": "2026-11-04T18:59:56"
@@ -15933,14 +15845,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "P.C.A.",
-"fecha": "2026-11-02T05:15:36"
-},
-{
-"autor": "jb",
-"fecha": "2026-11-02T10:18:17"
-},
 {
 "autor": "B.Y.",
 "fecha": "2026-11-03T18:02:01"
@@ -19533,12 +19437,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Yaestabien",
-"fecha": "2026-11-02T16:34:31"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Línea a olarizu",
@@ -19589,12 +19488,7 @@
 "n_participantes": 9,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Cansadosdeltema",
-"fecha": "2026-11-02T16:19:10"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Queja TUVISA",
@@ -20488,10 +20382,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "M.A.B.",
-"fecha": "2026-11-02T15:24:49"
-},
 {
 "autor": "Se los pasa Por el forro",
 "fecha": "2026-11-05T22:37:00"
@@ -28998,10 +28888,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "I.E.E.",
-"fecha": "2026-11-02T09:44:53"
-},
-{
 "autor": "L",
 "fecha": "2026-11-08T18:14:12"
 }
@@ -29275,10 +29161,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "i.R.",
-"fecha": "2026-11-02T12:03:04"
-},
 {
 "autor": "E.A.V.",
 "fecha": "2026-11-08T23:32:26"
