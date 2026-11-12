@@ -16441,12 +16441,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "j.A.M.S",
-"fecha": "2026-11-04T22:57:22"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Balsa Borinbizkarra",
@@ -16485,12 +16480,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.F",
-"fecha": "2026-11-04T15:04:28"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Matrículas bicis",
@@ -17178,10 +17168,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "E.V.G.",
-"fecha": "2026-11-04T17:35:36"
-},
 {
 "autor": "B.F.F",
 "fecha": "2026-11-05T09:04:00"
@@ -18149,12 +18135,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "e.u.g.",
-"fecha": "2026-11-04T13:21:15"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Experimentos Rotonda Incendiada Arkaiate",
@@ -18408,10 +18389,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "B.C.R.",
-"fecha": "2026-11-04T12:43:04"
-},
 {
 "autor": "B.C.",
 "fecha": "2026-11-05T13:36:56"
@@ -21946,14 +21923,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "D.O.D.",
-"fecha": "2026-11-04T13:27:21"
-},
-{
-"autor": "D.O.D.",
-"fecha": "2026-11-04T13:36:10"
-},
-{
 "autor": "I.O.",
 "fecha": "2026-11-06T10:44:36"
 }
@@ -22611,12 +22580,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "O.F.N.",
-"fecha": "2026-11-04T18:37:45"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Conducta inapropiada y falta de profesionalidad de un conductor",
@@ -26846,10 +26810,6 @@
 "canal": "movil",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "mikel",
-"fecha": "2026-11-04T15:43:19"
-},
 {
 "autor": "mikel",
 "fecha": "2026-11-06T17:59:52"
