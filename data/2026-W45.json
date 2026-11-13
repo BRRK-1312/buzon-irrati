@@ -20451,12 +20451,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "S.S.R.",
-"fecha": "2026-11-05T20:47:00"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Gafas con retrovisores",
@@ -20810,12 +20805,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "R.M.I.",
-"fecha": "2026-11-05T20:24:06"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Papelera residuos mascotas sin vaciar",
@@ -20854,12 +20844,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "L.L.L.",
-"fecha": "2026-11-05T14:00:46"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Hojas y acera sucias de pájaros",
@@ -20903,10 +20888,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "B.E.G.",
-"fecha": "2026-11-05T23:22:46"
-},
 {
 "autor": "j.p.f.",
 "fecha": "2026-11-06T08:37:47"
@@ -21171,12 +21152,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.R.N.",
-"fecha": "2026-11-05T17:41:46"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Duchas Aranalde",
@@ -21249,12 +21225,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.R.N.",
-"fecha": "2026-11-05T17:21:55"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "FAROLA EN ZERIO",
@@ -21817,12 +21788,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.F.S.",
-"fecha": "2026-11-05T16:38:49"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Frecuencia linea 11",
@@ -22536,12 +22502,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.L.N.",
-"fecha": "2026-11-05T09:21:49"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Pasarela entre Ali y calle Iruña Veleia",
@@ -24131,10 +24092,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "I.L.",
-"fecha": "2026-11-05T18:39:04"
-},
 {
 "autor": "I.L.",
 "fecha": "2026-11-07T08:00:54"
