@@ -5757,12 +5757,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Blue1966",
-"fecha": "2026-11-09T11:12:45"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Colocación de semáforo con pulsador en avenida salburua 3 en el cual se ha producido un atropello de una niña de 3 años",
@@ -6185,20 +6180,7 @@
 "n_participantes": 4,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "LCNSC",
-"fecha": "2026-11-09T13:08:25"
-},
-{
-"autor": "M.S.",
-"fecha": "2026-11-09T23:22:38"
-},
-{
-"autor": "ciudadanA",
-"fecha": "2026-11-09T23:35:46"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedor Pza Mayor de Abetxuko",
@@ -7439,12 +7421,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "P.G.",
-"fecha": "2026-11-09T18:10:30"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Badén en zona escolar",
@@ -9780,12 +9757,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "LCNSC",
-"fecha": "2026-11-09T13:12:11"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Inflador de neumáticos en parking para bicis",
@@ -13356,34 +13328,6 @@
 "reactivado": true,
 "vecinos": [
 {
-"autor": "C.C.F",
-"fecha": "2026-11-09T10:51:01"
-},
-{
-"autor": "il",
-"fecha": "2026-11-09T10:51:01"
-},
-{
-"autor": "Ander",
-"fecha": "2026-11-09T10:51:01"
-},
-{
-"autor": "M",
-"fecha": "2026-11-09T10:51:01"
-},
-{
-"autor": "Ander",
-"fecha": "2026-11-09T10:51:01"
-},
-{
-"autor": "ciudadanA",
-"fecha": "2026-11-09T10:51:01"
-},
-{
-"autor": "Vecina afectada",
-"fecha": "2026-11-09T10:51:01"
-},
-{
 "autor": "Juan Luis Irusta",
 "fecha": "2026-11-11T10:00:18"
 },
@@ -13735,10 +13679,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "A.M",
-"fecha": "2026-11-09T07:33:04"
-},
 {
 "autor": "A.M",
 "fecha": "2026-11-10T11:58:38"
@@ -14654,12 +14594,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Javier",
-"fecha": "2026-11-09T11:54:50"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Kaleen garbiketa",
@@ -14742,12 +14677,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Paco",
-"fecha": "2026-11-09T16:17:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Paso de peatones con bicicarril peligroso",
@@ -16825,12 +16755,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Ciudadano",
-"fecha": "2026-11-09T18:47:32"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Bicicletas en las aceras",
@@ -21382,10 +21307,6 @@
 "canal": "movil",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "mikel",
-"fecha": "2026-11-09T17:01:13"
-},
 {
 "autor": "mikel",
 "fecha": "2026-11-13T16:41:31"
