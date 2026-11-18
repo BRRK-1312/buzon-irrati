@@ -11469,12 +11469,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "K.T.",
-"fecha": "2026-11-10T19:11:30"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Marquesinas",
@@ -11557,12 +11552,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Jon",
-"fecha": "2026-11-10T18:19:06"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Carril bici beato sin terminar",
@@ -12402,12 +12392,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.R.",
-"fecha": "2026-11-10T11:47:02"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "PAPELERAS SIN VACIAR DURANTE DÍAS",
@@ -12644,12 +12629,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "G.L.R.",
-"fecha": "2026-11-10T19:41:46"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "PAPELERAS SIN VACIAR DURANTE DÍAS",
@@ -13681,14 +13661,6 @@
 "vecinos": [
 {
 "autor": "A.M",
-"fecha": "2026-11-10T11:58:38"
-},
-{
-"autor": "L.T.",
-"fecha": "2026-11-10T12:05:39"
-},
-{
-"autor": "A.M",
 "fecha": "2026-11-12T00:11:35"
 }
 ]
@@ -14467,14 +14439,6 @@
 "canal": "movil",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "MMR",
-"fecha": "2026-11-10T14:12:11"
-},
-{
-"autor": "R.A.C.",
-"fecha": "2026-11-10T15:31:18"
-},
 {
 "autor": "MMR",
 "fecha": "2026-11-11T09:41:18"
@@ -16027,12 +15991,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "nelson",
-"fecha": "2026-11-10T14:43:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "alcantarillas rotas",
@@ -16071,12 +16030,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "nelson",
-"fecha": "2026-11-10T14:42:08"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suciedad y más suciedad",
@@ -17622,10 +17576,6 @@
 "reactivado": true,
 "vecinos": [
 {
-"autor": "MS",
-"fecha": "2026-11-10T19:20:43"
-},
-{
 "autor": "anónimo",
 "fecha": "2026-11-12T23:14:25"
 }
@@ -17755,10 +17705,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "D.F.F.",
-"fecha": "2026-11-10T19:44:28"
-},
 {
 "autor": "L.M.M.",
 "fecha": "2026-11-13T00:31:38"
@@ -20850,12 +20796,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "I.I.D.",
-"fecha": "2026-11-10T10:28:12"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Farola fundida",
