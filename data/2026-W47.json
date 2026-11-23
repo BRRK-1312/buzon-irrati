@@ -132,12 +132,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.G.O.",
-"fecha": "2026-11-15T19:18:36"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Limpieza zona bancos plaza Iparralde",
@@ -180,12 +175,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Z.Ñ.",
-"fecha": "2026-11-15T14:40:18"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Balsas agua Boulevard",
@@ -312,12 +302,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.I.",
-"fecha": "2026-11-15T12:45:58"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Barrio de Coronación",
@@ -2894,16 +2879,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "H.A.D.",
-"fecha": "2026-11-15T08:42:18"
-},
-{
-"autor": "A.P.R.",
-"fecha": "2026-11-15T08:58:13"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Bicis abandonadas",
@@ -7050,12 +7026,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.O.",
-"fecha": "2026-11-15T21:56:48"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "TMC instalada y activada",
@@ -11015,12 +10986,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Ivan",
-"fecha": "2026-11-15T12:23:57"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Limpiezaaaaaaaa",
@@ -13608,14 +13574,6 @@
 "vecinos": [
 {
 "autor": "Laura",
-"fecha": "2026-11-15T18:07:07"
-},
-{
-"autor": "Laura",
-"fecha": "2026-11-15T18:11:23"
-},
-{
-"autor": "Laura",
 "fecha": "2026-11-19T00:11:44"
 }
 ]
@@ -13674,10 +13632,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "v.c.v.",
-"fecha": "2026-11-15T09:44:20"
-},
 {
 "autor": "A",
 "fecha": "2026-11-18T14:46:25"
@@ -17200,12 +17154,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.A.L.",
-"fecha": "2026-11-15T22:51:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Estorninos zona colegio Ángel Gavinet",
@@ -22244,12 +22193,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "V.C.M.",
-"fecha": "2026-11-15T13:57:13"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Línea BEi inaceptable",
@@ -23353,6 +23297,28 @@
 ]
 },
 {
+"titulo": "terrazas",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389305&claveAsuntoGestorCom=826006&claveAreaCom=",
+"fecha": "2026-11-21T08:54:03",
+"animo": "muy_triste",
+"extracto": "abría que recordar a los hosteleros, que las licencias de terraza son iguales todos los días, porque llueva no les permite instalarla como les de la...",
+"respuesta_ayto": false,
+"tema": "Ocupación de la vía pública",
+"area": "Espacio público",
+"autor": "jj",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "jj",
+"fecha": "2026-11-21T08:54:03"
+}
+]
+},
+{
 "titulo": "Obstaculo en la acera con peligro de accidente",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=388153&claveAsuntoGestorCom=824288&claveAreaCom=",
 "fecha": "2026-11-21T09:03:16.375768",
@@ -23431,6 +23397,32 @@
 ]
 },
 {
+"titulo": "Obstaculo en la acera con peligro de accidente",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=388153&claveAsuntoGestorCom=824288&claveAreaCom=",
+"fecha": "2026-11-21T09:18:39",
+"animo": "muy_triste",
+"extracto": "Segun la ordenanza municipal tiene que haber una distancia de 2m entre fachada y obstáculo, además de tener permiso para ello, dudo que carnicería...",
+"respuesta_ayto": false,
+"tema": "Ocupación de la vía pública",
+"area": "Espacio público",
+"autor": "Jesús",
+"ultimo_ayto": false,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.F.C.",
+"fecha": "2026-11-20T12:03:17"
+},
+{
+"autor": "Jesús",
+"fecha": "2026-11-21T09:18:39"
+}
+]
+},
+{
 "titulo": "Contaminación acústica continuada y molestias en Gardelegui",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=380468&claveAsuntoGestorCom=813707&claveAreaCom=",
 "fecha": "2026-11-21T09:38:00",
@@ -23453,6 +23445,32 @@
 {
 "autor": "A.M",
 "fecha": "2026-11-21T09:38:00"
+}
+]
+},
+{
+"titulo": "Contaminación acústica continuada y molestias en Gardelegui",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=380468&claveAsuntoGestorCom=813707&claveAreaCom=",
+"fecha": "2026-11-21T09:38:25",
+"animo": "triste",
+"extracto": "Aclarar que si se han hecho modificaciones en la maquina, y la situación a mejorado, pero no ha solucionado el problema",
+"respuesta_ayto": false,
+"tema": "Contaminación",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "A.M",
+"ultimo_ayto": false,
+"n_comentarios": 16,
+"n_participantes": 7,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "A.M",
+"fecha": "2026-11-21T09:25:20"
+},
+{
+"autor": "A.M",
+"fecha": "2026-11-21T09:38:25"
 }
 ]
 },
@@ -23531,6 +23549,32 @@
 {
 "autor": "D.C.H.",
 "fecha": "2026-11-21T10:39:00"
+}
+]
+},
+{
+"titulo": "Otra vez el agua marron",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389218&claveAsuntoGestorCom=825876&claveAreaCom=",
+"fecha": "2026-11-21T10:39:24",
+"animo": "normal",
+"extracto": "Gracias, les contacto por privado, por",
+"respuesta_ayto": true,
+"tema": "AMVISA",
+"area": "Espacio público",
+"autor": "D.C.H.",
+"ultimo_ayto": false,
+"n_comentarios": 3,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "D.C.H.",
+"fecha": "2026-11-20T09:35:51"
+},
+{
+"autor": "D.C.H.",
+"fecha": "2026-11-21T10:39:24"
 }
 ]
 },
@@ -23899,6 +23943,28 @@
 ]
 },
 {
+"titulo": "se necesitan un par de monitores o personas en centros bizan",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389324&claveAsuntoGestorCom=826026&claveAreaCom=",
+"fecha": "2026-11-21T19:35:48",
+"animo": "muy_triste",
+"extracto": "sería bueno que los centros visan habría un par de personas tipo monitores o personas que puedan socializar con otras que por enfermedad u otras...",
+"respuesta_ayto": false,
+"tema": "Personas mayores",
+"area": "Servicios sociales",
+"autor": "j.A.M.S",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "j.A.M.S",
+"fecha": "2026-11-21T19:35:48"
+}
+]
+},
+{
 "titulo": "Ratas en Fueros",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389327&claveAsuntoGestorCom=826029&claveAreaCom=",
 "fecha": "2026-11-22T00:33:11.672513",
@@ -23917,6 +23983,28 @@
 {
 "autor": "J.S.",
 "fecha": "2026-11-22T00:33:11.672513"
+}
+]
+},
+{
+"titulo": "Ratas en Fueros",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389327&claveAsuntoGestorCom=826029&claveAreaCom=",
+"fecha": "2026-11-22T00:40:00",
+"animo": "muy_triste",
+"extracto": "Presencia de numerosas ratas en los contenedores de la Calle Fueros, en plena plaza. Por favor, hagan algo. Es un peligro para la salud pública",
+"respuesta_ayto": false,
+"tema": "Salubridad e higiene",
+"area": "Salud y consumo",
+"autor": "J.S.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.S.",
+"fecha": "2026-11-22T00:40:00"
 }
 ]
 },
@@ -23961,6 +24049,28 @@
 {
 "autor": "j.A.M.S",
 "fecha": "2026-11-22T10:33:11.672513"
+}
+]
+},
+{
+"titulo": "Pablo montal 28 frente al ambulatorio de sansomendi",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389329&claveAsuntoGestorCom=826031&claveAreaCom=",
+"fecha": "2026-11-22T11:32:00",
+"animo": "muy_triste",
+"extracto": "el parque situado frente a el ambulatorio de sansomendi no tiene prácticamente iluminación ya que se lo comen los árboles está totalmente a oscuras y...",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "j.A.M.S",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "j.A.M.S",
+"fecha": "2026-11-22T11:32:00"
 }
 ]
 },
@@ -24031,6 +24141,54 @@
 {
 "autor": "S.R.P.",
 "fecha": "2026-11-22T11:33:11.672513"
+}
+]
+},
+{
+"titulo": "Buzón plástico recogida neumática averiado",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389331&claveAsuntoGestorCom=826033&claveAreaCom=",
+"fecha": "2026-11-22T11:55:00",
+"animo": "normal",
+"extracto": "la semana pasada se dio el aviso y continua atascado el buzón de recogida neumática de avda la Ilustración 61. Ahora mismo la zona está hecha un...",
+"respuesta_ayto": false,
+"tema": "Reciclaje de residuos",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "S.R.P.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "S.R.P.",
+"fecha": "2026-11-22T11:55:00"
+}
+]
+},
+{
+"titulo": "Santa Teresa Bidea",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389229&claveAsuntoGestorCom=825897&claveAreaCom=",
+"fecha": "2026-11-22T12:13:00",
+"animo": "triste",
+"extracto": "Totalmente de acuerdo. Precisamente fui hace poco a recoger a un familiar que había ido de visita a una residencia que está ahí, ya había oscurecido...",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "E.R.",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "I.I.D.",
+"fecha": "2026-11-20T10:22:46"
+},
+{
+"autor": "E.R.",
+"fecha": "2026-11-22T12:13:00"
 }
 ]
 },
@@ -24237,6 +24395,128 @@
 {
 "autor": "L.U.I.",
 "fecha": "2026-11-22T13:30:11.672513"
+}
+]
+},
+{
+"titulo": "Memoriaguneak",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389332&claveAsuntoGestorCom=826034&claveAreaCom=",
+"fecha": "2026-11-22T13:48:00",
+"animo": "muy_triste",
+"extracto": "Estoy de acuerdo",
+"respuesta_ayto": false,
+"tema": "Convivencia y Diversidad",
+"area": "Convivencia y Cooperación",
+"autor": "anónimo",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "E.R.",
+"fecha": "2026-11-22T12:21:00"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-11-22T13:48:00"
+}
+]
+},
+{
+"titulo": "Vitoria, sucia, insegura y descuidada",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=345874&claveAsuntoGestorCom=764935&claveAreaCom=",
+"fecha": "2026-11-22T13:50:00",
+"animo": "triste",
+"extracto": "Buenooooo &iquest; que Vitoria cuando mejor ha estado es con PNV y PP ? ....has pasado mala noche no? dale otra vuelta anda.!",
+"respuesta_ayto": true,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "anónimo",
+"ultimo_ayto": false,
+"n_comentarios": 6,
+"n_participantes": 6,
+"canal": "movil",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "I.A.M.",
+"fecha": "2026-11-22T01:01:00"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-11-22T13:50:00"
+}
+]
+},
+{
+"titulo": "Locales problematicos",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389349&claveAsuntoGestorCom=826051&claveAreaCom=",
+"fecha": "2026-11-22T16:18:00",
+"animo": "normal",
+"extracto": "La actividad de un bar, un locutorio y una panadería situados en la calle Domingo Beltrán de Otazu, 48 y del bar llamado la perla en el numero 41...",
+"respuesta_ayto": false,
+"tema": "Policía Local",
+"area": "Seguridad ciudadana",
+"autor": "F.T.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "F.T.",
+"fecha": "2026-11-22T16:18:00"
+}
+]
+},
+{
+"titulo": "Inseguridad vial",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389350&claveAsuntoGestorCom=826052&claveAreaCom=",
+"fecha": "2026-11-22T16:21:00",
+"animo": "normal",
+"extracto": "No se puede andar por las aceras tranquilo sin mirar a todos lados .",
+"respuesta_ayto": false,
+"tema": "Seguridad vial",
+"area": "Movilidad y transporte",
+"autor": "L.T.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "L.T.",
+"fecha": "2026-11-22T16:21:00"
+}
+]
+},
+{
+"titulo": "la picota",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=388421&claveAsuntoGestorCom=824709&claveAreaCom=",
+"fecha": "2026-11-22T21:35:00",
+"animo": "alegre",
+"extracto": "seguimos",
+"respuesta_ayto": false,
+"tema": "Ocupación de la vía pública",
+"area": "Espacio público",
+"autor": "mikel",
+"ultimo_ayto": false,
+"n_comentarios": 4,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "mikel",
+"fecha": "2026-11-17T22:18:47"
+},
+{
+"autor": "mikel",
+"fecha": "2026-11-22T21:35:00"
 }
 ]
 }
