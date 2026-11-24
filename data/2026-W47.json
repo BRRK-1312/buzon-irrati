@@ -5540,12 +5540,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.I.S.",
-"fecha": "2026-11-16T08:50:37"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Aparca bicis",
@@ -5584,12 +5579,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "L.G.H.",
-"fecha": "2026-11-16T20:39:10"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Mover contenedores basura",
@@ -5812,12 +5802,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.G.M.",
-"fecha": "2026-11-16T23:37:14"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "todas las luces de las farolas apagadas en rotonda de Gamarra",
@@ -6127,12 +6112,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.M.C.",
-"fecha": "2026-11-16T16:59:31"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suciedad y botellines",
@@ -6171,12 +6151,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "K.T.R.",
-"fecha": "2026-11-16T16:13:41"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Basura",
@@ -6215,12 +6190,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "I.G.N.",
-"fecha": "2026-11-16T16:10:00"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Están los contenedores llenos y bolsas de basura en el suelo",
@@ -6259,12 +6229,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "R.U.G.",
-"fecha": "2026-11-16T15:43:58"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Obras tranvía Naciones Unidas 14-20, patinetes por la acera.",
@@ -6832,42 +6797,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "R.A.G.",
-"fecha": "2026-11-16T09:00:38"
-},
-{
-"autor": "Bebiendo agua marron",
-"fecha": "2026-11-16T09:00:38"
-},
-{
-"autor": "Antonio",
-"fecha": "2026-11-16T09:00:38"
-},
-{
-"autor": "T.S.A.",
-"fecha": "2026-11-16T09:00:38"
-},
-{
-"autor": "Vergüenza",
-"fecha": "2026-11-16T09:00:38"
-},
-{
-"autor": "Ibai",
-"fecha": "2026-11-16T09:00:38"
-},
-{
-"autor": "F.S.O.",
-"fecha": "2026-11-16T09:00:38"
-},
-{
-"autor": "T.A.E.",
-"fecha": "2026-11-16T09:00:38"
-},
-{
-"autor": "P.P.P.",
-"fecha": "2026-11-16T13:46:48"
-},
-{
 "autor": "Aitor",
 "fecha": "2026-11-17T09:22:37"
 },
@@ -6971,18 +6900,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "G",
-"fecha": "2026-11-16T11:51:51"
-},
-{
-"autor": "Jckjf",
-"fecha": "2026-11-16T13:38:56"
-},
-{
-"autor": "Okil",
-"fecha": "2026-11-16T14:55:19"
-},
 {
 "autor": "Xugus",
 "fecha": "2026-11-17T10:38:56"
@@ -8121,12 +8038,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.G.A.",
-"fecha": "2026-11-16T11:52:00"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedores de basura desbordados",
@@ -9437,12 +9349,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Speedy",
-"fecha": "2026-11-16T20:08:33"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Farola fundida en Portal de Castilla, 38",
@@ -11718,12 +11625,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "nelson",
-"fecha": "2026-11-16T18:05:06"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Carril bici Calle Paraguay estado deplorable",
@@ -11950,10 +11852,6 @@
 "canal": "movil",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "j.A.M.S",
-"fecha": "2026-11-16T13:27:32"
-},
 {
 "autor": "j.A.M.S",
 "fecha": "2026-11-18T11:04:08"
@@ -14211,12 +14109,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "P.M.O.",
-"fecha": "2026-11-16T17:19:05"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Agua con sabor desagradable",
@@ -15666,16 +15559,7 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "m.l.",
-"fecha": "2026-11-16T15:23:45"
-},
-{
-"autor": "A.R.S.",
-"fecha": "2026-11-16T17:00:45"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Travesia en Aretxabaleta",
@@ -15976,12 +15860,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "S.A.",
-"fecha": "2026-11-16T15:14:34"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Basura The Factory",
@@ -16846,12 +16725,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.R.N.",
-"fecha": "2026-11-16T19:54:13"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Aparcabicis",
@@ -18384,10 +18258,6 @@
 "canal": "web",
 "reactivado": true,
 "vecinos": [
-{
-"autor": "A.R.Á.",
-"fecha": "2026-11-16T14:48:29"
-},
 {
 "autor": "G.R.",
 "fecha": "2026-11-20T10:12:40"
@@ -22026,14 +21896,6 @@
 "vecinos": [
 {
 "autor": "Vecino",
-"fecha": "2026-11-16T08:51:57"
-},
-{
-"autor": "r.a.y.",
-"fecha": "2026-11-16T10:37:34"
-},
-{
-"autor": "Vecino",
 "fecha": "2026-11-17T07:17:58"
 },
 {
@@ -24009,6 +23871,28 @@
 ]
 },
 {
+"titulo": "Ratas en Fueros",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389327&claveAsuntoGestorCom=826029&claveAreaCom=",
+"fecha": "2026-11-22T00:40:33",
+"animo": "muy_triste",
+"extracto": "Presencia de numerosas ratas en los contenedores de la Calle Fueros, en plena plaza. Por favor, hagan algo. Es un peligro para la salud pública",
+"respuesta_ayto": false,
+"tema": "Salubridad e higiene",
+"area": "Salud y consumo",
+"autor": "J.S.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "J.S.",
+"fecha": "2026-11-22T00:40:33"
+}
+]
+},
+{
 "titulo": "Solicitud de retirada de bicicleta abandonada en aparcabicis – Glorieta de Océano Pacífico con Henry Morton Stanley",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389328&claveAsuntoGestorCom=826030&claveAreaCom=",
 "fecha": "2026-11-22T08:33:11.672513",
@@ -24071,6 +23955,28 @@
 {
 "autor": "j.A.M.S",
 "fecha": "2026-11-22T11:32:00"
+}
+]
+},
+{
+"titulo": "Pablo montal 28 frente al ambulatorio de sansomendi",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389329&claveAsuntoGestorCom=826031&claveAreaCom=",
+"fecha": "2026-11-22T11:32:02",
+"animo": "muy_triste",
+"extracto": "el parque situado frente a el ambulatorio de sansomendi no tiene prácticamente iluminación ya que se lo comen los árboles está totalmente a oscuras y...",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "j.A.M.S",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "j.A.M.S",
+"fecha": "2026-11-22T11:32:02"
 }
 ]
 },
@@ -24167,6 +24073,28 @@
 ]
 },
 {
+"titulo": "Buzón plástico recogida neumática averiado",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389331&claveAsuntoGestorCom=826033&claveAreaCom=",
+"fecha": "2026-11-22T11:55:26",
+"animo": "normal",
+"extracto": "la semana pasada se dio el aviso y continua atascado el buzón de recogida neumática de avda la Ilustración 61. Ahora mismo la zona está hecha un...",
+"respuesta_ayto": false,
+"tema": "Reciclaje de residuos",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "S.R.P.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "S.R.P.",
+"fecha": "2026-11-22T11:55:26"
+}
+]
+},
+{
 "titulo": "Santa Teresa Bidea",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389229&claveAsuntoGestorCom=825897&claveAreaCom=",
 "fecha": "2026-11-22T12:13:00",
@@ -24189,6 +24117,32 @@
 {
 "autor": "E.R.",
 "fecha": "2026-11-22T12:13:00"
+}
+]
+},
+{
+"titulo": "Santa Teresa Bidea",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389229&claveAsuntoGestorCom=825897&claveAreaCom=",
+"fecha": "2026-11-22T12:13:26",
+"animo": "triste",
+"extracto": "Totalmente de acuerdo. Precisamente fui hace poco a recoger a un familiar que había ido de visita a una residencia que está ahí, ya había oscurecido...",
+"respuesta_ayto": false,
+"tema": "Alumbrado público",
+"area": "Espacio público",
+"autor": "E.R.",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "I.I.D.",
+"fecha": "2026-11-20T10:22:46"
+},
+{
+"autor": "E.R.",
+"fecha": "2026-11-22T12:13:26"
 }
 ]
 },
@@ -24425,6 +24379,32 @@
 ]
 },
 {
+"titulo": "Memoriaguneak",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389332&claveAsuntoGestorCom=826034&claveAreaCom=",
+"fecha": "2026-11-22T13:48:48",
+"animo": "muy_triste",
+"extracto": "Estoy de acuerdo",
+"respuesta_ayto": false,
+"tema": "Convivencia y Diversidad",
+"area": "Convivencia y Cooperación",
+"autor": "anónimo",
+"ultimo_ayto": false,
+"n_comentarios": 2,
+"n_participantes": 2,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "E.R.",
+"fecha": "2026-11-22T12:21:11"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-11-22T13:48:48"
+}
+]
+},
+{
 "titulo": "Vitoria, sucia, insegura y descuidada",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=345874&claveAsuntoGestorCom=764935&claveAreaCom=",
 "fecha": "2026-11-22T13:50:00",
@@ -24451,6 +24431,32 @@
 ]
 },
 {
+"titulo": "Vitoria, sucia, insegura y descuidada",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=345874&claveAsuntoGestorCom=764935&claveAreaCom=",
+"fecha": "2026-11-22T13:50:44",
+"animo": "triste",
+"extracto": "Buenooooo &iquest; que Vitoria cuando mejor ha estado es con PNV y PP ? ....has pasado mala noche no? dale otra vuelta anda.!",
+"respuesta_ayto": true,
+"tema": "Limpieza pública",
+"area": "Medio ambiente y sostenibilidad",
+"autor": "anónimo",
+"ultimo_ayto": false,
+"n_comentarios": 6,
+"n_participantes": 6,
+"canal": "movil",
+"reactivado": true,
+"vecinos": [
+{
+"autor": "I.A.M.",
+"fecha": "2026-11-22T01:01:47"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-11-22T13:50:44"
+}
+]
+},
+{
 "titulo": "Locales problematicos",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389349&claveAsuntoGestorCom=826051&claveAreaCom=",
 "fecha": "2026-11-22T16:18:00",
@@ -24469,6 +24475,28 @@
 {
 "autor": "F.T.",
 "fecha": "2026-11-22T16:18:00"
+}
+]
+},
+{
+"titulo": "Locales problematicos",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389349&claveAsuntoGestorCom=826051&claveAreaCom=",
+"fecha": "2026-11-22T16:18:52",
+"animo": "normal",
+"extracto": "La actividad de un bar, un locutorio y una panadería situados en la calle Domingo Beltrán de Otazu, 48 y del bar llamado la perla en el numero 41...",
+"respuesta_ayto": false,
+"tema": "Policía Local",
+"area": "Seguridad ciudadana",
+"autor": "F.T.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "F.T.",
+"fecha": "2026-11-22T16:18:52"
 }
 ]
 },
@@ -24495,6 +24523,28 @@
 ]
 },
 {
+"titulo": "Inseguridad vial",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=389350&claveAsuntoGestorCom=826052&claveAreaCom=",
+"fecha": "2026-11-22T16:21:35",
+"animo": "normal",
+"extracto": "No se puede andar por las aceras tranquilo sin mirar a todos lados .",
+"respuesta_ayto": false,
+"tema": "Seguridad vial",
+"area": "Movilidad y transporte",
+"autor": "L.T.",
+"ultimo_ayto": false,
+"n_comentarios": 1,
+"n_participantes": 1,
+"canal": "web",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "L.T.",
+"fecha": "2026-11-22T16:21:35"
+}
+]
+},
+{
 "titulo": "la picota",
 "url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=388421&claveAsuntoGestorCom=824709&claveAreaCom=",
 "fecha": "2026-11-22T21:35:00",
@@ -24517,6 +24567,32 @@
 {
 "autor": "mikel",
 "fecha": "2026-11-22T21:35:00"
+}
+]
+},
+{
+"titulo": "la picota",
+"url": "https://www.vitoria-gasteiz.org/wb021/was/comentarioAction.do?idioma=es&accion=verComentarios&claveAsuntoCom=388421&claveAsuntoGestorCom=824709&claveAreaCom=",
+"fecha": "2026-11-22T21:35:55",
+"animo": "alegre",
+"extracto": "seguimos",
+"respuesta_ayto": false,
+"tema": "Ocupación de la vía pública",
+"area": "Espacio público",
+"autor": "mikel",
+"ultimo_ayto": false,
+"n_comentarios": 4,
+"n_participantes": 1,
+"canal": "movil",
+"reactivado": false,
+"vecinos": [
+{
+"autor": "mikel",
+"fecha": "2026-11-17T22:18:47"
+},
+{
+"autor": "mikel",
+"fecha": "2026-11-22T21:35:55"
 }
 ]
 }
