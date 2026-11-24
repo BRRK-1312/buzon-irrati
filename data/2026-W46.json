@@ -11469,7 +11469,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "K.T.",
+"fecha": "2026-11-10T19:11:30"
+}
+]
 },
 {
 "titulo": "Marquesinas",
@@ -11552,7 +11557,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "Jon",
+"fecha": "2026-11-10T18:19:06"
+}
+]
 },
 {
 "titulo": "Carril bici beato sin terminar",
@@ -12392,7 +12402,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "M.R.",
+"fecha": "2026-11-10T11:47:02"
+}
+]
 },
 {
 "titulo": "PAPELERAS SIN VACIAR DURANTE DÍAS",
@@ -12629,7 +12644,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "G.L.R.",
+"fecha": "2026-11-10T19:41:46"
+}
+]
 },
 {
 "titulo": "PAPELERAS SIN VACIAR DURANTE DÍAS",
@@ -14441,6 +14461,14 @@
 "vecinos": [
 {
 "autor": "MMR",
+"fecha": "2026-11-10T14:12:11"
+},
+{
+"autor": "R.A.C.",
+"fecha": "2026-11-10T15:31:18"
+},
+{
+"autor": "MMR",
 "fecha": "2026-11-11T09:41:18"
 },
 {
@@ -15991,7 +16019,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "nelson",
+"fecha": "2026-11-10T14:43:16"
+}
+]
 },
 {
 "titulo": "alcantarillas rotas",
@@ -16030,7 +16063,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "nelson",
+"fecha": "2026-11-10T14:42:08"
+}
+]
 },
 {
 "titulo": "Suciedad y más suciedad",
@@ -17576,6 +17614,10 @@
 "reactivado": true,
 "vecinos": [
 {
+"autor": "MS",
+"fecha": "2026-11-10T19:20:43"
+},
+{
 "autor": "anónimo",
 "fecha": "2026-11-12T23:14:25"
 }
@@ -18178,7 +18220,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "Miren",
+"fecha": "2026-11-12T18:12:17"
+}
+]
 },
 {
 "titulo": "parque de san martin, limpieza poco eficaz",
@@ -18239,7 +18286,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "Miren",
+"fecha": "2026-11-12T18:01:38"
+}
+]
 },
 {
 "titulo": "parque de san martin, limpieza poco eficaz",
@@ -18256,7 +18308,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "Miren",
+"fecha": "2026-11-12T17:55:27"
+}
+]
 },
 {
 "titulo": "en la calle basuas están haciendo labores de renovación de redes de admisa",
@@ -18295,7 +18352,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "j.A.M.S",
+"fecha": "2026-11-12T14:19:57"
+}
+]
 },
 {
 "titulo": "Portal de Foronda, muñeco rojo no se ilumina",
@@ -18339,6 +18401,10 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
+{
+"autor": "El Vecino",
+"fecha": "2026-11-11T08:37:45"
+},
 {
 "autor": "El Vecino",
 "fecha": "2026-11-13T07:57:20"
@@ -18470,7 +18536,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "I.G.A.",
+"fecha": "2026-11-12T16:16:23"
+}
+]
 },
 {
 "titulo": "Solicitud de medidas para evitar el estacionamiento indebido en isletas de la Avenida de la Ilustración (junto al Paseo de la Unesco)",
@@ -18509,7 +18580,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "J.F.E.",
+"fecha": "2026-11-12T18:07:18"
+}
+]
 },
 {
 "titulo": "Navarro villoslada 1",
@@ -19086,7 +19162,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "A. .M.",
+"fecha": "2026-11-11T08:30:04"
+}
+]
 },
 {
 "titulo": "Contenedor marrón no levanta la tapa",
@@ -20757,7 +20838,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "I.I.D.",
+"fecha": "2026-11-10T10:28:12"
+}
+]
 },
 {
 "titulo": "Farola fundida",
@@ -20796,7 +20882,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "J.P.T.",
+"fecha": "2026-11-12T18:42:51"
+}
+]
 },
 {
 "titulo": "Estado calles Salburua por obras redensificación",
@@ -20887,7 +20978,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "anouska",
+"fecha": "2026-11-12T23:46:40"
+}
+]
 },
 {
 "titulo": "Jardineras cantón carnicerias",
@@ -22547,6 +22643,10 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
+{
+"autor": "s.s.c.",
+"fecha": "2026-11-13T22:36:06"
+},
 {
 "autor": "Alabama",
 "fecha": "2026-11-14T10:47:39"
