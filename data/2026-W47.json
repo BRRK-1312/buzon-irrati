@@ -5614,7 +5614,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "M.B.J.",
+"fecha": "2026-11-13T15:48:10"
+}
+]
 },
 {
 "titulo": "Alcantarillado inutilizado",
@@ -5631,7 +5636,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "E.I.S.",
+"fecha": "2026-11-16T08:50:37"
+}
+]
 },
 {
 "titulo": "Aparca bicis",
@@ -5670,7 +5680,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "L.G.H.",
+"fecha": "2026-11-16T20:39:10"
+}
+]
 },
 {
 "titulo": "Mover contenedores basura",
@@ -5893,7 +5908,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "E.G.M.",
+"fecha": "2026-11-16T23:37:14"
+}
+]
 },
 {
 "titulo": "todas las luces de las farolas apagadas en rotonda de Gamarra",
@@ -5971,7 +5991,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "E.E.",
+"fecha": "2026-11-10T18:33:52"
+}
+]
 },
 {
 "titulo": "Examen de Euskera",
@@ -6010,7 +6035,12 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "M.V.V.",
+"fecha": "2026-11-13T11:22:19"
+}
+]
 },
 {
 "titulo": "Obras tranvía Naciones Unidas 14-20, patinetes por la acera.",
@@ -6203,7 +6233,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "A.M.C.",
+"fecha": "2026-11-16T16:59:31"
+}
+]
 },
 {
 "titulo": "Suciedad y botellines",
@@ -6242,7 +6277,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "K.T.R.",
+"fecha": "2026-11-16T16:13:41"
+}
+]
 },
 {
 "titulo": "Basura",
@@ -6281,7 +6321,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "I.G.N.",
+"fecha": "2026-11-16T16:10:00"
+}
+]
 },
 {
 "titulo": "Están los contenedores llenos y bolsas de basura en el suelo",
@@ -6320,7 +6365,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "R.U.G.",
+"fecha": "2026-11-16T15:43:58"
+}
+]
 },
 {
 "titulo": "Obras tranvía Naciones Unidas 14-20, patinetes por la acera.",
@@ -6739,6 +6789,22 @@
 "vecinos": [
 {
 "autor": "I.L.E.",
+"fecha": "2026-11-12T00:29:12"
+},
+{
+"autor": "Anne Miren",
+"fecha": "2026-11-12T22:49:42"
+},
+{
+"autor": "Izaskun T.",
+"fecha": "2026-11-13T18:42:26"
+},
+{
+"autor": "G.D.S.",
+"fecha": "2026-11-13T19:18:27"
+},
+{
+"autor": "I.L.E.",
 "fecha": "2026-11-17T00:49:34"
 }
 ]
@@ -6888,6 +6954,42 @@
 "reactivado": false,
 "vecinos": [
 {
+"autor": "R.A.G.",
+"fecha": "2026-11-16T09:00:38"
+},
+{
+"autor": "Bebiendo agua marron",
+"fecha": "2026-11-16T09:00:38"
+},
+{
+"autor": "Antonio",
+"fecha": "2026-11-16T09:00:38"
+},
+{
+"autor": "T.S.A.",
+"fecha": "2026-11-16T09:00:38"
+},
+{
+"autor": "Vergüenza",
+"fecha": "2026-11-16T09:00:38"
+},
+{
+"autor": "Ibai",
+"fecha": "2026-11-16T09:00:38"
+},
+{
+"autor": "F.S.O.",
+"fecha": "2026-11-16T09:00:38"
+},
+{
+"autor": "T.A.E.",
+"fecha": "2026-11-16T09:00:38"
+},
+{
+"autor": "P.P.P.",
+"fecha": "2026-11-16T13:46:48"
+},
+{
 "autor": "Aitor",
 "fecha": "2026-11-17T09:22:37"
 },
@@ -6992,6 +7094,18 @@
 "reactivado": true,
 "vecinos": [
 {
+"autor": "G",
+"fecha": "2026-11-16T11:51:51"
+},
+{
+"autor": "Jckjf",
+"fecha": "2026-11-16T13:38:56"
+},
+{
+"autor": "Okil",
+"fecha": "2026-11-16T14:55:19"
+},
+{
 "autor": "Xugus",
 "fecha": "2026-11-17T10:38:56"
 }
@@ -7034,7 +7148,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "A.O.",
+"fecha": "2026-11-15T21:56:48"
+}
+]
 },
 {
 "titulo": "TMC instalada y activada",
@@ -8129,7 +8248,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "J.G.A.",
+"fecha": "2026-11-16T11:52:00"
+}
+]
 },
 {
 "titulo": "Contenedores de basura desbordados",
@@ -9440,7 +9564,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "Speedy",
+"fecha": "2026-11-16T20:08:33"
+}
+]
 },
 {
 "titulo": "Farola fundida en Portal de Castilla, 38",
@@ -10443,6 +10572,10 @@
 "vecinos": [
 {
 "autor": "Txp",
+"fecha": "2026-11-11T20:04:59"
+},
+{
+"autor": "Txp",
 "fecha": "2026-11-18T06:46:01"
 }
 ]
@@ -10984,7 +11117,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "Ivan",
+"fecha": "2026-11-15T12:23:57"
+}
+]
 },
 {
 "titulo": "Limpiezaaaaaaaa",
@@ -11133,7 +11271,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "Antonio",
+"fecha": "2026-11-14T09:04:03"
+}
+]
 },
 {
 "titulo": "Desparrame de basuras en Océano Atlántico",
@@ -11716,7 +11859,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "nelson",
+"fecha": "2026-11-16T18:05:06"
+}
+]
 },
 {
 "titulo": "Carril bici Calle Paraguay estado deplorable",
@@ -11925,7 +12073,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "Asqueado",
+"fecha": "2026-11-14T09:00:08"
+}
+]
 },
 {
 "titulo": "centro bizan de Zaramaga",
@@ -11943,6 +12096,14 @@
 "canal": "movil",
 "reactivado": true,
 "vecinos": [
+{
+"autor": "j.A.M.S",
+"fecha": "2026-11-12T12:03:24"
+},
+{
+"autor": "j.A.M.S",
+"fecha": "2026-11-16T13:27:32"
+},
 {
 "autor": "j.A.M.S",
 "fecha": "2026-11-18T11:04:08"
@@ -12882,6 +13043,10 @@
 "reactivado": false,
 "vecinos": [
 {
+"autor": "E.G.R.",
+"fecha": "2026-11-13T23:41:52"
+},
+{
 "autor": "A",
 "fecha": "2026-11-18T14:50:05"
 }
@@ -13563,6 +13728,14 @@
 "vecinos": [
 {
 "autor": "Laura",
+"fecha": "2026-11-15T18:07:07"
+},
+{
+"autor": "Laura",
+"fecha": "2026-11-15T18:11:23"
+},
+{
+"autor": "Laura",
 "fecha": "2026-11-19T00:11:44"
 }
 ]
@@ -13621,6 +13794,14 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
+{
+"autor": "A.G.M.",
+"fecha": "2026-11-14T23:22:27"
+},
+{
+"autor": "v.c.v.",
+"fecha": "2026-11-15T09:44:20"
+},
 {
 "autor": "A",
 "fecha": "2026-11-18T14:46:25"
@@ -14200,7 +14381,20 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "P.M.O.",
+"fecha": "2026-11-14T09:36:17"
+},
+{
+"autor": "anónimo",
+"fecha": "2026-11-14T11:42:15"
+},
+{
+"autor": "P.M.O.",
+"fecha": "2026-11-16T17:19:05"
+}
+]
 },
 {
 "titulo": "Agua con sabor desagradable",
@@ -14239,7 +14433,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "I.O.",
+"fecha": "2026-11-14T12:19:10"
+}
+]
 },
 {
 "titulo": "Meritos",
@@ -15131,7 +15330,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "M.U.U.",
+"fecha": "2026-11-11T11:21:22"
+}
+]
 },
 {
 "titulo": "Linea7 siempre FATAL en Wellinton",
@@ -15650,7 +15854,16 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "m.l.",
+"fecha": "2026-11-16T15:23:45"
+},
+{
+"autor": "A.R.S.",
+"fecha": "2026-11-16T17:00:45"
+}
+]
 },
 {
 "titulo": "Travesia en Aretxabaleta",
@@ -15872,6 +16085,18 @@
 "vecinos": [
 {
 "autor": "J.F.C.",
+"fecha": "2026-11-12T12:18:29"
+},
+{
+"autor": "ciudadanA",
+"fecha": "2026-11-12T12:48:01"
+},
+{
+"autor": "ciudadano",
+"fecha": "2026-11-12T14:21:02"
+},
+{
+"autor": "J.F.C.",
 "fecha": "2026-11-19T16:58:17"
 },
 {
@@ -15951,7 +16176,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "S.A.",
+"fecha": "2026-11-16T15:14:34"
+}
+]
 },
 {
 "titulo": "Basura The Factory",
@@ -16816,7 +17046,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "M.R.N.",
+"fecha": "2026-11-16T19:54:13"
+}
+]
 },
 {
 "titulo": "Aparcabicis",
@@ -17119,7 +17354,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "E.A.L.",
+"fecha": "2026-11-15T22:51:16"
+}
+]
 },
 {
 "titulo": "Estorninos zona colegio Ángel Gavinet",
@@ -18350,6 +18590,10 @@
 "reactivado": true,
 "vecinos": [
 {
+"autor": "A.R.Á.",
+"fecha": "2026-11-16T14:48:29"
+},
+{
 "autor": "G.R.",
 "fecha": "2026-11-20T10:12:40"
 }
@@ -19347,6 +19591,10 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
+{
+"autor": "X",
+"fecha": "2026-11-10T08:25:53"
+},
 {
 "autor": "I.O.T.",
 "fecha": "2026-11-20T11:43:33"
@@ -21987,6 +22235,14 @@
 "vecinos": [
 {
 "autor": "Vecino",
+"fecha": "2026-11-16T08:51:57"
+},
+{
+"autor": "r.a.y.",
+"fecha": "2026-11-16T10:37:34"
+},
+{
+"autor": "Vecino",
 "fecha": "2026-11-17T07:17:58"
 },
 {
@@ -22146,7 +22402,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "V.C.M.",
+"fecha": "2026-11-15T13:57:13"
+}
+]
 },
 {
 "titulo": "Línea BEi inaceptable",
@@ -22185,7 +22446,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "M.D.R.",
+"fecha": "2026-11-14T18:27:01"
+}
+]
 },
 {
 "titulo": "Felicitación conductora línea 7",
@@ -22219,7 +22485,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "J.A.",
+"fecha": "2026-11-13T20:25:16"
+}
+]
 },
 {
 "titulo": "L-11",
@@ -22253,7 +22524,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "M.S.",
+"fecha": "2026-11-13T08:12:46"
+}
+]
 },
 {
 "titulo": "Conducta inapropiada y falta de profesionalidad de un conductor",
@@ -22287,7 +22563,16 @@
 "n_participantes": 3,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "D.F.F.",
+"fecha": "2026-11-10T19:44:28"
+},
+{
+"autor": "L.M.M.",
+"fecha": "2026-11-13T00:31:38"
+}
+]
 },
 {
 "titulo": "Obras tranvía línea 10",
@@ -22321,7 +22606,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "E.I.S.",
+"fecha": "2026-11-12T18:02:16"
+}
+]
 },
 {
 "titulo": "Vergüenza linea 11",
@@ -22355,7 +22645,20 @@
 "n_participantes": 7,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "F.D.M.",
+"fecha": "2026-11-12T08:54:39"
+},
+{
+"autor": "Mariturri",
+"fecha": "2026-11-12T11:54:15"
+},
+{
+"autor": "A.P.",
+"fecha": "2026-11-12T16:05:17"
+}
+]
 },
 {
 "titulo": "Chofer de la línea 7",
@@ -22445,7 +22748,12 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": []
+"vecinos": [
+{
+"autor": "R.F.",
+"fecha": "2026-11-10T19:47:47"
+}
+]
 },
 {
 "titulo": "Vergüenza linea 9 7:15 de la mañana",
@@ -23126,6 +23434,14 @@
 "reactivado": false,
 "vecinos": [
 {
+"autor": "F.L.F.",
+"fecha": "2026-11-11T08:56:43"
+},
+{
+"autor": "J.A.S.",
+"fecha": "2026-11-11T08:56:43"
+},
+{
 "autor": "BiKoMaUx",
 "fecha": "2026-11-20T22:26:01"
 }
@@ -23417,6 +23733,18 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
+{
+"autor": "A.M",
+"fecha": "2026-11-10T11:58:38"
+},
+{
+"autor": "L.T.",
+"fecha": "2026-11-10T12:05:39"
+},
+{
+"autor": "A.M",
+"fecha": "2026-11-12T00:11:35"
+},
 {
 "autor": "A.M",
 "fecha": "2026-11-21T09:25:20"
@@ -24677,6 +25005,14 @@
 "canal": "movil",
 "reactivado": false,
 "vecinos": [
+{
+"autor": "mikel",
+"fecha": "2026-11-12T20:31:21"
+},
+{
+"autor": "mikel",
+"fecha": "2026-11-13T20:57:45"
+},
 {
 "autor": "mikel",
 "fecha": "2026-11-17T22:18:47"
