@@ -13657,14 +13657,6 @@
 "reactivado": false,
 "vecinos": [
 {
-"autor": "A",
-"fecha": "2026-11-18T14:46:25"
-},
-{
-"autor": "Andarin",
-"fecha": "2026-11-18T16:19:44"
-},
-{
 "autor": "A.G.M.",
 "fecha": "2026-11-19T00:16:52"
 }
@@ -13707,12 +13699,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.L.M.",
-"fecha": "2026-11-18T18:56:05"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Calle Roncesvalles siempre sucia",
@@ -13751,12 +13738,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "J.Z.P.",
-"fecha": "2026-11-18T19:15:36"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Limpieza y modernización de la C/ Doce de Octubre",
@@ -13795,12 +13777,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "B.G.L.",
-"fecha": "2026-11-18T17:30:51"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "contenedor caído en la calle nieves cano 6",
@@ -13839,12 +13816,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Errikarta",
-"fecha": "2026-11-18T15:24:42"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Zona verde llena de basura Ibaiondo",
@@ -13900,12 +13872,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "C.P.C.",
-"fecha": "2026-11-18T08:33:43"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Recogida de hojas en las aceras.",
@@ -14695,10 +14662,6 @@
 "vecinos": [
 {
 "autor": "Josefra",
-"fecha": "2026-11-18T11:29:57"
-},
-{
-"autor": "Josefra",
 "fecha": "2026-11-19T09:11:08"
 },
 {
@@ -15019,12 +14982,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "usuaria habitual de TUVISA",
-"fecha": "2026-11-18T14:08:36"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Linea 1 CIRCULAR",
@@ -15063,12 +15021,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.G.R.",
-"fecha": "2026-11-18T09:21:50"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Horario línea 10, atrasos",
@@ -17886,10 +17839,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "A.G.",
-"fecha": "2026-11-18T19:33:15"
-},
 {
 "autor": "A.G.",
 "fecha": "2026-11-19T08:30:47"
@@ -21953,12 +21902,7 @@
 "n_participantes": 4,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "B.G.",
-"fecha": "2026-11-18T08:28:16"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Foco de farola a punto de caer",
