@@ -16937,12 +16937,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.R.",
-"fecha": "2026-11-19T16:04:37"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suciedad en la calle Jerónimo Roure 32",
@@ -17134,12 +17129,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "L.A.B.",
-"fecha": "2026-11-19T18:00:11"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Hojas",
@@ -17200,12 +17190,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.P.G.",
-"fecha": "2026-11-19T15:54:18"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Aviso a Policia Local - The Factory",
@@ -17288,12 +17273,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "T.I.",
-"fecha": "2026-11-19T12:33:26"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Gafas con retrovisores",
@@ -17408,12 +17388,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "S.G.G.",
-"fecha": "2026-11-19T10:01:20"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Linea 3. Añadir parada en San Ignacio",
@@ -17632,12 +17607,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "Jesus Rojo de San Jose",
-"fecha": "2026-11-19T08:38:53"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Linea 3. Añadir parada en San Ignacio",
@@ -17838,12 +17808,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.G.",
-"fecha": "2026-11-19T08:30:47"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Contenedores en el suelo",
@@ -17992,12 +17957,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.A.R.",
-"fecha": "2026-11-19T22:58:33"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "CONTENEDOR AMARILLO VOLCADO",
@@ -18014,12 +17974,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.A.R.",
-"fecha": "2026-11-19T22:52:47"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Línea 11",
@@ -18058,12 +18013,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.C.A.",
-"fecha": "2026-11-19T15:08:22"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Linea 3. Añadir parada en San Ignacio",
@@ -18795,12 +18745,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "A.A.M.",
-"fecha": "2026-11-19T09:40:35"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Palomas atrapadas",
@@ -19889,12 +19834,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "M.M.G.",
-"fecha": "2026-11-19T07:42:37"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "ÁRBOLES MEDIANA AVDA DE LOS HUETOS",
@@ -21573,12 +21513,7 @@
 "n_participantes": 2,
 "canal": "web",
 "reactivado": false,
-"vecinos": [
-{
-"autor": "E.B.G.",
-"fecha": "2026-11-19T20:56:40"
-}
-]
+"vecinos": []
 },
 {
 "titulo": "Suspensión linea especial al buesa arena",
@@ -21692,10 +21627,6 @@
 "canal": "web",
 "reactivado": false,
 "vecinos": [
-{
-"autor": "I.C.M.",
-"fecha": "2026-11-19T18:44:57"
-},
 {
 "autor": "R.C.M.",
 "fecha": "2026-11-20T11:19:16"
